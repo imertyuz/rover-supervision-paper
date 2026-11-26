@@ -1,0 +1,247 @@
+{
+  "scope": "Selected original serialized topic messages; original timestamps and blobs unchanged. SQLite containers newly constructed. No ROS playback metadata is provided; scripts directly read SQLite.",
+  "retained_topics": [
+    "/camera/perception/status",
+    "/fusion/status_v4",
+    "/safety_bridge/status",
+    "/mavros/state",
+    "/mavros/imu/data",
+    "/lidar/sectors",
+    "/lidar/sectors_status",
+    "/lidar/navigation_status",
+    "/mavros/local_position/velocity_body"
+  ],
+  "databases": [
+    {
+      "source": "revision_stage1_check/data/logs/R15_FIELDKIT/20261025T093927_992880Z_MISSION_20261025T093856_685142_ANALYSIS_unpacked/20261025T093927_992880Z_MISSION_20261025T093856_685142/analysis/analysis_0.db3",
+      "output": "revision_stage1_check/data/logs/R15_FIELDKIT/20261025T093927_992880Z_MISSION_20261025T093856_685142_ANALYSIS_unpacked/20261025T093927_992880Z_MISSION_20261025T093856_685142/analysis/analysis_0.db3",
+      "messages": 3812,
+      "source_sha256": "de4d3dd6d08edc22b165bf3a0a0f747a8a12708cebb9badde506c0a7ae948913",
+      "export_sha256": "b60cf2578c59616a7506797f70ea8ff671e59d8fd06f766dede1c8af98d3d65f"
+    },
+    {
+      "source": "revision_stage1_check/data/logs/R15_FIELDKIT/20261025T093927_992880Z_MISSION_20261025T093856_685142_ANALYSIS_unpacked/20261025T093927_992880Z_MISSION_20261025T093856_685142/analysis/analysis_1.db3",
+      "output": "revision_stage1_check/data/logs/R15_FIELDKIT/20261025T093927_992880Z_MISSION_20261025T093856_685142_ANALYSIS_unpacked/20261025T093927_992880Z_MISSION_20261025T093856_685142/analysis/analysis_1.db3",
+      "messages": 4076,
+      "source_sha256": "281f11dbbd25a4a86200ac8da143a78b249433ae24936a5e2415b5d952b42e39",
+      "export_sha256": "c7eb20deb6b709a9c2917937c292d0f83564ef32da3d8f72a95b4c6c5a995445"
+    },
+    {
+      "source": "revision_stage1_check/data/logs/R15_FIELDKIT/20261025T093927_992880Z_MISSION_20261025T093856_685142_ANALYSIS_unpacked/20261025T093927_992880Z_MISSION_20261025T093856_685142/analysis/analysis_2.db3",
+      "output": "revision_stage1_check/data/logs/R15_FIELDKIT/20261025T093927_992880Z_MISSION_20261025T093856_685142_ANALYSIS_unpacked/20261025T093927_992880Z_MISSION_20261025T093856_685142/analysis/analysis_2.db3",
+      "messages": 4074,
+      "source_sha256": "b12a67860f0d83283d93c00ea19c73075cc9089452b80c269ea16a886e0c79e9",
+      "export_sha256": "e318ca8111766572ce8562a79ea25b3ec0b659269d939c34bcfba88da03179b9"
+    },
+    {
+      "source": "revision_stage1_check/data/logs/R15_FIELDKIT/20261025T093927_992880Z_MISSION_20261025T093856_685142_ANALYSIS_unpacked/20261025T093927_992880Z_MISSION_20261025T093856_685142/analysis/analysis_3.db3",
+      "output": "revision_stage1_check/data/logs/R15_FIELDKIT/20261025T093927_992880Z_MISSION_20261025T093856_685142_ANALYSIS_unpacked/20261025T093927_992880Z_MISSION_20261025T093856_685142/analysis/analysis_3.db3",
+      "messages": 4082,
+      "source_sha256": "534993f47ec7bf361150e10f643356718134bd9739007c1d551560631cc591fb",
+      "export_sha256": "dbe87996f8c9f05f32be0ce428f869a22d013748eef218d98d53e5bbdfe874c8"
+    },
+    {
+      "source": "revision_stage1_check/data/logs/R15_FIELDKIT/20261025T093927_992880Z_MISSION_20261025T093856_685142_ANALYSIS_unpacked/20261025T093927_992880Z_MISSION_20261025T093856_685142/analysis/analysis_4.db3",
+      "output": "revision_stage1_check/data/logs/R15_FIELDKIT/20261025T093927_992880Z_MISSION_20261025T093856_685142_ANALYSIS_unpacked/20261025T093927_992880Z_MISSION_20261025T093856_685142/analysis/analysis_4.db3",
+      "messages": 4072,
+      "source_sha256": "9a38898c0882c5905ab8fe7fff7e521249ded458bda77391688055aa149fb3d2",
+      "export_sha256": "164eb31d2278256138c5a8e294adc885d333ce8177ff0ec541c0fe35163f04db"
+    },
+    {
+      "source": "revision_stage1_check/data/logs/R15_FIELDKIT/20261025T093927_992880Z_MISSION_20261025T093856_685142_ANALYSIS_unpacked/20261025T093927_992880Z_MISSION_20261025T093856_685142/analysis/analysis_5.db3",
+      "output": "revision_stage1_check/data/logs/R15_FIELDKIT/20261025T093927_992880Z_MISSION_20261025T093856_685142_ANALYSIS_unpacked/20261025T093927_992880Z_MISSION_20261025T093856_685142/analysis/analysis_5.db3",
+      "messages": 4075,
+      "source_sha256": "ed08860380d3b4f1e39fd147da275b15b83e2354672c213ff8e03db0c125e54d",
+      "export_sha256": "4e7bf24c38db678907dd89501254f331dedc041b0df105125616858906ae8019"
+    },
+    {
+      "source": "revision_stage1_check/data/logs/R15_FIELDKIT/20261025T093927_992880Z_MISSION_20261025T093856_685142_ANALYSIS_unpacked/20261025T093927_992880Z_MISSION_20261025T093856_685142/analysis/analysis_6.db3",
+      "output": "revision_stage1_check/data/logs/R15_FIELDKIT/20261025T093927_992880Z_MISSION_20261025T093856_685142_ANALYSIS_unpacked/20261025T093927_992880Z_MISSION_20261025T093856_685142/analysis/analysis_6.db3",
+      "messages": 4063,
+      "source_sha256": "138fbe109b56f9c6ef61bace1ef9fc4c96a81e12f474de8815251ea2b04a86de",
+      "export_sha256": "6c99ff0528cb48ae69bc59e438148621c6dc3e64bbb091af64cfbf395e82154b"
+    },
+    {
+      "source": "revision_stage1_check/data/logs/R15_FIELDKIT/20261025T093927_992880Z_MISSION_20261025T093856_685142_ANALYSIS_unpacked/20261025T093927_992880Z_MISSION_20261025T093856_685142/analysis/analysis_7.db3",
+      "output": "revision_stage1_check/data/logs/R15_FIELDKIT/20261025T093927_992880Z_MISSION_20261025T093856_685142_ANALYSIS_unpacked/20261025T093927_992880Z_MISSION_20261025T093856_685142/analysis/analysis_7.db3",
+      "messages": 3807,
+      "source_sha256": "5a379065d005015ebbecdaf7ba970703f827dd005f9bbce5c386e26223dec1b2",
+      "export_sha256": "30e2537c0fafa0df286c30f6dd5fed3d56bc91f4111fcec78eb16520c7a167c2"
+    },
+    {
+      "source": "revision_stage1_check/data/logs/R15_FIELDKIT/20261025T095726_245534Z_MISSION_20261025T095656_324958_ANALYSIS_unpacked/20261025T095726_245534Z_MISSION_20261025T095656_324958/analysis/analysis_0.db3",
+      "output": "revision_stage1_check/data/logs/R15_FIELDKIT/20261025T095726_245534Z_MISSION_20261025T095656_324958_ANALYSIS_unpacked/20261025T095726_245534Z_MISSION_20261025T095656_324958/analysis/analysis_0.db3",
+      "messages": 4015,
+      "source_sha256": "d54487b59ea6654d1e4aa40fb7a1711ca5fb4fa892ec2087f5da1f03ee2ac1da",
+      "export_sha256": "7abce433567c7a20606ae3208142b1e61e4c8a48f305732af12e0fe9939f86fa"
+    },
+    {
+      "source": "revision_stage1_check/data/logs/R15_FIELDKIT/20261025T095726_245534Z_MISSION_20261025T095656_324958_ANALYSIS_unpacked/20261025T095726_245534Z_MISSION_20261025T095656_324958/analysis/analysis_1.db3",
+      "output": "revision_stage1_check/data/logs/R15_FIELDKIT/20261025T095726_245534Z_MISSION_20261025T095656_324958_ANALYSIS_unpacked/20261025T095726_245534Z_MISSION_20261025T095656_324958/analysis/analysis_1.db3",
+      "messages": 4083,
+      "source_sha256": "2de438e4495e16bb5579fb45bd382f257f324d9c812a534c964883d467c74a78",
+      "export_sha256": "9bd91f2259a31a7980e596216fc6d23ba0c3a77552f949d79e0b244b53e7ae0a"
+    },
+    {
+      "source": "revision_stage1_check/data/logs/R15_FIELDKIT/20261025T095726_245534Z_MISSION_20261025T095656_324958_ANALYSIS_unpacked/20261025T095726_245534Z_MISSION_20261025T095656_324958/analysis/analysis_2.db3",
+      "output": "revision_stage1_check/data/logs/R15_FIELDKIT/20261025T095726_245534Z_MISSION_20261025T095656_324958_ANALYSIS_unpacked/20261025T095726_245534Z_MISSION_20261025T095656_324958/analysis/analysis_2.db3",
+      "messages": 4073,
+      "source_sha256": "c12128cc496665e02ff5ab9468c0d2fbec72feb4604a49767c212895d36d87d4",
+      "export_sha256": "2fbb6c2a10f08d42fe4668100dae1ea4698ecb7600b380206334ae007ce8d586"
+    },
+    {
+      "source": "revision_stage1_check/data/logs/R15_FIELDKIT/20261025T095726_245534Z_MISSION_20261025T095656_324958_ANALYSIS_unpacked/20261025T095726_245534Z_MISSION_20261025T095656_324958/analysis/analysis_3.db3",
+      "output": "revision_stage1_check/data/logs/R15_FIELDKIT/20261025T095726_245534Z_MISSION_20261025T095656_324958_ANALYSIS_unpacked/20261025T095726_245534Z_MISSION_20261025T095656_324958/analysis/analysis_3.db3",
+      "messages": 4076,
+      "source_sha256": "8ecf615dbd4d80dbfe80fabf4601b1aae5944e41b55a5e64b0f48c9e6eef2a63",
+      "export_sha256": "c4bd2c58b9d6e1a4a438584b171ed45c2321258604026cdc3620cc3b901ec840"
+    },
+    {
+      "source": "revision_stage1_check/data/logs/R15_FIELDKIT/20261025T095726_245534Z_MISSION_20261025T095656_324958_ANALYSIS_unpacked/20261025T095726_245534Z_MISSION_20261025T095656_324958/analysis/analysis_4.db3",
+      "output": "revision_stage1_check/data/logs/R15_FIELDKIT/20261025T095726_245534Z_MISSION_20261025T095656_324958_ANALYSIS_unpacked/20261025T095726_245534Z_MISSION_20261025T095656_324958/analysis/analysis_4.db3",
+      "messages": 4080,
+      "source_sha256": "a4291ca92d668a5a015cdb09719d0b6fb361ab13eb84d9dfd8f5ada05f2ce6d6",
+      "export_sha256": "0ce470aa9129fd10222af50ab4cd8e5a90aca3dd989453b2d548344ff67b4243"
+    },
+    {
+      "source": "revision_stage1_check/data/logs/R15_FIELDKIT/20261025T095726_245534Z_MISSION_20261025T095656_324958_ANALYSIS_unpacked/20261025T095726_245534Z_MISSION_20261025T095656_324958/analysis/analysis_5.db3",
+      "output": "revision_stage1_check/data/logs/R15_FIELDKIT/20261025T095726_245534Z_MISSION_20261025T095656_324958_ANALYSIS_unpacked/20261025T095726_245534Z_MISSION_20261025T095656_324958/analysis/analysis_5.db3",
+      "messages": 4073,
+      "source_sha256": "3e2a4e729c8f505b291088defbd8d560bbce8d5720b6c36a957a44eb60b8d631",
+      "export_sha256": "f09334851f926475f829112a411eb6bd8323a1123f8d88734a6af0d9e28adac6"
+    },
+    {
+      "source": "revision_stage1_check/data/logs/R15_FIELDKIT/20261025T095726_245534Z_MISSION_20261025T095656_324958_ANALYSIS_unpacked/20261025T095726_245534Z_MISSION_20261025T095656_324958/analysis/analysis_6.db3",
+      "output": "revision_stage1_check/data/logs/R15_FIELDKIT/20261025T095726_245534Z_MISSION_20261025T095656_324958_ANALYSIS_unpacked/20261025T095726_245534Z_MISSION_20261025T095656_324958/analysis/analysis_6.db3",
+      "messages": 3791,
+      "source_sha256": "d278a2aee943e180fb881b8d10ff6a2de520dbdb4c4a0b21e5630043ecb72c72",
+      "export_sha256": "3588f9f213e5175c2f8eb9bd1834c2474563cf5a3b2d9cd5d6e1a895a1cb8735"
+    },
+    {
+      "source": "revision_stage1_check/data/logs/R15_FIELDKIT/20261025T101253_753615Z_MISSION_20261025T101222_031804_ANALYSIS_unpacked/20261025T101253_753615Z_MISSION_20261025T101222_031804/analysis/analysis_0.db3",
+      "output": "revision_stage1_check/data/logs/R15_FIELDKIT/20261025T101253_753615Z_MISSION_20261025T101222_031804_ANALYSIS_unpacked/20261025T101253_753615Z_MISSION_20261025T101222_031804/analysis/analysis_0.db3",
+      "messages": 3919,
+      "source_sha256": "9846548a876c4b2ffd5c76518d7685bb0ce625f9ac0bef00bc2ee034b7c0b29a",
+      "export_sha256": "84f1405315d84a314cb405261a59ad496bf7376e0fb310a9030bad9d8e932816"
+    },
+    {
+      "source": "revision_stage1_check/data/logs/R15_FIELDKIT/20261025T101253_753615Z_MISSION_20261025T101222_031804_ANALYSIS_unpacked/20261025T101253_753615Z_MISSION_20261025T101222_031804/analysis/analysis_1.db3",
+      "output": "revision_stage1_check/data/logs/R15_FIELDKIT/20261025T101253_753615Z_MISSION_20261025T101222_031804_ANALYSIS_unpacked/20261025T101253_753615Z_MISSION_20261025T101222_031804/analysis/analysis_1.db3",
+      "messages": 4078,
+      "source_sha256": "8bdf27cd071268b25ffd3b16369b6760ea275a5690c65861a7d4de3e544f4731",
+      "export_sha256": "84c584c2f77cbdac471f530ce8043ec20757f36f745e3f2875b06eadcb765c15"
+    },
+    {
+      "source": "revision_stage1_check/data/logs/R15_FIELDKIT/20261025T101253_753615Z_MISSION_20261025T101222_031804_ANALYSIS_unpacked/20261025T101253_753615Z_MISSION_20261025T101222_031804/analysis/analysis_2.db3",
+      "output": "revision_stage1_check/data/logs/R15_FIELDKIT/20261025T101253_753615Z_MISSION_20261025T101222_031804_ANALYSIS_unpacked/20261025T101253_753615Z_MISSION_20261025T101222_031804/analysis/analysis_2.db3",
+      "messages": 4077,
+      "source_sha256": "1fe1c578384b6773fe8d05017096b6825de995ba995879ce5abf222d6e7865c8",
+      "export_sha256": "f18490124663098ec5dab7f9216567863c8267ee892c4248dc017f2edcc61b1d"
+    },
+    {
+      "source": "revision_stage1_check/data/logs/R15_FIELDKIT/20261025T101253_753615Z_MISSION_20261025T101222_031804_ANALYSIS_unpacked/20261025T101253_753615Z_MISSION_20261025T101222_031804/analysis/analysis_3.db3",
+      "output": "revision_stage1_check/data/logs/R15_FIELDKIT/20261025T101253_753615Z_MISSION_20261025T101222_031804_ANALYSIS_unpacked/20261025T101253_753615Z_MISSION_20261025T101222_031804/analysis/analysis_3.db3",
+      "messages": 4071,
+      "source_sha256": "9a088ced22d8d30f6d282f8c0bc5ff95791c8c439977143b53219e9f73cf7259",
+      "export_sha256": "f66d25cae40b585387ff87812a6ab0b221768a8a232eda147f1cd0ba4ad282d8"
+    },
+    {
+      "source": "revision_stage1_check/data/logs/R15_FIELDKIT/20261025T101253_753615Z_MISSION_20261025T101222_031804_ANALYSIS_unpacked/20261025T101253_753615Z_MISSION_20261025T101222_031804/analysis/analysis_4.db3",
+      "output": "revision_stage1_check/data/logs/R15_FIELDKIT/20261025T101253_753615Z_MISSION_20261025T101222_031804_ANALYSIS_unpacked/20261025T101253_753615Z_MISSION_20261025T101222_031804/analysis/analysis_4.db3",
+      "messages": 4068,
+      "source_sha256": "b7da8ecc9a1ecdb44b62a674bde454a85b2e0e64ebd26f492ac21c989a8debef",
+      "export_sha256": "c1794d1b41a544cde3a7430ab033113139bb33258541f55ca8738f4984b46360"
+    },
+    {
+      "source": "revision_stage1_check/data/logs/R15_FIELDKIT/20261025T101253_753615Z_MISSION_20261025T101222_031804_ANALYSIS_unpacked/20261025T101253_753615Z_MISSION_20261025T101222_031804/analysis/analysis_5.db3",
+      "output": "revision_stage1_check/data/logs/R15_FIELDKIT/20261025T101253_753615Z_MISSION_20261025T101222_031804_ANALYSIS_unpacked/20261025T101253_753615Z_MISSION_20261025T101222_031804/analysis/analysis_5.db3",
+      "messages": 4070,
+      "source_sha256": "bbbc7c3edcbd1525ddb62977f27e2e646e4f0b4fa0c842914354c2b239f9be14",
+      "export_sha256": "41998ccef11910bb614d552275b3b8d41fae47851e263a60d4c8a4392a77fe0a"
+    },
+    {
+      "source": "revision_stage1_check/data/logs/R15_FIELDKIT/20261025T101253_753615Z_MISSION_20261025T101222_031804_ANALYSIS_unpacked/20261025T101253_753615Z_MISSION_20261025T101222_031804/analysis/analysis_6.db3",
+      "output": "revision_stage1_check/data/logs/R15_FIELDKIT/20261025T101253_753615Z_MISSION_20261025T101222_031804_ANALYSIS_unpacked/20261025T101253_753615Z_MISSION_20261025T101222_031804/analysis/analysis_6.db3",
+      "messages": 4063,
+      "source_sha256": "e3e10392714670f30a92c22ac61e52bc9d5f23886445cbb4779a75b67546f82a",
+      "export_sha256": "897aadc746762a73430e9751cf0d01ae2375f5fc86e389a4c802c2c4e8996ca8"
+    },
+    {
+      "source": "revision_stage1_check/data/logs/R15_FIELDKIT/20261025T101253_753615Z_MISSION_20261025T101222_031804_ANALYSIS_unpacked/20261025T101253_753615Z_MISSION_20261025T101222_031804/analysis/analysis_7.db3",
+      "output": "revision_stage1_check/data/logs/R15_FIELDKIT/20261025T101253_753615Z_MISSION_20261025T101222_031804_ANALYSIS_unpacked/20261025T101253_753615Z_MISSION_20261025T101222_031804/analysis/analysis_7.db3",
+      "messages": 3919,
+      "source_sha256": "81421a990d365c7640a09dae29453ddb94380fd265be40970d79239e60aecc8b",
+      "export_sha256": "9c4e784b6eb7034b838ba2826306f1913f154191f36da90b47a878771d190473"
+    },
+    {
+      "source": "revision_stage1_check/data/logs/R15_FIELDKIT/20261025T103450_824466Z_MISSION_20261025T103420_406168_ANALYSIS_unpacked/20261025T103450_824466Z_MISSION_20261025T103420_406168/analysis/analysis_0.db3",
+      "output": "revision_stage1_check/data/logs/R15_FIELDKIT/20261025T103450_824466Z_MISSION_20261025T103420_406168_ANALYSIS_unpacked/20261025T103450_824466Z_MISSION_20261025T103420_406168/analysis/analysis_0.db3",
+      "messages": 4031,
+      "source_sha256": "02b6ec9f18d65cf3be96fefbab3f4a560404f7d6e6994db171ef627ae743280f",
+      "export_sha256": "f1d70db554219161284bd822b0caadefe17ce33e90c8cb740c73a88a2a06c9d7"
+    },
+    {
+      "source": "revision_stage1_check/data/logs/R15_FIELDKIT/20261025T103450_824466Z_MISSION_20261025T103420_406168_ANALYSIS_unpacked/20261025T103450_824466Z_MISSION_20261025T103420_406168/analysis/analysis_1.db3",
+      "output": "revision_stage1_check/data/logs/R15_FIELDKIT/20261025T103450_824466Z_MISSION_20261025T103420_406168_ANALYSIS_unpacked/20261025T103450_824466Z_MISSION_20261025T103420_406168/analysis/analysis_1.db3",
+      "messages": 4079,
+      "source_sha256": "16e029053cd5b79a0539a154beef6f6d9a0f7ab107badbcb8b615536782c8c7b",
+      "export_sha256": "4955b5b45b58a9615c9f8c67acbf2085240f9a0e3c2b346f758fb0e7552cd813"
+    },
+    {
+      "source": "revision_stage1_check/data/logs/R15_FIELDKIT/20261025T103450_824466Z_MISSION_20261025T103420_406168_ANALYSIS_unpacked/20261025T103450_824466Z_MISSION_20261025T103420_406168/analysis/analysis_2.db3",
+      "output": "revision_stage1_check/data/logs/R15_FIELDKIT/20261025T103450_824466Z_MISSION_20261025T103420_406168_ANALYSIS_unpacked/20261025T103450_824466Z_MISSION_20261025T103420_406168/analysis/analysis_2.db3",
+      "messages": 4075,
+      "source_sha256": "69dfeaf15351be37dfe53e69f1e1bf15622049467dc102cbdccca5995bf188cd",
+      "export_sha256": "acba939cbf9e0705d20cb758aed93040d96d85d79b0c6bb8c95e4c2190a7cee6"
+    },
+    {
+      "source": "revision_stage1_check/data/logs/R15_FIELDKIT/20261025T103450_824466Z_MISSION_20261025T103420_406168_ANALYSIS_unpacked/20261025T103450_824466Z_MISSION_20261025T103420_406168/analysis/analysis_3.db3",
+      "output": "revision_stage1_check/data/logs/R15_FIELDKIT/20261025T103450_824466Z_MISSION_20261025T103420_406168_ANALYSIS_unpacked/20261025T103450_824466Z_MISSION_20261025T103420_406168/analysis/analysis_3.db3",
+      "messages": 4075,
+      "source_sha256": "2ace00ec9d3a9e7b9daffac188617706b3217213ccd9d609ac96264442827b1a",
+      "export_sha256": "18eaf8206fb274bb929f9c6e133d6999e1e9e4dad58a5fdba9a21ddd7bf3beb5"
+    },
+    {
+      "source": "revision_stage1_check/data/logs/R15_FIELDKIT/20261025T103450_824466Z_MISSION_20261025T103420_406168_ANALYSIS_unpacked/20261025T103450_824466Z_MISSION_20261025T103420_406168/analysis/analysis_4.db3",
+      "output": "revision_stage1_check/data/logs/R15_FIELDKIT/20261025T103450_824466Z_MISSION_20261025T103420_406168_ANALYSIS_unpacked/20261025T103450_824466Z_MISSION_20261025T103420_406168/analysis/analysis_4.db3",
+      "messages": 4070,
+      "source_sha256": "7059d67275cd86f7ea6f6e6c7c59ee988983cf920cdf6e621b47391b6847a168",
+      "export_sha256": "c57167ec4ef0c67d78052651ea2ed5c5fbbdc7c2b2a4936ef2ba95aa5fef88f5"
+    },
+    {
+      "source": "revision_stage1_check/data/logs/R15_FIELDKIT/20261025T103450_824466Z_MISSION_20261025T103420_406168_ANALYSIS_unpacked/20261025T103450_824466Z_MISSION_20261025T103420_406168/analysis/analysis_5.db3",
+      "output": "revision_stage1_check/data/logs/R15_FIELDKIT/20261025T103450_824466Z_MISSION_20261025T103420_406168_ANALYSIS_unpacked/20261025T103450_824466Z_MISSION_20261025T103420_406168/analysis/analysis_5.db3",
+      "messages": 4079,
+      "source_sha256": "f1a7061cb95c1d85fba896c317b30c07cd072ffdae743ba4aa7eaa6ab132a213",
+      "export_sha256": "c55c0038bbba181ac45273272fc3366f5e77a719879332d4c877f0e11b148f53"
+    },
+    {
+      "source": "revision_stage1_check/data/logs/R15_FIELDKIT/20261025T103450_824466Z_MISSION_20261025T103420_406168_ANALYSIS_unpacked/20261025T103450_824466Z_MISSION_20261025T103420_406168/analysis/analysis_6.db3",
+      "output": "revision_stage1_check/data/logs/R15_FIELDKIT/20261025T103450_824466Z_MISSION_20261025T103420_406168_ANALYSIS_unpacked/20261025T103450_824466Z_MISSION_20261025T103420_406168/analysis/analysis_6.db3",
+      "messages": 4076,
+      "source_sha256": "2086f57a3bc4bb488bd441a4dfb657dc04055bbafa1e887bad48d20e59cc05b1",
+      "export_sha256": "11b1a8f2ce13b9e1c846475c48839d2302eab993cda57f3d276bce68cd2d00ab"
+    },
+    {
+      "source": "revision_stage1_check/data/logs/R15_FIELDKIT/20261025T103450_824466Z_MISSION_20261025T103420_406168_ANALYSIS_unpacked/20261025T103450_824466Z_MISSION_20261025T103420_406168/analysis/analysis_7.db3",
+      "output": "revision_stage1_check/data/logs/R15_FIELDKIT/20261025T103450_824466Z_MISSION_20261025T103420_406168_ANALYSIS_unpacked/20261025T103450_824466Z_MISSION_20261025T103420_406168/analysis/analysis_7.db3",
+      "messages": 4067,
+      "source_sha256": "400dd9ac2fd34a2a4544d7d022136a3ad432e1a03b0e88a44ff5928a3d940d0d",
+      "export_sha256": "c9e339bf378561ae85ccb2a0197a0935475dfc0856da625e1d5c026524c0fe00"
+    },
+    {
+      "source": "revision_stage1_check/data/logs/R15_FIELDKIT/20261025T103450_824466Z_MISSION_20261025T103420_406168_ANALYSIS_unpacked/20261025T103450_824466Z_MISSION_20261025T103420_406168/analysis/analysis_8.db3",
+      "output": "revision_stage1_check/data/logs/R15_FIELDKIT/20261025T103450_824466Z_MISSION_20261025T103420_406168_ANALYSIS_unpacked/20261025T103450_824466Z_MISSION_20261025T103420_406168/analysis/analysis_8.db3",
+      "messages": 4076,
+      "source_sha256": "6108d2b796d93ce4f5b92c15e232518ed867fb91dd2650fa67b35f4a51835c36",
+      "export_sha256": "9eca8dfccb25eb1cea278d0f9028498913751fdafe0ac41fd134dfa7b2083d30"
+    },
+    {
+      "source": "revision_stage1_check/data/logs/R15_FIELDKIT/20261025T103450_824466Z_MISSION_20261025T103420_406168_ANALYSIS_unpacked/20261025T103450_824466Z_MISSION_20261025T103420_406168/analysis/analysis_9.db3",
+      "output": "revision_stage1_check/data/logs/R15_FIELDKIT/20261025T103450_824466Z_MISSION_20261025T103420_406168_ANALYSIS_unpacked/20261025T103450_824466Z_MISSION_20261025T103420_406168/analysis/analysis_9.db3",
+      "messages": 3397,
+      "source_sha256": "a8cd502dc9de1b0f333a7ad9c2baf535d0f7ac06ec3fa0a29de1e2f43dbd1bdb",
+      "export_sha256": "06c3a1fcb44977864c35184ee4f723af078df4f8e49737fb820f9247c353d5a1"
+    }
+  ]
+}

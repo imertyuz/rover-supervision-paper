@@ -1,0 +1,8 @@
+{
+  "revision_stage1_check/rover_project/workspace_src/fusion_node/fusion_node/fusion_v4.py": "0db295a2eca27f8fb1aae9be087ab41180811a455fa3314c95e82f525ab8e487",
+  "revision_stage1_check/rover_project/workspace_src/fusion_node/fusion_node/semantic_safety_bridge_v2.py": "7b05ad731fa9876fabc15b5385e660ed2cc3882376182f12416e2c3441722dd1",
+  "revision_stage1_check/rover_project/workspace_src/lidar_sector_node/lidar_sector_node/lidar_sector_node.py": "f06d2fafa57bfb656528634956f7cbcd8faf026d921a2683390dbb08df45efe8",
+  "revision_stage1_check/rover_project/workspace_src/lidar_sector_node/lidar_sector_node/lidar_obstacle_scan_node.py": "b5c632025163673aa3aa5f3f0fefe9f0c2fc49e9564643415298adc306b7ecb4",
+  "revision_stage1_check/rover_project/workspace_src/fusion_node/fusion_node/camera_perception_node_v3.py": "983822423a262e7e0c5cbe97bc44469c3c192e4337689e9f540d995a8714bcb5",
+  "revision_stage1_check/rover_project/workspace_src/fusion_node/fusion_node/camera_gpu_client.py": "8a437b04c919b01bc2b01101f4e206c19cbbfaa261fcfa0dd20b492670aedb70"
+}

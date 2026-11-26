@@ -1,0 +1,19 @@
+{
+  "offline_entrypoint": "run_temporal_analyses.sh",
+  "exit_code": 0,
+  "exact_reference_comparisons": {
+    "rate_phase/cohort_audit_results.json": true,
+    "rate_phase/rate_phase_results.json": true,
+    "rate_phase/p5_censor_aggregate.json": true,
+    "rate_phase/rate_phase_aggregate.json": true,
+    "rate_phase/cohort_audit_aggregate.json": true,
+    "rate_phase/p5_censor_results.json": true,
+    "thresholds/confirmation_trace.json": true,
+    "thresholds/confirmation_results.json": true,
+    "kappa/kappa_results.json": true,
+    "fusion_conformance.json (four moving missions)": true,
+    "bridge_conformance.json (four moving missions)": true
+  },
+  "excluded_record": "Fifth stationary recording is outside this four-moving-mission artifact.",
+  "latex": "No PDF compilation: local pdflatex format file unavailable."
+}

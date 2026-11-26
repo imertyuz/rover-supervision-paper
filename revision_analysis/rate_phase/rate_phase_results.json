@@ -1,0 +1,6301 @@
+[
+  {
+    "run": "MISSION_20261025T093856_685142",
+    "variant": "frozen_chain",
+    "period_s": 0.05,
+    "phase_fraction": 0,
+    "anchor_s": 1792921182.0499742,
+    "evaluations": 5688,
+    "person_runs": 0,
+    "Rm_person": 0,
+    "Rs_person": 0,
+    "available_camera_sources": 1092,
+    "sampled_available_camera_sources": 1092,
+    "unseen_available_camera_sources": 0,
+    "auto_evaluations": 5318,
+    "invalid_AUTO_evaluations": 2,
+    "source_bridge_requests": 1,
+    "message_bridge_requests": 1,
+    "source_person_requests": 0,
+    "message_person_requests": 0,
+    "person_episodes": [],
+    "source_requests": [
+      {
+        "t": 1792921562.3499742,
+        "action": "HOLD_REQUESTED_INVALID_FAILSAFE"
+      }
+    ],
+    "message_requests": [
+      {
+        "t": 1792921562.3499742,
+        "action": "HOLD_REQUESTED_INVALID_FAILSAFE"
+      }
+    ],
+    "states": {
+      "CLEAR": 4884,
+      "CAUTION": 797,
+      "INVALID": 7
+    }
+  },
+  {
+    "run": "MISSION_20261025T093856_685142",
+    "variant": "frozen_chain",
+    "period_s": 0.05,
+    "phase_fraction": 0.25,
+    "anchor_s": 1792921182.0499742,
+    "evaluations": 5688,
+    "person_runs": 0,
+    "Rm_person": 0,
+    "Rs_person": 0,
+    "available_camera_sources": 1092,
+    "sampled_available_camera_sources": 1092,
+    "unseen_available_camera_sources": 0,
+    "auto_evaluations": 5318,
+    "invalid_AUTO_evaluations": 2,
+    "source_bridge_requests": 1,
+    "message_bridge_requests": 1,
+    "source_person_requests": 0,
+    "message_person_requests": 0,
+    "person_episodes": [],
+    "source_requests": [
+      {
+        "t": 1792921562.3624742,
+        "action": "HOLD_REQUESTED_INVALID_FAILSAFE"
+      }
+    ],
+    "message_requests": [
+      {
+        "t": 1792921562.3624742,
+        "action": "HOLD_REQUESTED_INVALID_FAILSAFE"
+      }
+    ],
+    "states": {
+      "CLEAR": 4885,
+      "CAUTION": 796,
+      "INVALID": 7
+    }
+  },
+  {
+    "run": "MISSION_20261025T093856_685142",
+    "variant": "frozen_chain",
+    "period_s": 0.05,
+    "phase_fraction": 0.5,
+    "anchor_s": 1792921182.0499742,
+    "evaluations": 5687,
+    "person_runs": 0,
+    "Rm_person": 0,
+    "Rs_person": 0,
+    "available_camera_sources": 1092,
+    "sampled_available_camera_sources": 1092,
+    "unseen_available_camera_sources": 0,
+    "auto_evaluations": 5317,
+    "invalid_AUTO_evaluations": 3,
+    "source_bridge_requests": 1,
+    "message_bridge_requests": 1,
+    "source_person_requests": 0,
+    "message_person_requests": 0,
+    "person_episodes": [],
+    "source_requests": [
+      {
+        "t": 1792921562.3249743,
+        "action": "HOLD_REQUESTED_INVALID_FAILSAFE"
+      }
+    ],
+    "message_requests": [
+      {
+        "t": 1792921562.3249743,
+        "action": "HOLD_REQUESTED_INVALID_FAILSAFE"
+      }
+    ],
+    "states": {
+      "CLEAR": 4883,
+      "CAUTION": 797,
+      "INVALID": 7
+    }
+  },
+  {
+    "run": "MISSION_20261025T093856_685142",
+    "variant": "frozen_chain",
+    "period_s": 0.05,
+    "phase_fraction": 0.75,
+    "anchor_s": 1792921182.0499742,
+    "evaluations": 5687,
+    "person_runs": 0,
+    "Rm_person": 0,
+    "Rs_person": 0,
+    "available_camera_sources": 1092,
+    "sampled_available_camera_sources": 1092,
+    "unseen_available_camera_sources": 0,
+    "auto_evaluations": 5317,
+    "invalid_AUTO_evaluations": 2,
+    "source_bridge_requests": 1,
+    "message_bridge_requests": 1,
+    "source_person_requests": 0,
+    "message_person_requests": 0,
+    "person_episodes": [],
+    "source_requests": [
+      {
+        "t": 1792921562.337474,
+        "action": "HOLD_REQUESTED_INVALID_FAILSAFE"
+      }
+    ],
+    "message_requests": [
+      {
+        "t": 1792921562.337474,
+        "action": "HOLD_REQUESTED_INVALID_FAILSAFE"
+      }
+    ],
+    "states": {
+      "CLEAR": 4875,
+      "CAUTION": 805,
+      "INVALID": 7
+    }
+  },
+  {
+    "run": "MISSION_20261025T093856_685142",
+    "variant": "frozen_chain",
+    "period_s": 0.1,
+    "phase_fraction": 0,
+    "anchor_s": 1792921182.0499742,
+    "evaluations": 2844,
+    "person_runs": 0,
+    "Rm_person": 0,
+    "Rs_person": 0,
+    "available_camera_sources": 1092,
+    "sampled_available_camera_sources": 1092,
+    "unseen_available_camera_sources": 0,
+    "auto_evaluations": 2659,
+    "invalid_AUTO_evaluations": 1,
+    "source_bridge_requests": 1,
+    "message_bridge_requests": 1,
+    "source_person_requests": 0,
+    "message_person_requests": 0,
+    "person_episodes": [],
+    "source_requests": [
+      {
+        "t": 1792921562.3499742,
+        "action": "HOLD_REQUESTED_INVALID_FAILSAFE"
+      }
+    ],
+    "message_requests": [
+      {
+        "t": 1792921562.3499742,
+        "action": "HOLD_REQUESTED_INVALID_FAILSAFE"
+      }
+    ],
+    "states": {
+      "CLEAR": 2442,
+      "CAUTION": 398,
+      "INVALID": 4
+    }
+  },
+  {
+    "run": "MISSION_20261025T093856_685142",
+    "variant": "frozen_chain",
+    "period_s": 0.1,
+    "phase_fraction": 0.25,
+    "anchor_s": 1792921182.0499742,
+    "evaluations": 2843,
+    "person_runs": 0,
+    "Rm_person": 0,
+    "Rs_person": 0,
+    "available_camera_sources": 1092,
+    "sampled_available_camera_sources": 1092,
+    "unseen_available_camera_sources": 0,
+    "auto_evaluations": 2658,
+    "invalid_AUTO_evaluations": 1,
+    "source_bridge_requests": 1,
+    "message_bridge_requests": 1,
+    "source_person_requests": 0,
+    "message_person_requests": 0,
+    "person_episodes": [],
+    "source_requests": [
+      {
+        "t": 1792921562.3749743,
+        "action": "HOLD_REQUESTED_INVALID_FAILSAFE"
+      }
+    ],
+    "message_requests": [
+      {
+        "t": 1792921562.3749743,
+        "action": "HOLD_REQUESTED_INVALID_FAILSAFE"
+      }
+    ],
+    "states": {
+      "CLEAR": 2441,
+      "CAUTION": 399,
+      "INVALID": 3
+    }
+  },
+  {
+    "run": "MISSION_20261025T093856_685142",
+    "variant": "frozen_chain",
+    "period_s": 0.1,
+    "phase_fraction": 0.5,
+    "anchor_s": 1792921182.0499742,
+    "evaluations": 2844,
+    "person_runs": 0,
+    "Rm_person": 0,
+    "Rs_person": 0,
+    "available_camera_sources": 1092,
+    "sampled_available_camera_sources": 1092,
+    "unseen_available_camera_sources": 0,
+    "auto_evaluations": 2659,
+    "invalid_AUTO_evaluations": 1,
+    "source_bridge_requests": 1,
+    "message_bridge_requests": 1,
+    "source_person_requests": 0,
+    "message_person_requests": 0,
+    "person_episodes": [],
+    "source_requests": [
+      {
+        "t": 1792921562.399974,
+        "action": "HOLD_REQUESTED_INVALID_FAILSAFE"
+      }
+    ],
+    "message_requests": [
+      {
+        "t": 1792921562.399974,
+        "action": "HOLD_REQUESTED_INVALID_FAILSAFE"
+      }
+    ],
+    "states": {
+      "CLEAR": 2442,
+      "CAUTION": 399,
+      "INVALID": 3
+    }
+  },
+  {
+    "run": "MISSION_20261025T093856_685142",
+    "variant": "frozen_chain",
+    "period_s": 0.1,
+    "phase_fraction": 0.75,
+    "anchor_s": 1792921182.0499742,
+    "evaluations": 2844,
+    "person_runs": 0,
+    "Rm_person": 0,
+    "Rs_person": 0,
+    "available_camera_sources": 1092,
+    "sampled_available_camera_sources": 1092,
+    "unseen_available_camera_sources": 0,
+    "auto_evaluations": 2659,
+    "invalid_AUTO_evaluations": 2,
+    "source_bridge_requests": 1,
+    "message_bridge_requests": 1,
+    "source_person_requests": 0,
+    "message_person_requests": 0,
+    "person_episodes": [],
+    "source_requests": [
+      {
+        "t": 1792921562.3249743,
+        "action": "HOLD_REQUESTED_INVALID_FAILSAFE"
+      }
+    ],
+    "message_requests": [
+      {
+        "t": 1792921562.3249743,
+        "action": "HOLD_REQUESTED_INVALID_FAILSAFE"
+      }
+    ],
+    "states": {
+      "CLEAR": 2442,
+      "CAUTION": 398,
+      "INVALID": 4
+    }
+  },
+  {
+    "run": "MISSION_20261025T093856_685142",
+    "variant": "frozen_chain",
+    "period_s": 0.2,
+    "phase_fraction": 0,
+    "anchor_s": 1792921182.0499742,
+    "evaluations": 1422,
+    "person_runs": 0,
+    "Rm_person": 0,
+    "Rs_person": 0,
+    "available_camera_sources": 1092,
+    "sampled_available_camera_sources": 1087,
+    "unseen_available_camera_sources": 5,
+    "auto_evaluations": 1329,
+    "invalid_AUTO_evaluations": 0,
+    "source_bridge_requests": 0,
+    "message_bridge_requests": 0,
+    "source_person_requests": 0,
+    "message_person_requests": 0,
+    "person_episodes": [],
+    "source_requests": [],
+    "message_requests": [],
+    "states": {
+      "CLEAR": 1225,
+      "CAUTION": 195,
+      "INVALID": 2
+    }
+  },
+  {
+    "run": "MISSION_20261025T093856_685142",
+    "variant": "frozen_chain",
+    "period_s": 0.2,
+    "phase_fraction": 0.25,
+    "anchor_s": 1792921182.0499742,
+    "evaluations": 1422,
+    "person_runs": 0,
+    "Rm_person": 0,
+    "Rs_person": 0,
+    "available_camera_sources": 1092,
+    "sampled_available_camera_sources": 1087,
+    "unseen_available_camera_sources": 5,
+    "auto_evaluations": 1329,
+    "invalid_AUTO_evaluations": 0,
+    "source_bridge_requests": 0,
+    "message_bridge_requests": 0,
+    "source_person_requests": 0,
+    "message_person_requests": 0,
+    "person_episodes": [],
+    "source_requests": [],
+    "message_requests": [],
+    "states": {
+      "CLEAR": 1217,
+      "CAUTION": 204,
+      "INVALID": 1
+    }
+  },
+  {
+    "run": "MISSION_20261025T093856_685142",
+    "variant": "frozen_chain",
+    "period_s": 0.2,
+    "phase_fraction": 0.5,
+    "anchor_s": 1792921182.0499742,
+    "evaluations": 1422,
+    "person_runs": 0,
+    "Rm_person": 0,
+    "Rs_person": 0,
+    "available_camera_sources": 1092,
+    "sampled_available_camera_sources": 1089,
+    "unseen_available_camera_sources": 3,
+    "auto_evaluations": 1330,
+    "invalid_AUTO_evaluations": 1,
+    "source_bridge_requests": 1,
+    "message_bridge_requests": 1,
+    "source_person_requests": 0,
+    "message_person_requests": 0,
+    "person_episodes": [],
+    "source_requests": [
+      {
+        "t": 1792921562.3499742,
+        "action": "HOLD_REQUESTED_INVALID_FAILSAFE"
+      }
+    ],
+    "message_requests": [
+      {
+        "t": 1792921562.3499742,
+        "action": "HOLD_REQUESTED_INVALID_FAILSAFE"
+      }
+    ],
+    "states": {
+      "CLEAR": 1217,
+      "CAUTION": 203,
+      "INVALID": 2
+    }
+  },
+  {
+    "run": "MISSION_20261025T093856_685142",
+    "variant": "frozen_chain",
+    "period_s": 0.2,
+    "phase_fraction": 0.75,
+    "anchor_s": 1792921182.0499742,
+    "evaluations": 1422,
+    "person_runs": 0,
+    "Rm_person": 0,
+    "Rs_person": 0,
+    "available_camera_sources": 1092,
+    "sampled_available_camera_sources": 1089,
+    "unseen_available_camera_sources": 3,
+    "auto_evaluations": 1330,
+    "invalid_AUTO_evaluations": 1,
+    "source_bridge_requests": 1,
+    "message_bridge_requests": 1,
+    "source_person_requests": 0,
+    "message_person_requests": 0,
+    "person_episodes": [],
+    "source_requests": [
+      {
+        "t": 1792921562.3999743,
+        "action": "HOLD_REQUESTED_INVALID_FAILSAFE"
+      }
+    ],
+    "message_requests": [
+      {
+        "t": 1792921562.3999743,
+        "action": "HOLD_REQUESTED_INVALID_FAILSAFE"
+      }
+    ],
+    "states": {
+      "CLEAR": 1225,
+      "CAUTION": 195,
+      "INVALID": 2
+    }
+  },
+  {
+    "run": "MISSION_20261025T093856_685142",
+    "variant": "frozen_chain",
+    "period_s": 0.5,
+    "phase_fraction": 0,
+    "anchor_s": 1792921182.0499742,
+    "evaluations": 569,
+    "person_runs": 0,
+    "Rm_person": 0,
+    "Rs_person": 0,
+    "available_camera_sources": 1092,
+    "sampled_available_camera_sources": 568,
+    "unseen_available_camera_sources": 524,
+    "auto_evaluations": 532,
+    "invalid_AUTO_evaluations": 0,
+    "source_bridge_requests": 0,
+    "message_bridge_requests": 0,
+    "source_person_requests": 0,
+    "message_person_requests": 0,
+    "person_episodes": [],
+    "source_requests": [],
+    "message_requests": [],
+    "states": {
+      "CLEAR": 486,
+      "CAUTION": 82,
+      "INVALID": 1
+    }
+  },
+  {
+    "run": "MISSION_20261025T093856_685142",
+    "variant": "frozen_chain",
+    "period_s": 0.5,
+    "phase_fraction": 0.25,
+    "anchor_s": 1792921182.0499742,
+    "evaluations": 568,
+    "person_runs": 0,
+    "Rm_person": 0,
+    "Rs_person": 0,
+    "available_camera_sources": 1092,
+    "sampled_available_camera_sources": 568,
+    "unseen_available_camera_sources": 524,
+    "auto_evaluations": 531,
+    "invalid_AUTO_evaluations": 0,
+    "source_bridge_requests": 0,
+    "message_bridge_requests": 0,
+    "source_person_requests": 0,
+    "message_person_requests": 0,
+    "person_episodes": [],
+    "source_requests": [],
+    "message_requests": [],
+    "states": {
+      "CLEAR": 487,
+      "CAUTION": 81
+    }
+  },
+  {
+    "run": "MISSION_20261025T093856_685142",
+    "variant": "frozen_chain",
+    "period_s": 0.5,
+    "phase_fraction": 0.5,
+    "anchor_s": 1792921182.0499742,
+    "evaluations": 569,
+    "person_runs": 0,
+    "Rm_person": 0,
+    "Rs_person": 0,
+    "available_camera_sources": 1092,
+    "sampled_available_camera_sources": 568,
+    "unseen_available_camera_sources": 524,
+    "auto_evaluations": 532,
+    "invalid_AUTO_evaluations": 0,
+    "source_bridge_requests": 0,
+    "message_bridge_requests": 0,
+    "source_person_requests": 0,
+    "message_person_requests": 0,
+    "person_episodes": [],
+    "source_requests": [],
+    "message_requests": [],
+    "states": {
+      "CLEAR": 488,
+      "CAUTION": 81
+    }
+  },
+  {
+    "run": "MISSION_20261025T093856_685142",
+    "variant": "frozen_chain",
+    "period_s": 0.5,
+    "phase_fraction": 0.75,
+    "anchor_s": 1792921182.0499742,
+    "evaluations": 569,
+    "person_runs": 0,
+    "Rm_person": 0,
+    "Rs_person": 0,
+    "available_camera_sources": 1092,
+    "sampled_available_camera_sources": 568,
+    "unseen_available_camera_sources": 524,
+    "auto_evaluations": 532,
+    "invalid_AUTO_evaluations": 1,
+    "source_bridge_requests": 1,
+    "message_bridge_requests": 1,
+    "source_person_requests": 0,
+    "message_person_requests": 0,
+    "person_episodes": [],
+    "source_requests": [
+      {
+        "t": 1792921562.4249742,
+        "action": "HOLD_REQUESTED_INVALID_FAILSAFE"
+      }
+    ],
+    "message_requests": [
+      {
+        "t": 1792921562.4249742,
+        "action": "HOLD_REQUESTED_INVALID_FAILSAFE"
+      }
+    ],
+    "states": {
+      "CLEAR": 485,
+      "CAUTION": 83,
+      "INVALID": 1
+    }
+  },
+  {
+    "run": "MISSION_20261025T093856_685142",
+    "variant": "held_recorded_fusion",
+    "period_s": 0.05,
+    "phase_fraction": 0,
+    "anchor_s": 1792921182.0499742,
+    "evaluations": 5688,
+    "person_runs": 0,
+    "Rm_person": 0,
+    "Rs_person": 0,
+    "available_camera_sources": 1092,
+    "sampled_available_camera_sources": 1092,
+    "unseen_available_camera_sources": 0,
+    "auto_evaluations": 5318,
+    "invalid_AUTO_evaluations": 1,
+    "source_bridge_requests": 1,
+    "message_bridge_requests": 1,
+    "source_person_requests": 0,
+    "message_person_requests": 0,
+    "person_episodes": [],
+    "source_requests": [
+      {
+        "t": 1792921562.399974,
+        "action": "HOLD_REQUESTED_INVALID_FAILSAFE"
+      }
+    ],
+    "message_requests": [
+      {
+        "t": 1792921562.399974,
+        "action": "HOLD_REQUESTED_INVALID_FAILSAFE"
+      }
+    ],
+    "states": {
+      "CLEAR": 4886,
+      "CAUTION": 794,
+      "INVALID": 8
+    }
+  },
+  {
+    "run": "MISSION_20261025T093856_685142",
+    "variant": "held_recorded_fusion",
+    "period_s": 0.05,
+    "phase_fraction": 0.25,
+    "anchor_s": 1792921182.0499742,
+    "evaluations": 5688,
+    "person_runs": 0,
+    "Rm_person": 0,
+    "Rs_person": 0,
+    "available_camera_sources": 1092,
+    "sampled_available_camera_sources": 1092,
+    "unseen_available_camera_sources": 0,
+    "auto_evaluations": 5318,
+    "invalid_AUTO_evaluations": 2,
+    "source_bridge_requests": 1,
+    "message_bridge_requests": 1,
+    "source_person_requests": 0,
+    "message_person_requests": 0,
+    "person_episodes": [],
+    "source_requests": [
+      {
+        "t": 1792921562.3624742,
+        "action": "HOLD_REQUESTED_INVALID_FAILSAFE"
+      }
+    ],
+    "message_requests": [
+      {
+        "t": 1792921562.3624742,
+        "action": "HOLD_REQUESTED_INVALID_FAILSAFE"
+      }
+    ],
+    "states": {
+      "CLEAR": 4886,
+      "CAUTION": 793,
+      "INVALID": 9
+    }
+  },
+  {
+    "run": "MISSION_20261025T093856_685142",
+    "variant": "held_recorded_fusion",
+    "period_s": 0.05,
+    "phase_fraction": 0.5,
+    "anchor_s": 1792921182.0499742,
+    "evaluations": 5687,
+    "person_runs": 0,
+    "Rm_person": 0,
+    "Rs_person": 0,
+    "available_camera_sources": 1092,
+    "sampled_available_camera_sources": 1092,
+    "unseen_available_camera_sources": 0,
+    "auto_evaluations": 5317,
+    "invalid_AUTO_evaluations": 2,
+    "source_bridge_requests": 1,
+    "message_bridge_requests": 1,
+    "source_person_requests": 0,
+    "message_person_requests": 0,
+    "person_episodes": [],
+    "source_requests": [
+      {
+        "t": 1792921562.3749743,
+        "action": "HOLD_REQUESTED_INVALID_FAILSAFE"
+      }
+    ],
+    "message_requests": [
+      {
+        "t": 1792921562.3749743,
+        "action": "HOLD_REQUESTED_INVALID_FAILSAFE"
+      }
+    ],
+    "states": {
+      "CLEAR": 4885,
+      "CAUTION": 794,
+      "INVALID": 8
+    }
+  },
+  {
+    "run": "MISSION_20261025T093856_685142",
+    "variant": "held_recorded_fusion",
+    "period_s": 0.05,
+    "phase_fraction": 0.75,
+    "anchor_s": 1792921182.0499742,
+    "evaluations": 5687,
+    "person_runs": 0,
+    "Rm_person": 0,
+    "Rs_person": 0,
+    "available_camera_sources": 1092,
+    "sampled_available_camera_sources": 1092,
+    "unseen_available_camera_sources": 0,
+    "auto_evaluations": 5317,
+    "invalid_AUTO_evaluations": 1,
+    "source_bridge_requests": 1,
+    "message_bridge_requests": 1,
+    "source_person_requests": 0,
+    "message_person_requests": 0,
+    "person_episodes": [],
+    "source_requests": [
+      {
+        "t": 1792921562.387474,
+        "action": "HOLD_REQUESTED_INVALID_FAILSAFE"
+      }
+    ],
+    "message_requests": [
+      {
+        "t": 1792921562.387474,
+        "action": "HOLD_REQUESTED_INVALID_FAILSAFE"
+      }
+    ],
+    "states": {
+      "CLEAR": 4885,
+      "CAUTION": 794,
+      "INVALID": 8
+    }
+  },
+  {
+    "run": "MISSION_20261025T093856_685142",
+    "variant": "held_recorded_fusion",
+    "period_s": 0.1,
+    "phase_fraction": 0,
+    "anchor_s": 1792921182.0499742,
+    "evaluations": 2844,
+    "person_runs": 0,
+    "Rm_person": 0,
+    "Rs_person": 0,
+    "available_camera_sources": 1092,
+    "sampled_available_camera_sources": 1092,
+    "unseen_available_camera_sources": 0,
+    "auto_evaluations": 2659,
+    "invalid_AUTO_evaluations": 0,
+    "source_bridge_requests": 0,
+    "message_bridge_requests": 0,
+    "source_person_requests": 0,
+    "message_person_requests": 0,
+    "person_episodes": [],
+    "source_requests": [],
+    "message_requests": [],
+    "states": {
+      "CLEAR": 2443,
+      "CAUTION": 397,
+      "INVALID": 4
+    }
+  },
+  {
+    "run": "MISSION_20261025T093856_685142",
+    "variant": "held_recorded_fusion",
+    "period_s": 0.1,
+    "phase_fraction": 0.25,
+    "anchor_s": 1792921182.0499742,
+    "evaluations": 2843,
+    "person_runs": 0,
+    "Rm_person": 0,
+    "Rs_person": 0,
+    "available_camera_sources": 1092,
+    "sampled_available_camera_sources": 1092,
+    "unseen_available_camera_sources": 0,
+    "auto_evaluations": 2658,
+    "invalid_AUTO_evaluations": 1,
+    "source_bridge_requests": 1,
+    "message_bridge_requests": 1,
+    "source_person_requests": 0,
+    "message_person_requests": 0,
+    "person_episodes": [],
+    "source_requests": [
+      {
+        "t": 1792921562.3749743,
+        "action": "HOLD_REQUESTED_INVALID_FAILSAFE"
+      }
+    ],
+    "message_requests": [
+      {
+        "t": 1792921562.3749743,
+        "action": "HOLD_REQUESTED_INVALID_FAILSAFE"
+      }
+    ],
+    "states": {
+      "CLEAR": 2442,
+      "CAUTION": 397,
+      "INVALID": 4
+    }
+  },
+  {
+    "run": "MISSION_20261025T093856_685142",
+    "variant": "held_recorded_fusion",
+    "period_s": 0.1,
+    "phase_fraction": 0.5,
+    "anchor_s": 1792921182.0499742,
+    "evaluations": 2844,
+    "person_runs": 0,
+    "Rm_person": 0,
+    "Rs_person": 0,
+    "available_camera_sources": 1092,
+    "sampled_available_camera_sources": 1092,
+    "unseen_available_camera_sources": 0,
+    "auto_evaluations": 2659,
+    "invalid_AUTO_evaluations": 1,
+    "source_bridge_requests": 1,
+    "message_bridge_requests": 1,
+    "source_person_requests": 0,
+    "message_person_requests": 0,
+    "person_episodes": [],
+    "source_requests": [
+      {
+        "t": 1792921562.399974,
+        "action": "HOLD_REQUESTED_INVALID_FAILSAFE"
+      }
+    ],
+    "message_requests": [
+      {
+        "t": 1792921562.399974,
+        "action": "HOLD_REQUESTED_INVALID_FAILSAFE"
+      }
+    ],
+    "states": {
+      "CLEAR": 2443,
+      "CAUTION": 397,
+      "INVALID": 4
+    }
+  },
+  {
+    "run": "MISSION_20261025T093856_685142",
+    "variant": "held_recorded_fusion",
+    "period_s": 0.1,
+    "phase_fraction": 0.75,
+    "anchor_s": 1792921182.0499742,
+    "evaluations": 2844,
+    "person_runs": 0,
+    "Rm_person": 0,
+    "Rs_person": 0,
+    "available_camera_sources": 1092,
+    "sampled_available_camera_sources": 1092,
+    "unseen_available_camera_sources": 0,
+    "auto_evaluations": 2659,
+    "invalid_AUTO_evaluations": 1,
+    "source_bridge_requests": 1,
+    "message_bridge_requests": 1,
+    "source_person_requests": 0,
+    "message_person_requests": 0,
+    "person_episodes": [],
+    "source_requests": [
+      {
+        "t": 1792921562.4249742,
+        "action": "HOLD_REQUESTED_INVALID_FAILSAFE"
+      }
+    ],
+    "message_requests": [
+      {
+        "t": 1792921562.4249742,
+        "action": "HOLD_REQUESTED_INVALID_FAILSAFE"
+      }
+    ],
+    "states": {
+      "CLEAR": 2443,
+      "CAUTION": 397,
+      "INVALID": 4
+    }
+  },
+  {
+    "run": "MISSION_20261025T093856_685142",
+    "variant": "held_recorded_fusion",
+    "period_s": 0.2,
+    "phase_fraction": 0,
+    "anchor_s": 1792921182.0499742,
+    "evaluations": 1422,
+    "person_runs": 0,
+    "Rm_person": 0,
+    "Rs_person": 0,
+    "available_camera_sources": 1092,
+    "sampled_available_camera_sources": 1088,
+    "unseen_available_camera_sources": 4,
+    "auto_evaluations": 1329,
+    "invalid_AUTO_evaluations": 0,
+    "source_bridge_requests": 0,
+    "message_bridge_requests": 0,
+    "source_person_requests": 0,
+    "message_person_requests": 0,
+    "person_episodes": [],
+    "source_requests": [],
+    "message_requests": [],
+    "states": {
+      "CLEAR": 1217,
+      "CAUTION": 203,
+      "INVALID": 2
+    }
+  },
+  {
+    "run": "MISSION_20261025T093856_685142",
+    "variant": "held_recorded_fusion",
+    "period_s": 0.2,
+    "phase_fraction": 0.25,
+    "anchor_s": 1792921182.0499742,
+    "evaluations": 1422,
+    "person_runs": 0,
+    "Rm_person": 0,
+    "Rs_person": 0,
+    "available_camera_sources": 1092,
+    "sampled_available_camera_sources": 1088,
+    "unseen_available_camera_sources": 4,
+    "auto_evaluations": 1329,
+    "invalid_AUTO_evaluations": 0,
+    "source_bridge_requests": 0,
+    "message_bridge_requests": 0,
+    "source_person_requests": 0,
+    "message_person_requests": 0,
+    "person_episodes": [],
+    "source_requests": [],
+    "message_requests": [],
+    "states": {
+      "CLEAR": 1226,
+      "CAUTION": 194,
+      "INVALID": 2
+    }
+  },
+  {
+    "run": "MISSION_20261025T093856_685142",
+    "variant": "held_recorded_fusion",
+    "period_s": 0.2,
+    "phase_fraction": 0.5,
+    "anchor_s": 1792921182.0499742,
+    "evaluations": 1422,
+    "person_runs": 0,
+    "Rm_person": 0,
+    "Rs_person": 0,
+    "available_camera_sources": 1092,
+    "sampled_available_camera_sources": 1088,
+    "unseen_available_camera_sources": 4,
+    "auto_evaluations": 1330,
+    "invalid_AUTO_evaluations": 0,
+    "source_bridge_requests": 0,
+    "message_bridge_requests": 0,
+    "source_person_requests": 0,
+    "message_person_requests": 0,
+    "person_episodes": [],
+    "source_requests": [],
+    "message_requests": [],
+    "states": {
+      "CLEAR": 1226,
+      "CAUTION": 194,
+      "INVALID": 2
+    }
+  },
+  {
+    "run": "MISSION_20261025T093856_685142",
+    "variant": "held_recorded_fusion",
+    "period_s": 0.2,
+    "phase_fraction": 0.75,
+    "anchor_s": 1792921182.0499742,
+    "evaluations": 1422,
+    "person_runs": 0,
+    "Rm_person": 0,
+    "Rs_person": 0,
+    "available_camera_sources": 1092,
+    "sampled_available_camera_sources": 1088,
+    "unseen_available_camera_sources": 4,
+    "auto_evaluations": 1330,
+    "invalid_AUTO_evaluations": 1,
+    "source_bridge_requests": 1,
+    "message_bridge_requests": 1,
+    "source_person_requests": 0,
+    "message_person_requests": 0,
+    "person_episodes": [],
+    "source_requests": [
+      {
+        "t": 1792921562.3999743,
+        "action": "HOLD_REQUESTED_INVALID_FAILSAFE"
+      }
+    ],
+    "message_requests": [
+      {
+        "t": 1792921562.3999743,
+        "action": "HOLD_REQUESTED_INVALID_FAILSAFE"
+      }
+    ],
+    "states": {
+      "CLEAR": 1217,
+      "CAUTION": 203,
+      "INVALID": 2
+    }
+  },
+  {
+    "run": "MISSION_20261025T093856_685142",
+    "variant": "held_recorded_fusion",
+    "period_s": 0.5,
+    "phase_fraction": 0,
+    "anchor_s": 1792921182.0499742,
+    "evaluations": 569,
+    "person_runs": 0,
+    "Rm_person": 0,
+    "Rs_person": 0,
+    "available_camera_sources": 1092,
+    "sampled_available_camera_sources": 568,
+    "unseen_available_camera_sources": 524,
+    "auto_evaluations": 532,
+    "invalid_AUTO_evaluations": 0,
+    "source_bridge_requests": 0,
+    "message_bridge_requests": 0,
+    "source_person_requests": 0,
+    "message_person_requests": 0,
+    "person_episodes": [],
+    "source_requests": [],
+    "message_requests": [],
+    "states": {
+      "CLEAR": 486,
+      "CAUTION": 82,
+      "INVALID": 1
+    }
+  },
+  {
+    "run": "MISSION_20261025T093856_685142",
+    "variant": "held_recorded_fusion",
+    "period_s": 0.5,
+    "phase_fraction": 0.25,
+    "anchor_s": 1792921182.0499742,
+    "evaluations": 568,
+    "person_runs": 0,
+    "Rm_person": 0,
+    "Rs_person": 0,
+    "available_camera_sources": 1092,
+    "sampled_available_camera_sources": 567,
+    "unseen_available_camera_sources": 525,
+    "auto_evaluations": 531,
+    "invalid_AUTO_evaluations": 0,
+    "source_bridge_requests": 0,
+    "message_bridge_requests": 0,
+    "source_person_requests": 0,
+    "message_person_requests": 0,
+    "person_episodes": [],
+    "source_requests": [],
+    "message_requests": [],
+    "states": {
+      "CLEAR": 487,
+      "CAUTION": 80,
+      "INVALID": 1
+    }
+  },
+  {
+    "run": "MISSION_20261025T093856_685142",
+    "variant": "held_recorded_fusion",
+    "period_s": 0.5,
+    "phase_fraction": 0.5,
+    "anchor_s": 1792921182.0499742,
+    "evaluations": 569,
+    "person_runs": 0,
+    "Rm_person": 0,
+    "Rs_person": 0,
+    "available_camera_sources": 1092,
+    "sampled_available_camera_sources": 569,
+    "unseen_available_camera_sources": 523,
+    "auto_evaluations": 532,
+    "invalid_AUTO_evaluations": 0,
+    "source_bridge_requests": 0,
+    "message_bridge_requests": 0,
+    "source_person_requests": 0,
+    "message_person_requests": 0,
+    "person_episodes": [],
+    "source_requests": [],
+    "message_requests": [],
+    "states": {
+      "CLEAR": 496,
+      "CAUTION": 73
+    }
+  },
+  {
+    "run": "MISSION_20261025T093856_685142",
+    "variant": "held_recorded_fusion",
+    "period_s": 0.5,
+    "phase_fraction": 0.75,
+    "anchor_s": 1792921182.0499742,
+    "evaluations": 569,
+    "person_runs": 0,
+    "Rm_person": 0,
+    "Rs_person": 0,
+    "available_camera_sources": 1092,
+    "sampled_available_camera_sources": 568,
+    "unseen_available_camera_sources": 524,
+    "auto_evaluations": 532,
+    "invalid_AUTO_evaluations": 1,
+    "source_bridge_requests": 1,
+    "message_bridge_requests": 1,
+    "source_person_requests": 0,
+    "message_person_requests": 0,
+    "person_episodes": [],
+    "source_requests": [
+      {
+        "t": 1792921562.4249742,
+        "action": "HOLD_REQUESTED_INVALID_FAILSAFE"
+      }
+    ],
+    "message_requests": [
+      {
+        "t": 1792921562.4249742,
+        "action": "HOLD_REQUESTED_INVALID_FAILSAFE"
+      }
+    ],
+    "states": {
+      "CLEAR": 488,
+      "CAUTION": 80,
+      "INVALID": 1
+    }
+  },
+  {
+    "run": "MISSION_20261025T095656_324958",
+    "variant": "frozen_chain",
+    "period_s": 0.05,
+    "phase_fraction": 0,
+    "anchor_s": 1792922259.588497,
+    "evaluations": 5830,
+    "person_runs": 0,
+    "Rm_person": 0,
+    "Rs_person": 0,
+    "available_camera_sources": 1138,
+    "sampled_available_camera_sources": 1138,
+    "unseen_available_camera_sources": 0,
+    "auto_evaluations": 5596,
+    "invalid_AUTO_evaluations": 3,
+    "source_bridge_requests": 1,
+    "message_bridge_requests": 1,
+    "source_person_requests": 0,
+    "message_person_requests": 0,
+    "person_episodes": [],
+    "source_requests": [
+      {
+        "t": 1792922515.988497,
+        "action": "HOLD_REQUESTED_INVALID_FAILSAFE"
+      }
+    ],
+    "message_requests": [
+      {
+        "t": 1792922515.988497,
+        "action": "HOLD_REQUESTED_INVALID_FAILSAFE"
+      }
+    ],
+    "states": {
+      "CAUTION": 1136,
+      "CLEAR": 4688,
+      "INVALID": 6
+    }
+  },
+  {
+    "run": "MISSION_20261025T095656_324958",
+    "variant": "frozen_chain",
+    "period_s": 0.05,
+    "phase_fraction": 0.25,
+    "anchor_s": 1792922259.588497,
+    "evaluations": 5830,
+    "person_runs": 0,
+    "Rm_person": 0,
+    "Rs_person": 0,
+    "available_camera_sources": 1138,
+    "sampled_available_camera_sources": 1138,
+    "unseen_available_camera_sources": 0,
+    "auto_evaluations": 5596,
+    "invalid_AUTO_evaluations": 2,
+    "source_bridge_requests": 1,
+    "message_bridge_requests": 1,
+    "source_person_requests": 0,
+    "message_person_requests": 0,
+    "person_episodes": [],
+    "source_requests": [
+      {
+        "t": 1792922516.000997,
+        "action": "HOLD_REQUESTED_INVALID_FAILSAFE"
+      }
+    ],
+    "message_requests": [
+      {
+        "t": 1792922516.000997,
+        "action": "HOLD_REQUESTED_INVALID_FAILSAFE"
+      }
+    ],
+    "states": {
+      "CAUTION": 1138,
+      "CLEAR": 4686,
+      "INVALID": 6
+    }
+  },
+  {
+    "run": "MISSION_20261025T095656_324958",
+    "variant": "frozen_chain",
+    "period_s": 0.05,
+    "phase_fraction": 0.5,
+    "anchor_s": 1792922259.588497,
+    "evaluations": 5830,
+    "person_runs": 0,
+    "Rm_person": 0,
+    "Rs_person": 0,
+    "available_camera_sources": 1138,
+    "sampled_available_camera_sources": 1137,
+    "unseen_available_camera_sources": 1,
+    "auto_evaluations": 5596,
+    "invalid_AUTO_evaluations": 2,
+    "source_bridge_requests": 1,
+    "message_bridge_requests": 1,
+    "source_person_requests": 0,
+    "message_person_requests": 0,
+    "person_episodes": [],
+    "source_requests": [
+      {
+        "t": 1792922516.013497,
+        "action": "HOLD_REQUESTED_INVALID_FAILSAFE"
+      }
+    ],
+    "message_requests": [
+      {
+        "t": 1792922516.013497,
+        "action": "HOLD_REQUESTED_INVALID_FAILSAFE"
+      }
+    ],
+    "states": {
+      "CAUTION": 1133,
+      "CLEAR": 4691,
+      "INVALID": 6
+    }
+  },
+  {
+    "run": "MISSION_20261025T095656_324958",
+    "variant": "frozen_chain",
+    "period_s": 0.05,
+    "phase_fraction": 0.75,
+    "anchor_s": 1792922259.588497,
+    "evaluations": 5830,
+    "person_runs": 0,
+    "Rm_person": 0,
+    "Rs_person": 0,
+    "available_camera_sources": 1138,
+    "sampled_available_camera_sources": 1138,
+    "unseen_available_camera_sources": 0,
+    "auto_evaluations": 5596,
+    "invalid_AUTO_evaluations": 2,
+    "source_bridge_requests": 1,
+    "message_bridge_requests": 1,
+    "source_person_requests": 0,
+    "message_person_requests": 0,
+    "person_episodes": [],
+    "source_requests": [
+      {
+        "t": 1792922516.025997,
+        "action": "HOLD_REQUESTED_INVALID_FAILSAFE"
+      }
+    ],
+    "message_requests": [
+      {
+        "t": 1792922516.025997,
+        "action": "HOLD_REQUESTED_INVALID_FAILSAFE"
+      }
+    ],
+    "states": {
+      "CAUTION": 1133,
+      "CLEAR": 4691,
+      "INVALID": 6
+    }
+  },
+  {
+    "run": "MISSION_20261025T095656_324958",
+    "variant": "frozen_chain",
+    "period_s": 0.1,
+    "phase_fraction": 0,
+    "anchor_s": 1792922259.588497,
+    "evaluations": 2915,
+    "person_runs": 0,
+    "Rm_person": 0,
+    "Rs_person": 0,
+    "available_camera_sources": 1138,
+    "sampled_available_camera_sources": 1138,
+    "unseen_available_camera_sources": 0,
+    "auto_evaluations": 2798,
+    "invalid_AUTO_evaluations": 2,
+    "source_bridge_requests": 1,
+    "message_bridge_requests": 1,
+    "source_person_requests": 0,
+    "message_person_requests": 0,
+    "person_episodes": [],
+    "source_requests": [
+      {
+        "t": 1792922515.988497,
+        "action": "HOLD_REQUESTED_INVALID_FAILSAFE"
+      }
+    ],
+    "message_requests": [
+      {
+        "t": 1792922515.988497,
+        "action": "HOLD_REQUESTED_INVALID_FAILSAFE"
+      }
+    ],
+    "states": {
+      "CAUTION": 569,
+      "CLEAR": 2343,
+      "INVALID": 3
+    }
+  },
+  {
+    "run": "MISSION_20261025T095656_324958",
+    "variant": "frozen_chain",
+    "period_s": 0.1,
+    "phase_fraction": 0.25,
+    "anchor_s": 1792922259.588497,
+    "evaluations": 2915,
+    "person_runs": 0,
+    "Rm_person": 0,
+    "Rs_person": 0,
+    "available_camera_sources": 1138,
+    "sampled_available_camera_sources": 1137,
+    "unseen_available_camera_sources": 1,
+    "auto_evaluations": 2798,
+    "invalid_AUTO_evaluations": 1,
+    "source_bridge_requests": 1,
+    "message_bridge_requests": 1,
+    "source_person_requests": 0,
+    "message_person_requests": 0,
+    "person_episodes": [],
+    "source_requests": [
+      {
+        "t": 1792922516.013497,
+        "action": "HOLD_REQUESTED_INVALID_FAILSAFE"
+      }
+    ],
+    "message_requests": [
+      {
+        "t": 1792922516.013497,
+        "action": "HOLD_REQUESTED_INVALID_FAILSAFE"
+      }
+    ],
+    "states": {
+      "CAUTION": 566,
+      "CLEAR": 2346,
+      "INVALID": 3
+    }
+  },
+  {
+    "run": "MISSION_20261025T095656_324958",
+    "variant": "frozen_chain",
+    "period_s": 0.1,
+    "phase_fraction": 0.5,
+    "anchor_s": 1792922259.588497,
+    "evaluations": 2915,
+    "person_runs": 0,
+    "Rm_person": 0,
+    "Rs_person": 0,
+    "available_camera_sources": 1138,
+    "sampled_available_camera_sources": 1137,
+    "unseen_available_camera_sources": 1,
+    "auto_evaluations": 2798,
+    "invalid_AUTO_evaluations": 1,
+    "source_bridge_requests": 1,
+    "message_bridge_requests": 1,
+    "source_person_requests": 0,
+    "message_person_requests": 0,
+    "person_episodes": [],
+    "source_requests": [
+      {
+        "t": 1792922516.038497,
+        "action": "HOLD_REQUESTED_INVALID_FAILSAFE"
+      }
+    ],
+    "message_requests": [
+      {
+        "t": 1792922516.038497,
+        "action": "HOLD_REQUESTED_INVALID_FAILSAFE"
+      }
+    ],
+    "states": {
+      "CAUTION": 567,
+      "CLEAR": 2345,
+      "INVALID": 3
+    }
+  },
+  {
+    "run": "MISSION_20261025T095656_324958",
+    "variant": "frozen_chain",
+    "period_s": 0.1,
+    "phase_fraction": 0.75,
+    "anchor_s": 1792922259.588497,
+    "evaluations": 2915,
+    "person_runs": 0,
+    "Rm_person": 0,
+    "Rs_person": 0,
+    "available_camera_sources": 1138,
+    "sampled_available_camera_sources": 1137,
+    "unseen_available_camera_sources": 1,
+    "auto_evaluations": 2798,
+    "invalid_AUTO_evaluations": 1,
+    "source_bridge_requests": 1,
+    "message_bridge_requests": 1,
+    "source_person_requests": 0,
+    "message_person_requests": 0,
+    "person_episodes": [],
+    "source_requests": [
+      {
+        "t": 1792922516.063497,
+        "action": "HOLD_REQUESTED_INVALID_FAILSAFE"
+      }
+    ],
+    "message_requests": [
+      {
+        "t": 1792922516.063497,
+        "action": "HOLD_REQUESTED_INVALID_FAILSAFE"
+      }
+    ],
+    "states": {
+      "CAUTION": 567,
+      "CLEAR": 2345,
+      "INVALID": 3
+    }
+  },
+  {
+    "run": "MISSION_20261025T095656_324958",
+    "variant": "frozen_chain",
+    "period_s": 0.2,
+    "phase_fraction": 0,
+    "anchor_s": 1792922259.588497,
+    "evaluations": 1458,
+    "person_runs": 0,
+    "Rm_person": 0,
+    "Rs_person": 0,
+    "available_camera_sources": 1138,
+    "sampled_available_camera_sources": 1136,
+    "unseen_available_camera_sources": 2,
+    "auto_evaluations": 1399,
+    "invalid_AUTO_evaluations": 1,
+    "source_bridge_requests": 1,
+    "message_bridge_requests": 1,
+    "source_person_requests": 0,
+    "message_person_requests": 0,
+    "person_episodes": [],
+    "source_requests": [
+      {
+        "t": 1792922515.988497,
+        "action": "HOLD_REQUESTED_INVALID_FAILSAFE"
+      }
+    ],
+    "message_requests": [
+      {
+        "t": 1792922515.988497,
+        "action": "HOLD_REQUESTED_INVALID_FAILSAFE"
+      }
+    ],
+    "states": {
+      "CAUTION": 281,
+      "CLEAR": 1175,
+      "INVALID": 2
+    }
+  },
+  {
+    "run": "MISSION_20261025T095656_324958",
+    "variant": "frozen_chain",
+    "period_s": 0.2,
+    "phase_fraction": 0.25,
+    "anchor_s": 1792922259.588497,
+    "evaluations": 1457,
+    "person_runs": 0,
+    "Rm_person": 0,
+    "Rs_person": 0,
+    "available_camera_sources": 1138,
+    "sampled_available_camera_sources": 1135,
+    "unseen_available_camera_sources": 3,
+    "auto_evaluations": 1399,
+    "invalid_AUTO_evaluations": 1,
+    "source_bridge_requests": 1,
+    "message_bridge_requests": 1,
+    "source_person_requests": 0,
+    "message_person_requests": 0,
+    "person_episodes": [],
+    "source_requests": [
+      {
+        "t": 1792922516.038497,
+        "action": "HOLD_REQUESTED_INVALID_FAILSAFE"
+      }
+    ],
+    "message_requests": [
+      {
+        "t": 1792922516.038497,
+        "action": "HOLD_REQUESTED_INVALID_FAILSAFE"
+      }
+    ],
+    "states": {
+      "CAUTION": 286,
+      "CLEAR": 1169,
+      "INVALID": 2
+    }
+  },
+  {
+    "run": "MISSION_20261025T095656_324958",
+    "variant": "frozen_chain",
+    "period_s": 0.2,
+    "phase_fraction": 0.5,
+    "anchor_s": 1792922259.588497,
+    "evaluations": 1457,
+    "person_runs": 0,
+    "Rm_person": 0,
+    "Rs_person": 0,
+    "available_camera_sources": 1138,
+    "sampled_available_camera_sources": 1135,
+    "unseen_available_camera_sources": 3,
+    "auto_evaluations": 1399,
+    "invalid_AUTO_evaluations": 1,
+    "source_bridge_requests": 1,
+    "message_bridge_requests": 1,
+    "source_person_requests": 0,
+    "message_person_requests": 0,
+    "person_episodes": [],
+    "source_requests": [
+      {
+        "t": 1792922516.088497,
+        "action": "HOLD_REQUESTED_INVALID_FAILSAFE"
+      }
+    ],
+    "message_requests": [
+      {
+        "t": 1792922516.088497,
+        "action": "HOLD_REQUESTED_INVALID_FAILSAFE"
+      }
+    ],
+    "states": {
+      "CAUTION": 288,
+      "CLEAR": 1168,
+      "INVALID": 1
+    }
+  },
+  {
+    "run": "MISSION_20261025T095656_324958",
+    "variant": "frozen_chain",
+    "period_s": 0.2,
+    "phase_fraction": 0.75,
+    "anchor_s": 1792922259.588497,
+    "evaluations": 1458,
+    "person_runs": 0,
+    "Rm_person": 0,
+    "Rs_person": 0,
+    "available_camera_sources": 1138,
+    "sampled_available_camera_sources": 1134,
+    "unseen_available_camera_sources": 4,
+    "auto_evaluations": 1399,
+    "invalid_AUTO_evaluations": 0,
+    "source_bridge_requests": 0,
+    "message_bridge_requests": 0,
+    "source_person_requests": 0,
+    "message_person_requests": 0,
+    "person_episodes": [],
+    "source_requests": [],
+    "message_requests": [],
+    "states": {
+      "CAUTION": 281,
+      "CLEAR": 1176,
+      "INVALID": 1
+    }
+  },
+  {
+    "run": "MISSION_20261025T095656_324958",
+    "variant": "frozen_chain",
+    "period_s": 0.5,
+    "phase_fraction": 0,
+    "anchor_s": 1792922259.588497,
+    "evaluations": 583,
+    "person_runs": 0,
+    "Rm_person": 0,
+    "Rs_person": 0,
+    "available_camera_sources": 1138,
+    "sampled_available_camera_sources": 582,
+    "unseen_available_camera_sources": 556,
+    "auto_evaluations": 560,
+    "invalid_AUTO_evaluations": 1,
+    "source_bridge_requests": 1,
+    "message_bridge_requests": 1,
+    "source_person_requests": 0,
+    "message_person_requests": 0,
+    "person_episodes": [],
+    "source_requests": [
+      {
+        "t": 1792922516.088497,
+        "action": "HOLD_REQUESTED_INVALID_FAILSAFE"
+      }
+    ],
+    "message_requests": [
+      {
+        "t": 1792922516.088497,
+        "action": "HOLD_REQUESTED_INVALID_FAILSAFE"
+      }
+    ],
+    "states": {
+      "CAUTION": 113,
+      "CLEAR": 469,
+      "INVALID": 1
+    }
+  },
+  {
+    "run": "MISSION_20261025T095656_324958",
+    "variant": "frozen_chain",
+    "period_s": 0.5,
+    "phase_fraction": 0.25,
+    "anchor_s": 1792922259.588497,
+    "evaluations": 583,
+    "person_runs": 0,
+    "Rm_person": 0,
+    "Rs_person": 0,
+    "available_camera_sources": 1138,
+    "sampled_available_camera_sources": 582,
+    "unseen_available_camera_sources": 556,
+    "auto_evaluations": 559,
+    "invalid_AUTO_evaluations": 0,
+    "source_bridge_requests": 0,
+    "message_bridge_requests": 0,
+    "source_person_requests": 0,
+    "message_person_requests": 0,
+    "person_episodes": [],
+    "source_requests": [],
+    "message_requests": [],
+    "states": {
+      "CAUTION": 109,
+      "CLEAR": 473,
+      "INVALID": 1
+    }
+  },
+  {
+    "run": "MISSION_20261025T095656_324958",
+    "variant": "frozen_chain",
+    "period_s": 0.5,
+    "phase_fraction": 0.5,
+    "anchor_s": 1792922259.588497,
+    "evaluations": 583,
+    "person_runs": 0,
+    "Rm_person": 0,
+    "Rs_person": 0,
+    "available_camera_sources": 1138,
+    "sampled_available_camera_sources": 583,
+    "unseen_available_camera_sources": 555,
+    "auto_evaluations": 560,
+    "invalid_AUTO_evaluations": 0,
+    "source_bridge_requests": 0,
+    "message_bridge_requests": 0,
+    "source_person_requests": 0,
+    "message_person_requests": 0,
+    "person_episodes": [],
+    "source_requests": [],
+    "message_requests": [],
+    "states": {
+      "CAUTION": 119,
+      "CLEAR": 464
+    }
+  },
+  {
+    "run": "MISSION_20261025T095656_324958",
+    "variant": "frozen_chain",
+    "period_s": 0.5,
+    "phase_fraction": 0.75,
+    "anchor_s": 1792922259.588497,
+    "evaluations": 583,
+    "person_runs": 0,
+    "Rm_person": 0,
+    "Rs_person": 0,
+    "available_camera_sources": 1138,
+    "sampled_available_camera_sources": 583,
+    "unseen_available_camera_sources": 555,
+    "auto_evaluations": 560,
+    "invalid_AUTO_evaluations": 0,
+    "source_bridge_requests": 0,
+    "message_bridge_requests": 0,
+    "source_person_requests": 0,
+    "message_person_requests": 0,
+    "person_episodes": [],
+    "source_requests": [],
+    "message_requests": [],
+    "states": {
+      "CAUTION": 117,
+      "CLEAR": 466
+    }
+  },
+  {
+    "run": "MISSION_20261025T095656_324958",
+    "variant": "held_recorded_fusion",
+    "period_s": 0.05,
+    "phase_fraction": 0,
+    "anchor_s": 1792922259.588497,
+    "evaluations": 5830,
+    "person_runs": 0,
+    "Rm_person": 0,
+    "Rs_person": 0,
+    "available_camera_sources": 1138,
+    "sampled_available_camera_sources": 1136,
+    "unseen_available_camera_sources": 2,
+    "auto_evaluations": 5596,
+    "invalid_AUTO_evaluations": 1,
+    "source_bridge_requests": 1,
+    "message_bridge_requests": 1,
+    "source_person_requests": 0,
+    "message_person_requests": 0,
+    "person_episodes": [],
+    "source_requests": [
+      {
+        "t": 1792922516.088497,
+        "action": "HOLD_REQUESTED_INVALID_FAILSAFE"
+      }
+    ],
+    "message_requests": [
+      {
+        "t": 1792922516.088497,
+        "action": "HOLD_REQUESTED_INVALID_FAILSAFE"
+      }
+    ],
+    "states": {
+      "CAUTION": 1135,
+      "CLEAR": 4689,
+      "INVALID": 6
+    }
+  },
+  {
+    "run": "MISSION_20261025T095656_324958",
+    "variant": "held_recorded_fusion",
+    "period_s": 0.05,
+    "phase_fraction": 0.25,
+    "anchor_s": 1792922259.588497,
+    "evaluations": 5830,
+    "person_runs": 0,
+    "Rm_person": 0,
+    "Rs_person": 0,
+    "available_camera_sources": 1138,
+    "sampled_available_camera_sources": 1137,
+    "unseen_available_camera_sources": 1,
+    "auto_evaluations": 5596,
+    "invalid_AUTO_evaluations": 0,
+    "source_bridge_requests": 0,
+    "message_bridge_requests": 0,
+    "source_person_requests": 0,
+    "message_person_requests": 0,
+    "person_episodes": [],
+    "source_requests": [],
+    "message_requests": [],
+    "states": {
+      "CAUTION": 1135,
+      "CLEAR": 4689,
+      "INVALID": 6
+    }
+  },
+  {
+    "run": "MISSION_20261025T095656_324958",
+    "variant": "held_recorded_fusion",
+    "period_s": 0.05,
+    "phase_fraction": 0.5,
+    "anchor_s": 1792922259.588497,
+    "evaluations": 5830,
+    "person_runs": 0,
+    "Rm_person": 0,
+    "Rs_person": 0,
+    "available_camera_sources": 1138,
+    "sampled_available_camera_sources": 1136,
+    "unseen_available_camera_sources": 2,
+    "auto_evaluations": 5596,
+    "invalid_AUTO_evaluations": 1,
+    "source_bridge_requests": 1,
+    "message_bridge_requests": 1,
+    "source_person_requests": 0,
+    "message_person_requests": 0,
+    "person_episodes": [],
+    "source_requests": [
+      {
+        "t": 1792922516.063497,
+        "action": "HOLD_REQUESTED_INVALID_FAILSAFE"
+      }
+    ],
+    "message_requests": [
+      {
+        "t": 1792922516.063497,
+        "action": "HOLD_REQUESTED_INVALID_FAILSAFE"
+      }
+    ],
+    "states": {
+      "CAUTION": 1137,
+      "CLEAR": 4687,
+      "INVALID": 6
+    }
+  },
+  {
+    "run": "MISSION_20261025T095656_324958",
+    "variant": "held_recorded_fusion",
+    "period_s": 0.05,
+    "phase_fraction": 0.75,
+    "anchor_s": 1792922259.588497,
+    "evaluations": 5830,
+    "person_runs": 0,
+    "Rm_person": 0,
+    "Rs_person": 0,
+    "available_camera_sources": 1138,
+    "sampled_available_camera_sources": 1136,
+    "unseen_available_camera_sources": 2,
+    "auto_evaluations": 5596,
+    "invalid_AUTO_evaluations": 1,
+    "source_bridge_requests": 1,
+    "message_bridge_requests": 1,
+    "source_person_requests": 0,
+    "message_person_requests": 0,
+    "person_episodes": [],
+    "source_requests": [
+      {
+        "t": 1792922516.0759969,
+        "action": "HOLD_REQUESTED_INVALID_FAILSAFE"
+      }
+    ],
+    "message_requests": [
+      {
+        "t": 1792922516.0759969,
+        "action": "HOLD_REQUESTED_INVALID_FAILSAFE"
+      }
+    ],
+    "states": {
+      "CAUTION": 1135,
+      "CLEAR": 4689,
+      "INVALID": 6
+    }
+  },
+  {
+    "run": "MISSION_20261025T095656_324958",
+    "variant": "held_recorded_fusion",
+    "period_s": 0.1,
+    "phase_fraction": 0,
+    "anchor_s": 1792922259.588497,
+    "evaluations": 2915,
+    "person_runs": 0,
+    "Rm_person": 0,
+    "Rs_person": 0,
+    "available_camera_sources": 1138,
+    "sampled_available_camera_sources": 1136,
+    "unseen_available_camera_sources": 2,
+    "auto_evaluations": 2798,
+    "invalid_AUTO_evaluations": 1,
+    "source_bridge_requests": 1,
+    "message_bridge_requests": 1,
+    "source_person_requests": 0,
+    "message_person_requests": 0,
+    "person_episodes": [],
+    "source_requests": [
+      {
+        "t": 1792922516.088497,
+        "action": "HOLD_REQUESTED_INVALID_FAILSAFE"
+      }
+    ],
+    "message_requests": [
+      {
+        "t": 1792922516.088497,
+        "action": "HOLD_REQUESTED_INVALID_FAILSAFE"
+      }
+    ],
+    "states": {
+      "CAUTION": 567,
+      "CLEAR": 2345,
+      "INVALID": 3
+    }
+  },
+  {
+    "run": "MISSION_20261025T095656_324958",
+    "variant": "held_recorded_fusion",
+    "period_s": 0.1,
+    "phase_fraction": 0.25,
+    "anchor_s": 1792922259.588497,
+    "evaluations": 2915,
+    "person_runs": 0,
+    "Rm_person": 0,
+    "Rs_person": 0,
+    "available_camera_sources": 1138,
+    "sampled_available_camera_sources": 1136,
+    "unseen_available_camera_sources": 2,
+    "auto_evaluations": 2798,
+    "invalid_AUTO_evaluations": 0,
+    "source_bridge_requests": 0,
+    "message_bridge_requests": 0,
+    "source_person_requests": 0,
+    "message_person_requests": 0,
+    "person_episodes": [],
+    "source_requests": [],
+    "message_requests": [],
+    "states": {
+      "CAUTION": 568,
+      "CLEAR": 2344,
+      "INVALID": 3
+    }
+  },
+  {
+    "run": "MISSION_20261025T095656_324958",
+    "variant": "held_recorded_fusion",
+    "period_s": 0.1,
+    "phase_fraction": 0.5,
+    "anchor_s": 1792922259.588497,
+    "evaluations": 2915,
+    "person_runs": 0,
+    "Rm_person": 0,
+    "Rs_person": 0,
+    "available_camera_sources": 1138,
+    "sampled_available_camera_sources": 1136,
+    "unseen_available_camera_sources": 2,
+    "auto_evaluations": 2798,
+    "invalid_AUTO_evaluations": 0,
+    "source_bridge_requests": 0,
+    "message_bridge_requests": 0,
+    "source_person_requests": 0,
+    "message_person_requests": 0,
+    "person_episodes": [],
+    "source_requests": [],
+    "message_requests": [],
+    "states": {
+      "CAUTION": 568,
+      "CLEAR": 2344,
+      "INVALID": 3
+    }
+  },
+  {
+    "run": "MISSION_20261025T095656_324958",
+    "variant": "held_recorded_fusion",
+    "period_s": 0.1,
+    "phase_fraction": 0.75,
+    "anchor_s": 1792922259.588497,
+    "evaluations": 2915,
+    "person_runs": 0,
+    "Rm_person": 0,
+    "Rs_person": 0,
+    "available_camera_sources": 1138,
+    "sampled_available_camera_sources": 1136,
+    "unseen_available_camera_sources": 2,
+    "auto_evaluations": 2798,
+    "invalid_AUTO_evaluations": 1,
+    "source_bridge_requests": 1,
+    "message_bridge_requests": 1,
+    "source_person_requests": 0,
+    "message_person_requests": 0,
+    "person_episodes": [],
+    "source_requests": [
+      {
+        "t": 1792922516.063497,
+        "action": "HOLD_REQUESTED_INVALID_FAILSAFE"
+      }
+    ],
+    "message_requests": [
+      {
+        "t": 1792922516.063497,
+        "action": "HOLD_REQUESTED_INVALID_FAILSAFE"
+      }
+    ],
+    "states": {
+      "CAUTION": 569,
+      "CLEAR": 2343,
+      "INVALID": 3
+    }
+  },
+  {
+    "run": "MISSION_20261025T095656_324958",
+    "variant": "held_recorded_fusion",
+    "period_s": 0.2,
+    "phase_fraction": 0,
+    "anchor_s": 1792922259.588497,
+    "evaluations": 1458,
+    "person_runs": 0,
+    "Rm_person": 0,
+    "Rs_person": 0,
+    "available_camera_sources": 1138,
+    "sampled_available_camera_sources": 1130,
+    "unseen_available_camera_sources": 8,
+    "auto_evaluations": 1399,
+    "invalid_AUTO_evaluations": 0,
+    "source_bridge_requests": 0,
+    "message_bridge_requests": 0,
+    "source_person_requests": 0,
+    "message_person_requests": 0,
+    "person_episodes": [],
+    "source_requests": [],
+    "message_requests": [],
+    "states": {
+      "CAUTION": 281,
+      "CLEAR": 1176,
+      "INVALID": 1
+    }
+  },
+  {
+    "run": "MISSION_20261025T095656_324958",
+    "variant": "held_recorded_fusion",
+    "period_s": 0.2,
+    "phase_fraction": 0.25,
+    "anchor_s": 1792922259.588497,
+    "evaluations": 1457,
+    "person_runs": 0,
+    "Rm_person": 0,
+    "Rs_person": 0,
+    "available_camera_sources": 1138,
+    "sampled_available_camera_sources": 1130,
+    "unseen_available_camera_sources": 8,
+    "auto_evaluations": 1399,
+    "invalid_AUTO_evaluations": 0,
+    "source_bridge_requests": 0,
+    "message_bridge_requests": 0,
+    "source_person_requests": 0,
+    "message_person_requests": 0,
+    "person_episodes": [],
+    "source_requests": [],
+    "message_requests": [],
+    "states": {
+      "CAUTION": 281,
+      "CLEAR": 1175,
+      "INVALID": 1
+    }
+  },
+  {
+    "run": "MISSION_20261025T095656_324958",
+    "variant": "held_recorded_fusion",
+    "period_s": 0.2,
+    "phase_fraction": 0.5,
+    "anchor_s": 1792922259.588497,
+    "evaluations": 1457,
+    "person_runs": 0,
+    "Rm_person": 0,
+    "Rs_person": 0,
+    "available_camera_sources": 1138,
+    "sampled_available_camera_sources": 1134,
+    "unseen_available_camera_sources": 4,
+    "auto_evaluations": 1399,
+    "invalid_AUTO_evaluations": 1,
+    "source_bridge_requests": 1,
+    "message_bridge_requests": 1,
+    "source_person_requests": 0,
+    "message_person_requests": 0,
+    "person_episodes": [],
+    "source_requests": [
+      {
+        "t": 1792922516.088497,
+        "action": "HOLD_REQUESTED_INVALID_FAILSAFE"
+      }
+    ],
+    "message_requests": [
+      {
+        "t": 1792922516.088497,
+        "action": "HOLD_REQUESTED_INVALID_FAILSAFE"
+      }
+    ],
+    "states": {
+      "CAUTION": 286,
+      "CLEAR": 1169,
+      "INVALID": 2
+    }
+  },
+  {
+    "run": "MISSION_20261025T095656_324958",
+    "variant": "held_recorded_fusion",
+    "period_s": 0.2,
+    "phase_fraction": 0.75,
+    "anchor_s": 1792922259.588497,
+    "evaluations": 1458,
+    "person_runs": 0,
+    "Rm_person": 0,
+    "Rs_person": 0,
+    "available_camera_sources": 1138,
+    "sampled_available_camera_sources": 1134,
+    "unseen_available_camera_sources": 4,
+    "auto_evaluations": 1399,
+    "invalid_AUTO_evaluations": 0,
+    "source_bridge_requests": 0,
+    "message_bridge_requests": 0,
+    "source_person_requests": 0,
+    "message_person_requests": 0,
+    "person_episodes": [],
+    "source_requests": [],
+    "message_requests": [],
+    "states": {
+      "CAUTION": 287,
+      "CLEAR": 1169,
+      "INVALID": 2
+    }
+  },
+  {
+    "run": "MISSION_20261025T095656_324958",
+    "variant": "held_recorded_fusion",
+    "period_s": 0.5,
+    "phase_fraction": 0,
+    "anchor_s": 1792922259.588497,
+    "evaluations": 583,
+    "person_runs": 0,
+    "Rm_person": 0,
+    "Rs_person": 0,
+    "available_camera_sources": 1138,
+    "sampled_available_camera_sources": 581,
+    "unseen_available_camera_sources": 557,
+    "auto_evaluations": 560,
+    "invalid_AUTO_evaluations": 1,
+    "source_bridge_requests": 1,
+    "message_bridge_requests": 1,
+    "source_person_requests": 0,
+    "message_person_requests": 0,
+    "person_episodes": [],
+    "source_requests": [
+      {
+        "t": 1792922516.088497,
+        "action": "HOLD_REQUESTED_INVALID_FAILSAFE"
+      }
+    ],
+    "message_requests": [
+      {
+        "t": 1792922516.088497,
+        "action": "HOLD_REQUESTED_INVALID_FAILSAFE"
+      }
+    ],
+    "states": {
+      "CAUTION": 113,
+      "CLEAR": 469,
+      "INVALID": 1
+    }
+  },
+  {
+    "run": "MISSION_20261025T095656_324958",
+    "variant": "held_recorded_fusion",
+    "period_s": 0.5,
+    "phase_fraction": 0.25,
+    "anchor_s": 1792922259.588497,
+    "evaluations": 583,
+    "person_runs": 0,
+    "Rm_person": 0,
+    "Rs_person": 0,
+    "available_camera_sources": 1138,
+    "sampled_available_camera_sources": 582,
+    "unseen_available_camera_sources": 556,
+    "auto_evaluations": 559,
+    "invalid_AUTO_evaluations": 0,
+    "source_bridge_requests": 0,
+    "message_bridge_requests": 0,
+    "source_person_requests": 0,
+    "message_person_requests": 0,
+    "person_episodes": [],
+    "source_requests": [],
+    "message_requests": [],
+    "states": {
+      "CAUTION": 109,
+      "CLEAR": 473,
+      "INVALID": 1
+    }
+  },
+  {
+    "run": "MISSION_20261025T095656_324958",
+    "variant": "held_recorded_fusion",
+    "period_s": 0.5,
+    "phase_fraction": 0.5,
+    "anchor_s": 1792922259.588497,
+    "evaluations": 583,
+    "person_runs": 0,
+    "Rm_person": 0,
+    "Rs_person": 0,
+    "available_camera_sources": 1138,
+    "sampled_available_camera_sources": 582,
+    "unseen_available_camera_sources": 556,
+    "auto_evaluations": 560,
+    "invalid_AUTO_evaluations": 0,
+    "source_bridge_requests": 0,
+    "message_bridge_requests": 0,
+    "source_person_requests": 0,
+    "message_person_requests": 0,
+    "person_episodes": [],
+    "source_requests": [],
+    "message_requests": [],
+    "states": {
+      "CAUTION": 109,
+      "CLEAR": 473,
+      "INVALID": 1
+    }
+  },
+  {
+    "run": "MISSION_20261025T095656_324958",
+    "variant": "held_recorded_fusion",
+    "period_s": 0.5,
+    "phase_fraction": 0.75,
+    "anchor_s": 1792922259.588497,
+    "evaluations": 583,
+    "person_runs": 0,
+    "Rm_person": 0,
+    "Rs_person": 0,
+    "available_camera_sources": 1138,
+    "sampled_available_camera_sources": 583,
+    "unseen_available_camera_sources": 555,
+    "auto_evaluations": 560,
+    "invalid_AUTO_evaluations": 0,
+    "source_bridge_requests": 0,
+    "message_bridge_requests": 0,
+    "source_person_requests": 0,
+    "message_person_requests": 0,
+    "person_episodes": [],
+    "source_requests": [],
+    "message_requests": [],
+    "states": {
+      "CAUTION": 118,
+      "CLEAR": 465
+    }
+  },
+  {
+    "run": "MISSION_20261025T101222_031804",
+    "variant": "frozen_chain",
+    "period_s": 0.05,
+    "phase_fraction": 0,
+    "anchor_s": 1792923189.2501018,
+    "evaluations": 6340,
+    "person_runs": 1,
+    "Rm_person": 1,
+    "Rs_person": 0,
+    "available_camera_sources": 1207,
+    "sampled_available_camera_sources": 1207,
+    "unseen_available_camera_sources": 0,
+    "auto_evaluations": 6340,
+    "invalid_AUTO_evaluations": 0,
+    "source_bridge_requests": 0,
+    "message_bridge_requests": 1,
+    "source_person_requests": 0,
+    "message_person_requests": 1,
+    "person_episodes": [
+      {
+        "first_t": 1792923446.6001017,
+        "last_t": 1792923446.9501019,
+        "samples": 8,
+        "sources": [
+          1792923446.163
+        ],
+        "source_trigger_t": null,
+        "message_trigger_t": 1792923446.650102,
+        "source_delay_from_first_eval_s": null,
+        "message_delay_from_first_eval_s": 0.05000019073486328
+      }
+    ],
+    "source_requests": [],
+    "message_requests": [
+      {
+        "t": 1792923446.650102,
+        "action": "HOLD_REQUESTED_SEMANTIC_CONFIRMED_PERSON"
+      }
+    ],
+    "states": {
+      "CAUTION": 1472,
+      "CLEAR": 4860,
+      "CRITICAL": 8
+    }
+  },
+  {
+    "run": "MISSION_20261025T101222_031804",
+    "variant": "frozen_chain",
+    "period_s": 0.05,
+    "phase_fraction": 0.25,
+    "anchor_s": 1792923189.2501018,
+    "evaluations": 6340,
+    "person_runs": 1,
+    "Rm_person": 1,
+    "Rs_person": 0,
+    "available_camera_sources": 1207,
+    "sampled_available_camera_sources": 1207,
+    "unseen_available_camera_sources": 0,
+    "auto_evaluations": 6340,
+    "invalid_AUTO_evaluations": 0,
+    "source_bridge_requests": 0,
+    "message_bridge_requests": 1,
+    "source_person_requests": 0,
+    "message_person_requests": 1,
+    "person_episodes": [
+      {
+        "first_t": 1792923446.6126018,
+        "last_t": 1792923446.912602,
+        "samples": 7,
+        "sources": [
+          1792923446.163
+        ],
+        "source_trigger_t": null,
+        "message_trigger_t": 1792923446.662602,
+        "source_delay_from_first_eval_s": null,
+        "message_delay_from_first_eval_s": 0.05000019073486328
+      }
+    ],
+    "source_requests": [],
+    "message_requests": [
+      {
+        "t": 1792923446.662602,
+        "action": "HOLD_REQUESTED_SEMANTIC_CONFIRMED_PERSON"
+      }
+    ],
+    "states": {
+      "CAUTION": 1469,
+      "CLEAR": 4864,
+      "CRITICAL": 7
+    }
+  },
+  {
+    "run": "MISSION_20261025T101222_031804",
+    "variant": "frozen_chain",
+    "period_s": 0.05,
+    "phase_fraction": 0.5,
+    "anchor_s": 1792923189.2501018,
+    "evaluations": 6340,
+    "person_runs": 1,
+    "Rm_person": 1,
+    "Rs_person": 0,
+    "available_camera_sources": 1207,
+    "sampled_available_camera_sources": 1207,
+    "unseen_available_camera_sources": 0,
+    "auto_evaluations": 6340,
+    "invalid_AUTO_evaluations": 0,
+    "source_bridge_requests": 0,
+    "message_bridge_requests": 1,
+    "source_person_requests": 0,
+    "message_person_requests": 1,
+    "person_episodes": [
+      {
+        "first_t": 1792923446.6251018,
+        "last_t": 1792923446.925102,
+        "samples": 7,
+        "sources": [
+          1792923446.163
+        ],
+        "source_trigger_t": null,
+        "message_trigger_t": 1792923446.675102,
+        "source_delay_from_first_eval_s": null,
+        "message_delay_from_first_eval_s": 0.05000019073486328
+      }
+    ],
+    "source_requests": [],
+    "message_requests": [
+      {
+        "t": 1792923446.675102,
+        "action": "HOLD_REQUESTED_SEMANTIC_CONFIRMED_PERSON"
+      }
+    ],
+    "states": {
+      "CAUTION": 1469,
+      "CLEAR": 4864,
+      "CRITICAL": 7
+    }
+  },
+  {
+    "run": "MISSION_20261025T101222_031804",
+    "variant": "frozen_chain",
+    "period_s": 0.05,
+    "phase_fraction": 0.75,
+    "anchor_s": 1792923189.2501018,
+    "evaluations": 6339,
+    "person_runs": 1,
+    "Rm_person": 1,
+    "Rs_person": 0,
+    "available_camera_sources": 1207,
+    "sampled_available_camera_sources": 1207,
+    "unseen_available_camera_sources": 0,
+    "auto_evaluations": 6339,
+    "invalid_AUTO_evaluations": 0,
+    "source_bridge_requests": 0,
+    "message_bridge_requests": 1,
+    "source_person_requests": 0,
+    "message_person_requests": 1,
+    "person_episodes": [
+      {
+        "first_t": 1792923446.6376016,
+        "last_t": 1792923446.9376018,
+        "samples": 7,
+        "sources": [
+          1792923446.163
+        ],
+        "source_trigger_t": null,
+        "message_trigger_t": 1792923446.6876018,
+        "source_delay_from_first_eval_s": null,
+        "message_delay_from_first_eval_s": 0.05000019073486328
+      }
+    ],
+    "source_requests": [],
+    "message_requests": [
+      {
+        "t": 1792923446.6876018,
+        "action": "HOLD_REQUESTED_SEMANTIC_CONFIRMED_PERSON"
+      }
+    ],
+    "states": {
+      "CAUTION": 1471,
+      "CLEAR": 4861,
+      "CRITICAL": 7
+    }
+  },
+  {
+    "run": "MISSION_20261025T101222_031804",
+    "variant": "frozen_chain",
+    "period_s": 0.1,
+    "phase_fraction": 0,
+    "anchor_s": 1792923189.2501018,
+    "evaluations": 3170,
+    "person_runs": 1,
+    "Rm_person": 1,
+    "Rs_person": 0,
+    "available_camera_sources": 1207,
+    "sampled_available_camera_sources": 1207,
+    "unseen_available_camera_sources": 0,
+    "auto_evaluations": 3170,
+    "invalid_AUTO_evaluations": 0,
+    "source_bridge_requests": 0,
+    "message_bridge_requests": 1,
+    "source_person_requests": 0,
+    "message_person_requests": 1,
+    "person_episodes": [
+      {
+        "first_t": 1792923446.650102,
+        "last_t": 1792923446.9501019,
+        "samples": 4,
+        "sources": [
+          1792923446.163
+        ],
+        "source_trigger_t": null,
+        "message_trigger_t": 1792923446.7501018,
+        "source_delay_from_first_eval_s": null,
+        "message_delay_from_first_eval_s": 0.09999990463256836
+      }
+    ],
+    "source_requests": [],
+    "message_requests": [
+      {
+        "t": 1792923446.7501018,
+        "action": "HOLD_REQUESTED_SEMANTIC_CONFIRMED_PERSON"
+      }
+    ],
+    "states": {
+      "CAUTION": 736,
+      "CLEAR": 2430,
+      "CRITICAL": 4
+    }
+  },
+  {
+    "run": "MISSION_20261025T101222_031804",
+    "variant": "frozen_chain",
+    "period_s": 0.1,
+    "phase_fraction": 0.25,
+    "anchor_s": 1792923189.2501018,
+    "evaluations": 3170,
+    "person_runs": 1,
+    "Rm_person": 1,
+    "Rs_person": 0,
+    "available_camera_sources": 1207,
+    "sampled_available_camera_sources": 1207,
+    "unseen_available_camera_sources": 0,
+    "auto_evaluations": 3170,
+    "invalid_AUTO_evaluations": 0,
+    "source_bridge_requests": 0,
+    "message_bridge_requests": 1,
+    "source_person_requests": 0,
+    "message_person_requests": 1,
+    "person_episodes": [
+      {
+        "first_t": 1792923446.675102,
+        "last_t": 1792923446.8751018,
+        "samples": 3,
+        "sources": [
+          1792923446.163
+        ],
+        "source_trigger_t": null,
+        "message_trigger_t": 1792923446.775102,
+        "source_delay_from_first_eval_s": null,
+        "message_delay_from_first_eval_s": 0.09999990463256836
+      }
+    ],
+    "source_requests": [],
+    "message_requests": [
+      {
+        "t": 1792923446.775102,
+        "action": "HOLD_REQUESTED_SEMANTIC_CONFIRMED_PERSON"
+      }
+    ],
+    "states": {
+      "CAUTION": 738,
+      "CLEAR": 2429,
+      "CRITICAL": 3
+    }
+  },
+  {
+    "run": "MISSION_20261025T101222_031804",
+    "variant": "frozen_chain",
+    "period_s": 0.1,
+    "phase_fraction": 0.5,
+    "anchor_s": 1792923189.2501018,
+    "evaluations": 3170,
+    "person_runs": 1,
+    "Rm_person": 1,
+    "Rs_person": 0,
+    "available_camera_sources": 1207,
+    "sampled_available_camera_sources": 1207,
+    "unseen_available_camera_sources": 0,
+    "auto_evaluations": 3170,
+    "invalid_AUTO_evaluations": 0,
+    "source_bridge_requests": 0,
+    "message_bridge_requests": 1,
+    "source_person_requests": 0,
+    "message_person_requests": 1,
+    "person_episodes": [
+      {
+        "first_t": 1792923446.6001017,
+        "last_t": 1792923446.9001017,
+        "samples": 4,
+        "sources": [
+          1792923446.163
+        ],
+        "source_trigger_t": null,
+        "message_trigger_t": 1792923446.7001019,
+        "source_delay_from_first_eval_s": null,
+        "message_delay_from_first_eval_s": 0.10000014305114746
+      }
+    ],
+    "source_requests": [],
+    "message_requests": [
+      {
+        "t": 1792923446.7001019,
+        "action": "HOLD_REQUESTED_SEMANTIC_CONFIRMED_PERSON"
+      }
+    ],
+    "states": {
+      "CAUTION": 736,
+      "CLEAR": 2430,
+      "CRITICAL": 4
+    }
+  },
+  {
+    "run": "MISSION_20261025T101222_031804",
+    "variant": "frozen_chain",
+    "period_s": 0.1,
+    "phase_fraction": 0.75,
+    "anchor_s": 1792923189.2501018,
+    "evaluations": 3170,
+    "person_runs": 1,
+    "Rm_person": 1,
+    "Rs_person": 0,
+    "available_camera_sources": 1207,
+    "sampled_available_camera_sources": 1207,
+    "unseen_available_camera_sources": 0,
+    "auto_evaluations": 3170,
+    "invalid_AUTO_evaluations": 0,
+    "source_bridge_requests": 0,
+    "message_bridge_requests": 1,
+    "source_person_requests": 0,
+    "message_person_requests": 1,
+    "person_episodes": [
+      {
+        "first_t": 1792923446.6251018,
+        "last_t": 1792923446.9251018,
+        "samples": 4,
+        "sources": [
+          1792923446.163
+        ],
+        "source_trigger_t": null,
+        "message_trigger_t": 1792923446.725102,
+        "source_delay_from_first_eval_s": null,
+        "message_delay_from_first_eval_s": 0.10000014305114746
+      }
+    ],
+    "source_requests": [],
+    "message_requests": [
+      {
+        "t": 1792923446.725102,
+        "action": "HOLD_REQUESTED_SEMANTIC_CONFIRMED_PERSON"
+      }
+    ],
+    "states": {
+      "CAUTION": 731,
+      "CLEAR": 2435,
+      "CRITICAL": 4
+    }
+  },
+  {
+    "run": "MISSION_20261025T101222_031804",
+    "variant": "frozen_chain",
+    "period_s": 0.2,
+    "phase_fraction": 0,
+    "anchor_s": 1792923189.2501018,
+    "evaluations": 1585,
+    "person_runs": 1,
+    "Rm_person": 1,
+    "Rs_person": 0,
+    "available_camera_sources": 1207,
+    "sampled_available_camera_sources": 1206,
+    "unseen_available_camera_sources": 1,
+    "auto_evaluations": 1585,
+    "invalid_AUTO_evaluations": 0,
+    "source_bridge_requests": 0,
+    "message_bridge_requests": 1,
+    "source_person_requests": 0,
+    "message_person_requests": 1,
+    "person_episodes": [
+      {
+        "first_t": 1792923446.650102,
+        "last_t": 1792923446.8501017,
+        "samples": 2,
+        "sources": [
+          1792923446.163
+        ],
+        "source_trigger_t": null,
+        "message_trigger_t": 1792923446.8501017,
+        "source_delay_from_first_eval_s": null,
+        "message_delay_from_first_eval_s": 0.19999980926513672
+      }
+    ],
+    "source_requests": [],
+    "message_requests": [
+      {
+        "t": 1792923446.8501017,
+        "action": "HOLD_REQUESTED_SEMANTIC_CONFIRMED_PERSON"
+      }
+    ],
+    "states": {
+      "CAUTION": 367,
+      "CLEAR": 1216,
+      "CRITICAL": 2
+    }
+  },
+  {
+    "run": "MISSION_20261025T101222_031804",
+    "variant": "frozen_chain",
+    "period_s": 0.2,
+    "phase_fraction": 0.25,
+    "anchor_s": 1792923189.2501018,
+    "evaluations": 1585,
+    "person_runs": 1,
+    "Rm_person": 1,
+    "Rs_person": 0,
+    "available_camera_sources": 1207,
+    "sampled_available_camera_sources": 1200,
+    "unseen_available_camera_sources": 7,
+    "auto_evaluations": 1585,
+    "invalid_AUTO_evaluations": 0,
+    "source_bridge_requests": 0,
+    "message_bridge_requests": 1,
+    "source_person_requests": 0,
+    "message_person_requests": 1,
+    "person_episodes": [
+      {
+        "first_t": 1792923446.7001019,
+        "last_t": 1792923446.9001017,
+        "samples": 2,
+        "sources": [
+          1792923446.163
+        ],
+        "source_trigger_t": null,
+        "message_trigger_t": 1792923446.9001017,
+        "source_delay_from_first_eval_s": null,
+        "message_delay_from_first_eval_s": 0.19999980926513672
+      }
+    ],
+    "source_requests": [],
+    "message_requests": [
+      {
+        "t": 1792923446.9001017,
+        "action": "HOLD_REQUESTED_SEMANTIC_CONFIRMED_PERSON"
+      }
+    ],
+    "states": {
+      "CAUTION": 366,
+      "CLEAR": 1217,
+      "CRITICAL": 2
+    }
+  },
+  {
+    "run": "MISSION_20261025T101222_031804",
+    "variant": "frozen_chain",
+    "period_s": 0.2,
+    "phase_fraction": 0.5,
+    "anchor_s": 1792923189.2501018,
+    "evaluations": 1585,
+    "person_runs": 1,
+    "Rm_person": 1,
+    "Rs_person": 0,
+    "available_camera_sources": 1207,
+    "sampled_available_camera_sources": 1205,
+    "unseen_available_camera_sources": 2,
+    "auto_evaluations": 1585,
+    "invalid_AUTO_evaluations": 0,
+    "source_bridge_requests": 0,
+    "message_bridge_requests": 1,
+    "source_person_requests": 0,
+    "message_person_requests": 1,
+    "person_episodes": [
+      {
+        "first_t": 1792923446.7501018,
+        "last_t": 1792923446.9501016,
+        "samples": 2,
+        "sources": [
+          1792923446.163
+        ],
+        "source_trigger_t": null,
+        "message_trigger_t": 1792923446.9501016,
+        "source_delay_from_first_eval_s": null,
+        "message_delay_from_first_eval_s": 0.19999980926513672
+      }
+    ],
+    "source_requests": [],
+    "message_requests": [
+      {
+        "t": 1792923446.9501016,
+        "action": "HOLD_REQUESTED_SEMANTIC_CONFIRMED_PERSON"
+      }
+    ],
+    "states": {
+      "CAUTION": 369,
+      "CLEAR": 1214,
+      "CRITICAL": 2
+    }
+  },
+  {
+    "run": "MISSION_20261025T101222_031804",
+    "variant": "frozen_chain",
+    "period_s": 0.2,
+    "phase_fraction": 0.75,
+    "anchor_s": 1792923189.2501018,
+    "evaluations": 1585,
+    "person_runs": 1,
+    "Rm_person": 1,
+    "Rs_person": 0,
+    "available_camera_sources": 1207,
+    "sampled_available_camera_sources": 1206,
+    "unseen_available_camera_sources": 1,
+    "auto_evaluations": 1585,
+    "invalid_AUTO_evaluations": 0,
+    "source_bridge_requests": 0,
+    "message_bridge_requests": 1,
+    "source_person_requests": 0,
+    "message_person_requests": 1,
+    "person_episodes": [
+      {
+        "first_t": 1792923446.600102,
+        "last_t": 1792923446.800102,
+        "samples": 2,
+        "sources": [
+          1792923446.163
+        ],
+        "source_trigger_t": null,
+        "message_trigger_t": 1792923446.800102,
+        "source_delay_from_first_eval_s": null,
+        "message_delay_from_first_eval_s": 0.20000004768371582
+      }
+    ],
+    "source_requests": [],
+    "message_requests": [
+      {
+        "t": 1792923446.800102,
+        "action": "HOLD_REQUESTED_SEMANTIC_CONFIRMED_PERSON"
+      }
+    ],
+    "states": {
+      "CAUTION": 370,
+      "CLEAR": 1213,
+      "CRITICAL": 2
+    }
+  },
+  {
+    "run": "MISSION_20261025T101222_031804",
+    "variant": "frozen_chain",
+    "period_s": 0.5,
+    "phase_fraction": 0,
+    "anchor_s": 1792923189.2501018,
+    "evaluations": 634,
+    "person_runs": 1,
+    "Rm_person": 0,
+    "Rs_person": 0,
+    "available_camera_sources": 1207,
+    "sampled_available_camera_sources": 634,
+    "unseen_available_camera_sources": 573,
+    "auto_evaluations": 634,
+    "invalid_AUTO_evaluations": 0,
+    "source_bridge_requests": 0,
+    "message_bridge_requests": 0,
+    "source_person_requests": 0,
+    "message_person_requests": 0,
+    "person_episodes": [
+      {
+        "first_t": 1792923446.7501018,
+        "last_t": 1792923446.7501018,
+        "samples": 1,
+        "sources": [
+          1792923446.163
+        ],
+        "source_trigger_t": null,
+        "message_trigger_t": null,
+        "source_delay_from_first_eval_s": null,
+        "message_delay_from_first_eval_s": null
+      }
+    ],
+    "source_requests": [],
+    "message_requests": [],
+    "states": {
+      "CAUTION": 146,
+      "CLEAR": 487,
+      "CRITICAL": 1
+    }
+  },
+  {
+    "run": "MISSION_20261025T101222_031804",
+    "variant": "frozen_chain",
+    "period_s": 0.5,
+    "phase_fraction": 0.25,
+    "anchor_s": 1792923189.2501018,
+    "evaluations": 634,
+    "person_runs": 1,
+    "Rm_person": 0,
+    "Rs_person": 0,
+    "available_camera_sources": 1207,
+    "sampled_available_camera_sources": 634,
+    "unseen_available_camera_sources": 573,
+    "auto_evaluations": 634,
+    "invalid_AUTO_evaluations": 0,
+    "source_bridge_requests": 0,
+    "message_bridge_requests": 0,
+    "source_person_requests": 0,
+    "message_person_requests": 0,
+    "person_episodes": [
+      {
+        "first_t": 1792923446.8751018,
+        "last_t": 1792923446.8751018,
+        "samples": 1,
+        "sources": [
+          1792923446.163
+        ],
+        "source_trigger_t": null,
+        "message_trigger_t": null,
+        "source_delay_from_first_eval_s": null,
+        "message_delay_from_first_eval_s": null
+      }
+    ],
+    "source_requests": [],
+    "message_requests": [],
+    "states": {
+      "CAUTION": 146,
+      "CLEAR": 487,
+      "CRITICAL": 1
+    }
+  },
+  {
+    "run": "MISSION_20261025T101222_031804",
+    "variant": "frozen_chain",
+    "period_s": 0.5,
+    "phase_fraction": 0.5,
+    "anchor_s": 1792923189.2501018,
+    "evaluations": 634,
+    "person_runs": 0,
+    "Rm_person": 0,
+    "Rs_person": 0,
+    "available_camera_sources": 1207,
+    "sampled_available_camera_sources": 634,
+    "unseen_available_camera_sources": 573,
+    "auto_evaluations": 634,
+    "invalid_AUTO_evaluations": 0,
+    "source_bridge_requests": 0,
+    "message_bridge_requests": 0,
+    "source_person_requests": 0,
+    "message_person_requests": 0,
+    "person_episodes": [],
+    "source_requests": [],
+    "message_requests": [],
+    "states": {
+      "CAUTION": 148,
+      "CLEAR": 486
+    }
+  },
+  {
+    "run": "MISSION_20261025T101222_031804",
+    "variant": "frozen_chain",
+    "period_s": 0.5,
+    "phase_fraction": 0.75,
+    "anchor_s": 1792923189.2501018,
+    "evaluations": 634,
+    "person_runs": 1,
+    "Rm_person": 0,
+    "Rs_person": 0,
+    "available_camera_sources": 1207,
+    "sampled_available_camera_sources": 634,
+    "unseen_available_camera_sources": 573,
+    "auto_evaluations": 634,
+    "invalid_AUTO_evaluations": 0,
+    "source_bridge_requests": 0,
+    "message_bridge_requests": 0,
+    "source_person_requests": 0,
+    "message_person_requests": 0,
+    "person_episodes": [
+      {
+        "first_t": 1792923446.6251018,
+        "last_t": 1792923446.6251018,
+        "samples": 1,
+        "sources": [
+          1792923446.163
+        ],
+        "source_trigger_t": null,
+        "message_trigger_t": null,
+        "source_delay_from_first_eval_s": null,
+        "message_delay_from_first_eval_s": null
+      }
+    ],
+    "source_requests": [],
+    "message_requests": [],
+    "states": {
+      "CAUTION": 146,
+      "CLEAR": 487,
+      "CRITICAL": 1
+    }
+  },
+  {
+    "run": "MISSION_20261025T101222_031804",
+    "variant": "held_recorded_fusion",
+    "period_s": 0.05,
+    "phase_fraction": 0,
+    "anchor_s": 1792923189.2501018,
+    "evaluations": 6340,
+    "person_runs": 1,
+    "Rm_person": 1,
+    "Rs_person": 0,
+    "available_camera_sources": 1207,
+    "sampled_available_camera_sources": 1206,
+    "unseen_available_camera_sources": 1,
+    "auto_evaluations": 6340,
+    "invalid_AUTO_evaluations": 0,
+    "source_bridge_requests": 0,
+    "message_bridge_requests": 1,
+    "source_person_requests": 0,
+    "message_person_requests": 1,
+    "person_episodes": [
+      {
+        "first_t": 1792923446.7001019,
+        "last_t": 1792923447.0501018,
+        "samples": 8,
+        "sources": [
+          1792923446.163
+        ],
+        "source_trigger_t": null,
+        "message_trigger_t": 1792923446.7501018,
+        "source_delay_from_first_eval_s": null,
+        "message_delay_from_first_eval_s": 0.04999995231628418
+      }
+    ],
+    "source_requests": [],
+    "message_requests": [
+      {
+        "t": 1792923446.7501018,
+        "action": "HOLD_REQUESTED_SEMANTIC_CONFIRMED_PERSON"
+      }
+    ],
+    "states": {
+      "CAUTION": 1473,
+      "CLEAR": 4859,
+      "CRITICAL": 8
+    }
+  },
+  {
+    "run": "MISSION_20261025T101222_031804",
+    "variant": "held_recorded_fusion",
+    "period_s": 0.05,
+    "phase_fraction": 0.25,
+    "anchor_s": 1792923189.2501018,
+    "evaluations": 6340,
+    "person_runs": 1,
+    "Rm_person": 1,
+    "Rs_person": 0,
+    "available_camera_sources": 1207,
+    "sampled_available_camera_sources": 1206,
+    "unseen_available_camera_sources": 1,
+    "auto_evaluations": 6340,
+    "invalid_AUTO_evaluations": 0,
+    "source_bridge_requests": 0,
+    "message_bridge_requests": 1,
+    "source_person_requests": 0,
+    "message_person_requests": 1,
+    "person_episodes": [
+      {
+        "first_t": 1792923446.662602,
+        "last_t": 1792923447.0126019,
+        "samples": 8,
+        "sources": [
+          1792923446.163
+        ],
+        "source_trigger_t": null,
+        "message_trigger_t": 1792923446.712602,
+        "source_delay_from_first_eval_s": null,
+        "message_delay_from_first_eval_s": 0.04999995231628418
+      }
+    ],
+    "source_requests": [],
+    "message_requests": [
+      {
+        "t": 1792923446.712602,
+        "action": "HOLD_REQUESTED_SEMANTIC_CONFIRMED_PERSON"
+      }
+    ],
+    "states": {
+      "CAUTION": 1472,
+      "CLEAR": 4860,
+      "CRITICAL": 8
+    }
+  },
+  {
+    "run": "MISSION_20261025T101222_031804",
+    "variant": "held_recorded_fusion",
+    "period_s": 0.05,
+    "phase_fraction": 0.5,
+    "anchor_s": 1792923189.2501018,
+    "evaluations": 6340,
+    "person_runs": 1,
+    "Rm_person": 1,
+    "Rs_person": 0,
+    "available_camera_sources": 1207,
+    "sampled_available_camera_sources": 1205,
+    "unseen_available_camera_sources": 2,
+    "auto_evaluations": 6340,
+    "invalid_AUTO_evaluations": 0,
+    "source_bridge_requests": 0,
+    "message_bridge_requests": 1,
+    "source_person_requests": 0,
+    "message_person_requests": 1,
+    "person_episodes": [
+      {
+        "first_t": 1792923446.675102,
+        "last_t": 1792923447.025102,
+        "samples": 8,
+        "sources": [
+          1792923446.163
+        ],
+        "source_trigger_t": null,
+        "message_trigger_t": 1792923446.725102,
+        "source_delay_from_first_eval_s": null,
+        "message_delay_from_first_eval_s": 0.04999995231628418
+      }
+    ],
+    "source_requests": [],
+    "message_requests": [
+      {
+        "t": 1792923446.725102,
+        "action": "HOLD_REQUESTED_SEMANTIC_CONFIRMED_PERSON"
+      }
+    ],
+    "states": {
+      "CAUTION": 1472,
+      "CLEAR": 4860,
+      "CRITICAL": 8
+    }
+  },
+  {
+    "run": "MISSION_20261025T101222_031804",
+    "variant": "held_recorded_fusion",
+    "period_s": 0.05,
+    "phase_fraction": 0.75,
+    "anchor_s": 1792923189.2501018,
+    "evaluations": 6339,
+    "person_runs": 1,
+    "Rm_person": 1,
+    "Rs_person": 0,
+    "available_camera_sources": 1207,
+    "sampled_available_camera_sources": 1206,
+    "unseen_available_camera_sources": 1,
+    "auto_evaluations": 6339,
+    "invalid_AUTO_evaluations": 0,
+    "source_bridge_requests": 0,
+    "message_bridge_requests": 1,
+    "source_person_requests": 0,
+    "message_person_requests": 1,
+    "person_episodes": [
+      {
+        "first_t": 1792923446.6876018,
+        "last_t": 1792923447.0376017,
+        "samples": 8,
+        "sources": [
+          1792923446.163
+        ],
+        "source_trigger_t": null,
+        "message_trigger_t": 1792923446.7376018,
+        "source_delay_from_first_eval_s": null,
+        "message_delay_from_first_eval_s": 0.04999995231628418
+      }
+    ],
+    "source_requests": [],
+    "message_requests": [
+      {
+        "t": 1792923446.7376018,
+        "action": "HOLD_REQUESTED_SEMANTIC_CONFIRMED_PERSON"
+      }
+    ],
+    "states": {
+      "CAUTION": 1472,
+      "CLEAR": 4859,
+      "CRITICAL": 8
+    }
+  },
+  {
+    "run": "MISSION_20261025T101222_031804",
+    "variant": "held_recorded_fusion",
+    "period_s": 0.1,
+    "phase_fraction": 0,
+    "anchor_s": 1792923189.2501018,
+    "evaluations": 3170,
+    "person_runs": 1,
+    "Rm_person": 1,
+    "Rs_person": 0,
+    "available_camera_sources": 1207,
+    "sampled_available_camera_sources": 1206,
+    "unseen_available_camera_sources": 1,
+    "auto_evaluations": 3170,
+    "invalid_AUTO_evaluations": 0,
+    "source_bridge_requests": 0,
+    "message_bridge_requests": 1,
+    "source_person_requests": 0,
+    "message_person_requests": 1,
+    "person_episodes": [
+      {
+        "first_t": 1792923446.7501018,
+        "last_t": 1792923447.0501018,
+        "samples": 4,
+        "sources": [
+          1792923446.163
+        ],
+        "source_trigger_t": null,
+        "message_trigger_t": 1792923446.8501017,
+        "source_delay_from_first_eval_s": null,
+        "message_delay_from_first_eval_s": 0.09999990463256836
+      }
+    ],
+    "source_requests": [],
+    "message_requests": [
+      {
+        "t": 1792923446.8501017,
+        "action": "HOLD_REQUESTED_SEMANTIC_CONFIRMED_PERSON"
+      }
+    ],
+    "states": {
+      "CAUTION": 737,
+      "CLEAR": 2429,
+      "CRITICAL": 4
+    }
+  },
+  {
+    "run": "MISSION_20261025T101222_031804",
+    "variant": "held_recorded_fusion",
+    "period_s": 0.1,
+    "phase_fraction": 0.25,
+    "anchor_s": 1792923189.2501018,
+    "evaluations": 3170,
+    "person_runs": 1,
+    "Rm_person": 1,
+    "Rs_person": 0,
+    "available_camera_sources": 1207,
+    "sampled_available_camera_sources": 1205,
+    "unseen_available_camera_sources": 2,
+    "auto_evaluations": 3170,
+    "invalid_AUTO_evaluations": 0,
+    "source_bridge_requests": 0,
+    "message_bridge_requests": 1,
+    "source_person_requests": 0,
+    "message_person_requests": 1,
+    "person_episodes": [
+      {
+        "first_t": 1792923446.675102,
+        "last_t": 1792923446.975102,
+        "samples": 4,
+        "sources": [
+          1792923446.163
+        ],
+        "source_trigger_t": null,
+        "message_trigger_t": 1792923446.775102,
+        "source_delay_from_first_eval_s": null,
+        "message_delay_from_first_eval_s": 0.09999990463256836
+      }
+    ],
+    "source_requests": [],
+    "message_requests": [
+      {
+        "t": 1792923446.775102,
+        "action": "HOLD_REQUESTED_SEMANTIC_CONFIRMED_PERSON"
+      }
+    ],
+    "states": {
+      "CAUTION": 736,
+      "CLEAR": 2430,
+      "CRITICAL": 4
+    }
+  },
+  {
+    "run": "MISSION_20261025T101222_031804",
+    "variant": "held_recorded_fusion",
+    "period_s": 0.1,
+    "phase_fraction": 0.5,
+    "anchor_s": 1792923189.2501018,
+    "evaluations": 3170,
+    "person_runs": 1,
+    "Rm_person": 1,
+    "Rs_person": 0,
+    "available_camera_sources": 1207,
+    "sampled_available_camera_sources": 1205,
+    "unseen_available_camera_sources": 2,
+    "auto_evaluations": 3170,
+    "invalid_AUTO_evaluations": 0,
+    "source_bridge_requests": 0,
+    "message_bridge_requests": 1,
+    "source_person_requests": 0,
+    "message_person_requests": 1,
+    "person_episodes": [
+      {
+        "first_t": 1792923446.7001019,
+        "last_t": 1792923447.0001018,
+        "samples": 4,
+        "sources": [
+          1792923446.163
+        ],
+        "source_trigger_t": null,
+        "message_trigger_t": 1792923446.8001018,
+        "source_delay_from_first_eval_s": null,
+        "message_delay_from_first_eval_s": 0.09999990463256836
+      }
+    ],
+    "source_requests": [],
+    "message_requests": [
+      {
+        "t": 1792923446.8001018,
+        "action": "HOLD_REQUESTED_SEMANTIC_CONFIRMED_PERSON"
+      }
+    ],
+    "states": {
+      "CAUTION": 736,
+      "CLEAR": 2430,
+      "CRITICAL": 4
+    }
+  },
+  {
+    "run": "MISSION_20261025T101222_031804",
+    "variant": "held_recorded_fusion",
+    "period_s": 0.1,
+    "phase_fraction": 0.75,
+    "anchor_s": 1792923189.2501018,
+    "evaluations": 3170,
+    "person_runs": 1,
+    "Rm_person": 1,
+    "Rs_person": 0,
+    "available_camera_sources": 1207,
+    "sampled_available_camera_sources": 1205,
+    "unseen_available_camera_sources": 2,
+    "auto_evaluations": 3170,
+    "invalid_AUTO_evaluations": 0,
+    "source_bridge_requests": 0,
+    "message_bridge_requests": 1,
+    "source_person_requests": 0,
+    "message_person_requests": 1,
+    "person_episodes": [
+      {
+        "first_t": 1792923446.725102,
+        "last_t": 1792923447.025102,
+        "samples": 4,
+        "sources": [
+          1792923446.163
+        ],
+        "source_trigger_t": null,
+        "message_trigger_t": 1792923446.8251019,
+        "source_delay_from_first_eval_s": null,
+        "message_delay_from_first_eval_s": 0.09999990463256836
+      }
+    ],
+    "source_requests": [],
+    "message_requests": [
+      {
+        "t": 1792923446.8251019,
+        "action": "HOLD_REQUESTED_SEMANTIC_CONFIRMED_PERSON"
+      }
+    ],
+    "states": {
+      "CAUTION": 736,
+      "CLEAR": 2430,
+      "CRITICAL": 4
+    }
+  },
+  {
+    "run": "MISSION_20261025T101222_031804",
+    "variant": "held_recorded_fusion",
+    "period_s": 0.2,
+    "phase_fraction": 0,
+    "anchor_s": 1792923189.2501018,
+    "evaluations": 1585,
+    "person_runs": 1,
+    "Rm_person": 1,
+    "Rs_person": 0,
+    "available_camera_sources": 1207,
+    "sampled_available_camera_sources": 1203,
+    "unseen_available_camera_sources": 4,
+    "auto_evaluations": 1585,
+    "invalid_AUTO_evaluations": 0,
+    "source_bridge_requests": 0,
+    "message_bridge_requests": 1,
+    "source_person_requests": 0,
+    "message_person_requests": 1,
+    "person_episodes": [
+      {
+        "first_t": 1792923446.8501017,
+        "last_t": 1792923447.0501018,
+        "samples": 2,
+        "sources": [
+          1792923446.163
+        ],
+        "source_trigger_t": null,
+        "message_trigger_t": 1792923447.0501018,
+        "source_delay_from_first_eval_s": null,
+        "message_delay_from_first_eval_s": 0.20000004768371582
+      }
+    ],
+    "source_requests": [],
+    "message_requests": [
+      {
+        "t": 1792923447.0501018,
+        "action": "HOLD_REQUESTED_SEMANTIC_CONFIRMED_PERSON"
+      }
+    ],
+    "states": {
+      "CAUTION": 369,
+      "CLEAR": 1214,
+      "CRITICAL": 2
+    }
+  },
+  {
+    "run": "MISSION_20261025T101222_031804",
+    "variant": "held_recorded_fusion",
+    "period_s": 0.2,
+    "phase_fraction": 0.25,
+    "anchor_s": 1792923189.2501018,
+    "evaluations": 1585,
+    "person_runs": 1,
+    "Rm_person": 1,
+    "Rs_person": 0,
+    "available_camera_sources": 1207,
+    "sampled_available_camera_sources": 1205,
+    "unseen_available_camera_sources": 2,
+    "auto_evaluations": 1585,
+    "invalid_AUTO_evaluations": 0,
+    "source_bridge_requests": 0,
+    "message_bridge_requests": 1,
+    "source_person_requests": 0,
+    "message_person_requests": 1,
+    "person_episodes": [
+      {
+        "first_t": 1792923446.7001019,
+        "last_t": 1792923446.9001017,
+        "samples": 2,
+        "sources": [
+          1792923446.163
+        ],
+        "source_trigger_t": null,
+        "message_trigger_t": 1792923446.9001017,
+        "source_delay_from_first_eval_s": null,
+        "message_delay_from_first_eval_s": 0.19999980926513672
+      }
+    ],
+    "source_requests": [],
+    "message_requests": [
+      {
+        "t": 1792923446.9001017,
+        "action": "HOLD_REQUESTED_SEMANTIC_CONFIRMED_PERSON"
+      }
+    ],
+    "states": {
+      "CAUTION": 367,
+      "CLEAR": 1216,
+      "CRITICAL": 2
+    }
+  },
+  {
+    "run": "MISSION_20261025T101222_031804",
+    "variant": "held_recorded_fusion",
+    "period_s": 0.2,
+    "phase_fraction": 0.5,
+    "anchor_s": 1792923189.2501018,
+    "evaluations": 1585,
+    "person_runs": 1,
+    "Rm_person": 1,
+    "Rs_person": 0,
+    "available_camera_sources": 1207,
+    "sampled_available_camera_sources": 1205,
+    "unseen_available_camera_sources": 2,
+    "auto_evaluations": 1585,
+    "invalid_AUTO_evaluations": 0,
+    "source_bridge_requests": 0,
+    "message_bridge_requests": 1,
+    "source_person_requests": 0,
+    "message_person_requests": 1,
+    "person_episodes": [
+      {
+        "first_t": 1792923446.7501018,
+        "last_t": 1792923446.9501016,
+        "samples": 2,
+        "sources": [
+          1792923446.163
+        ],
+        "source_trigger_t": null,
+        "message_trigger_t": 1792923446.9501016,
+        "source_delay_from_first_eval_s": null,
+        "message_delay_from_first_eval_s": 0.19999980926513672
+      }
+    ],
+    "source_requests": [],
+    "message_requests": [
+      {
+        "t": 1792923446.9501016,
+        "action": "HOLD_REQUESTED_SEMANTIC_CONFIRMED_PERSON"
+      }
+    ],
+    "states": {
+      "CAUTION": 368,
+      "CLEAR": 1215,
+      "CRITICAL": 2
+    }
+  },
+  {
+    "run": "MISSION_20261025T101222_031804",
+    "variant": "held_recorded_fusion",
+    "period_s": 0.2,
+    "phase_fraction": 0.75,
+    "anchor_s": 1792923189.2501018,
+    "evaluations": 1585,
+    "person_runs": 1,
+    "Rm_person": 1,
+    "Rs_person": 0,
+    "available_camera_sources": 1207,
+    "sampled_available_camera_sources": 1203,
+    "unseen_available_camera_sources": 4,
+    "auto_evaluations": 1585,
+    "invalid_AUTO_evaluations": 0,
+    "source_bridge_requests": 0,
+    "message_bridge_requests": 1,
+    "source_person_requests": 0,
+    "message_person_requests": 1,
+    "person_episodes": [
+      {
+        "first_t": 1792923446.800102,
+        "last_t": 1792923447.0001018,
+        "samples": 2,
+        "sources": [
+          1792923446.163
+        ],
+        "source_trigger_t": null,
+        "message_trigger_t": 1792923447.0001018,
+        "source_delay_from_first_eval_s": null,
+        "message_delay_from_first_eval_s": 0.19999980926513672
+      }
+    ],
+    "source_requests": [],
+    "message_requests": [
+      {
+        "t": 1792923447.0001018,
+        "action": "HOLD_REQUESTED_SEMANTIC_CONFIRMED_PERSON"
+      }
+    ],
+    "states": {
+      "CAUTION": 369,
+      "CLEAR": 1214,
+      "CRITICAL": 2
+    }
+  },
+  {
+    "run": "MISSION_20261025T101222_031804",
+    "variant": "held_recorded_fusion",
+    "period_s": 0.5,
+    "phase_fraction": 0,
+    "anchor_s": 1792923189.2501018,
+    "evaluations": 634,
+    "person_runs": 1,
+    "Rm_person": 0,
+    "Rs_person": 0,
+    "available_camera_sources": 1207,
+    "sampled_available_camera_sources": 633,
+    "unseen_available_camera_sources": 574,
+    "auto_evaluations": 634,
+    "invalid_AUTO_evaluations": 0,
+    "source_bridge_requests": 0,
+    "message_bridge_requests": 0,
+    "source_person_requests": 0,
+    "message_person_requests": 0,
+    "person_episodes": [
+      {
+        "first_t": 1792923446.7501018,
+        "last_t": 1792923446.7501018,
+        "samples": 1,
+        "sources": [
+          1792923446.163
+        ],
+        "source_trigger_t": null,
+        "message_trigger_t": null,
+        "source_delay_from_first_eval_s": null,
+        "message_delay_from_first_eval_s": null
+      }
+    ],
+    "source_requests": [],
+    "message_requests": [],
+    "states": {
+      "CAUTION": 147,
+      "CLEAR": 486,
+      "CRITICAL": 1
+    }
+  },
+  {
+    "run": "MISSION_20261025T101222_031804",
+    "variant": "held_recorded_fusion",
+    "period_s": 0.5,
+    "phase_fraction": 0.25,
+    "anchor_s": 1792923189.2501018,
+    "evaluations": 634,
+    "person_runs": 1,
+    "Rm_person": 0,
+    "Rs_person": 0,
+    "available_camera_sources": 1207,
+    "sampled_available_camera_sources": 634,
+    "unseen_available_camera_sources": 573,
+    "auto_evaluations": 634,
+    "invalid_AUTO_evaluations": 0,
+    "source_bridge_requests": 0,
+    "message_bridge_requests": 0,
+    "source_person_requests": 0,
+    "message_person_requests": 0,
+    "person_episodes": [
+      {
+        "first_t": 1792923446.8751018,
+        "last_t": 1792923446.8751018,
+        "samples": 1,
+        "sources": [
+          1792923446.163
+        ],
+        "source_trigger_t": null,
+        "message_trigger_t": null,
+        "source_delay_from_first_eval_s": null,
+        "message_delay_from_first_eval_s": null
+      }
+    ],
+    "source_requests": [],
+    "message_requests": [],
+    "states": {
+      "CAUTION": 146,
+      "CLEAR": 487,
+      "CRITICAL": 1
+    }
+  },
+  {
+    "run": "MISSION_20261025T101222_031804",
+    "variant": "held_recorded_fusion",
+    "period_s": 0.5,
+    "phase_fraction": 0.5,
+    "anchor_s": 1792923189.2501018,
+    "evaluations": 634,
+    "person_runs": 1,
+    "Rm_person": 0,
+    "Rs_person": 0,
+    "available_camera_sources": 1207,
+    "sampled_available_camera_sources": 634,
+    "unseen_available_camera_sources": 573,
+    "auto_evaluations": 634,
+    "invalid_AUTO_evaluations": 0,
+    "source_bridge_requests": 0,
+    "message_bridge_requests": 0,
+    "source_person_requests": 0,
+    "message_person_requests": 0,
+    "person_episodes": [
+      {
+        "first_t": 1792923447.0001018,
+        "last_t": 1792923447.0001018,
+        "samples": 1,
+        "sources": [
+          1792923446.163
+        ],
+        "source_trigger_t": null,
+        "message_trigger_t": null,
+        "source_delay_from_first_eval_s": null,
+        "message_delay_from_first_eval_s": null
+      }
+    ],
+    "source_requests": [],
+    "message_requests": [],
+    "states": {
+      "CAUTION": 146,
+      "CLEAR": 487,
+      "CRITICAL": 1
+    }
+  },
+  {
+    "run": "MISSION_20261025T101222_031804",
+    "variant": "held_recorded_fusion",
+    "period_s": 0.5,
+    "phase_fraction": 0.75,
+    "anchor_s": 1792923189.2501018,
+    "evaluations": 634,
+    "person_runs": 0,
+    "Rm_person": 0,
+    "Rs_person": 0,
+    "available_camera_sources": 1207,
+    "sampled_available_camera_sources": 634,
+    "unseen_available_camera_sources": 573,
+    "auto_evaluations": 634,
+    "invalid_AUTO_evaluations": 0,
+    "source_bridge_requests": 0,
+    "message_bridge_requests": 0,
+    "source_person_requests": 0,
+    "message_person_requests": 0,
+    "person_episodes": [],
+    "source_requests": [],
+    "message_requests": [],
+    "states": {
+      "CAUTION": 151,
+      "CLEAR": 483
+    }
+  },
+  {
+    "run": "MISSION_20261025T103420_406168",
+    "variant": "frozen_chain",
+    "period_s": 0.05,
+    "phase_fraction": 0,
+    "anchor_s": 1792924504.1498482,
+    "evaluations": 9275,
+    "person_runs": 4,
+    "Rm_person": 4,
+    "Rs_person": 1,
+    "available_camera_sources": 1793,
+    "sampled_available_camera_sources": 1793,
+    "unseen_available_camera_sources": 0,
+    "auto_evaluations": 8094,
+    "invalid_AUTO_evaluations": 0,
+    "source_bridge_requests": 2,
+    "message_bridge_requests": 3,
+    "source_person_requests": 1,
+    "message_person_requests": 3,
+    "person_episodes": [
+      {
+        "first_t": 1792924740.4498482,
+        "last_t": 1792924740.6998482,
+        "samples": 6,
+        "sources": [
+          1792924740.071
+        ],
+        "source_trigger_t": null,
+        "message_trigger_t": 1792924740.4998481,
+        "source_delay_from_first_eval_s": null,
+        "message_delay_from_first_eval_s": 0.04999995231628418
+      },
+      {
+        "first_t": 1792924942.7498481,
+        "last_t": 1792924942.8998482,
+        "samples": 4,
+        "sources": [
+          1792924942.264
+        ],
+        "source_trigger_t": null,
+        "message_trigger_t": 1792924942.7998483,
+        "source_delay_from_first_eval_s": null,
+        "message_delay_from_first_eval_s": 0.05000019073486328
+      },
+      {
+        "first_t": 1792924945.9498482,
+        "last_t": 1792924946.1998482,
+        "samples": 6,
+        "sources": [
+          1792924945.6
+        ],
+        "source_trigger_t": null,
+        "message_trigger_t": 1792924945.9998481,
+        "source_delay_from_first_eval_s": null,
+        "message_delay_from_first_eval_s": 0.04999995231628418
+      },
+      {
+        "first_t": 1792925061.0498483,
+        "last_t": 1792925061.3498483,
+        "samples": 7,
+        "sources": [
+          1792925060.585,
+          1792925060.752
+        ],
+        "source_trigger_t": 1792925061.3498483,
+        "message_trigger_t": 1792925061.0998483,
+        "source_delay_from_first_eval_s": 0.2999999523162842,
+        "message_delay_from_first_eval_s": 0.04999995231628418
+      }
+    ],
+    "source_requests": [
+      {
+        "t": 1792924898.1998482,
+        "action": "HOLD_REQUESTED_STABILITY_CRITICAL"
+      },
+      {
+        "t": 1792925061.3498483,
+        "action": "HOLD_REQUESTED_SEMANTIC_CONFIRMED_PERSON"
+      }
+    ],
+    "message_requests": [
+      {
+        "t": 1792924740.4998481,
+        "action": "HOLD_REQUESTED_SEMANTIC_CONFIRMED_PERSON"
+      },
+      {
+        "t": 1792924942.7998483,
+        "action": "HOLD_REQUESTED_SEMANTIC_CONFIRMED_PERSON"
+      },
+      {
+        "t": 1792925061.0998483,
+        "action": "HOLD_REQUESTED_SEMANTIC_CONFIRMED_PERSON"
+      }
+    ],
+    "states": {
+      "CAUTION": 4525,
+      "CLEAR": 4511,
+      "CRITICAL": 239
+    }
+  },
+  {
+    "run": "MISSION_20261025T103420_406168",
+    "variant": "frozen_chain",
+    "period_s": 0.05,
+    "phase_fraction": 0.25,
+    "anchor_s": 1792924504.1498482,
+    "evaluations": 9275,
+    "person_runs": 4,
+    "Rm_person": 4,
+    "Rs_person": 1,
+    "available_camera_sources": 1793,
+    "sampled_available_camera_sources": 1793,
+    "unseen_available_camera_sources": 0,
+    "auto_evaluations": 8095,
+    "invalid_AUTO_evaluations": 0,
+    "source_bridge_requests": 2,
+    "message_bridge_requests": 3,
+    "source_person_requests": 1,
+    "message_person_requests": 3,
+    "person_episodes": [
+      {
+        "first_t": 1792924740.4623482,
+        "last_t": 1792924740.7123482,
+        "samples": 6,
+        "sources": [
+          1792924740.071
+        ],
+        "source_trigger_t": null,
+        "message_trigger_t": 1792924740.5123482,
+        "source_delay_from_first_eval_s": null,
+        "message_delay_from_first_eval_s": 0.04999995231628418
+      },
+      {
+        "first_t": 1792924942.7123482,
+        "last_t": 1792924942.9123483,
+        "samples": 5,
+        "sources": [
+          1792924942.264
+        ],
+        "source_trigger_t": null,
+        "message_trigger_t": 1792924942.7623482,
+        "source_delay_from_first_eval_s": null,
+        "message_delay_from_first_eval_s": 0.04999995231628418
+      },
+      {
+        "first_t": 1792924945.9623482,
+        "last_t": 1792924946.1623483,
+        "samples": 5,
+        "sources": [
+          1792924945.6
+        ],
+        "source_trigger_t": null,
+        "message_trigger_t": 1792924946.0123482,
+        "source_delay_from_first_eval_s": null,
+        "message_delay_from_first_eval_s": 0.04999995231628418
+      },
+      {
+        "first_t": 1792925061.0123482,
+        "last_t": 1792925061.3623483,
+        "samples": 8,
+        "sources": [
+          1792925060.585,
+          1792925060.752
+        ],
+        "source_trigger_t": 1792925061.3123484,
+        "message_trigger_t": 1792925061.0623484,
+        "source_delay_from_first_eval_s": 0.3000001907348633,
+        "message_delay_from_first_eval_s": 0.05000019073486328
+      }
+    ],
+    "source_requests": [
+      {
+        "t": 1792924898.1623483,
+        "action": "HOLD_REQUESTED_STABILITY_CRITICAL"
+      },
+      {
+        "t": 1792925061.3123484,
+        "action": "HOLD_REQUESTED_SEMANTIC_CONFIRMED_PERSON"
+      }
+    ],
+    "message_requests": [
+      {
+        "t": 1792924740.5123482,
+        "action": "HOLD_REQUESTED_SEMANTIC_CONFIRMED_PERSON"
+      },
+      {
+        "t": 1792924942.7623482,
+        "action": "HOLD_REQUESTED_SEMANTIC_CONFIRMED_PERSON"
+      },
+      {
+        "t": 1792925061.0623484,
+        "action": "HOLD_REQUESTED_SEMANTIC_CONFIRMED_PERSON"
+      }
+    ],
+    "states": {
+      "CAUTION": 4536,
+      "CLEAR": 4498,
+      "CRITICAL": 241
+    }
+  },
+  {
+    "run": "MISSION_20261025T103420_406168",
+    "variant": "frozen_chain",
+    "period_s": 0.05,
+    "phase_fraction": 0.5,
+    "anchor_s": 1792924504.1498482,
+    "evaluations": 9274,
+    "person_runs": 4,
+    "Rm_person": 4,
+    "Rs_person": 1,
+    "available_camera_sources": 1793,
+    "sampled_available_camera_sources": 1793,
+    "unseen_available_camera_sources": 0,
+    "auto_evaluations": 8095,
+    "invalid_AUTO_evaluations": 0,
+    "source_bridge_requests": 2,
+    "message_bridge_requests": 3,
+    "source_person_requests": 1,
+    "message_person_requests": 3,
+    "person_episodes": [
+      {
+        "first_t": 1792924740.4748483,
+        "last_t": 1792924740.7248483,
+        "samples": 6,
+        "sources": [
+          1792924740.071
+        ],
+        "source_trigger_t": null,
+        "message_trigger_t": 1792924740.5248482,
+        "source_delay_from_first_eval_s": null,
+        "message_delay_from_first_eval_s": 0.04999995231628418
+      },
+      {
+        "first_t": 1792924942.7248483,
+        "last_t": 1792924942.9248483,
+        "samples": 5,
+        "sources": [
+          1792924942.264
+        ],
+        "source_trigger_t": null,
+        "message_trigger_t": 1792924942.7748482,
+        "source_delay_from_first_eval_s": null,
+        "message_delay_from_first_eval_s": 0.04999995231628418
+      },
+      {
+        "first_t": 1792924945.9748483,
+        "last_t": 1792924946.1748483,
+        "samples": 5,
+        "sources": [
+          1792924945.6
+        ],
+        "source_trigger_t": null,
+        "message_trigger_t": 1792924946.0248482,
+        "source_delay_from_first_eval_s": null,
+        "message_delay_from_first_eval_s": 0.04999995231628418
+      },
+      {
+        "first_t": 1792925061.0248482,
+        "last_t": 1792925061.3748484,
+        "samples": 8,
+        "sources": [
+          1792925060.585,
+          1792925060.752
+        ],
+        "source_trigger_t": 1792925061.3248484,
+        "message_trigger_t": 1792925061.0748484,
+        "source_delay_from_first_eval_s": 0.3000001907348633,
+        "message_delay_from_first_eval_s": 0.05000019073486328
+      }
+    ],
+    "source_requests": [
+      {
+        "t": 1792924898.1748483,
+        "action": "HOLD_REQUESTED_STABILITY_CRITICAL"
+      },
+      {
+        "t": 1792925061.3248484,
+        "action": "HOLD_REQUESTED_SEMANTIC_CONFIRMED_PERSON"
+      }
+    ],
+    "message_requests": [
+      {
+        "t": 1792924740.5248482,
+        "action": "HOLD_REQUESTED_SEMANTIC_CONFIRMED_PERSON"
+      },
+      {
+        "t": 1792924942.7748482,
+        "action": "HOLD_REQUESTED_SEMANTIC_CONFIRMED_PERSON"
+      },
+      {
+        "t": 1792925061.0748484,
+        "action": "HOLD_REQUESTED_SEMANTIC_CONFIRMED_PERSON"
+      }
+    ],
+    "states": {
+      "CAUTION": 4531,
+      "CLEAR": 4503,
+      "CRITICAL": 240
+    }
+  },
+  {
+    "run": "MISSION_20261025T103420_406168",
+    "variant": "frozen_chain",
+    "period_s": 0.05,
+    "phase_fraction": 0.75,
+    "anchor_s": 1792924504.1498482,
+    "evaluations": 9274,
+    "person_runs": 4,
+    "Rm_person": 4,
+    "Rs_person": 1,
+    "available_camera_sources": 1793,
+    "sampled_available_camera_sources": 1793,
+    "unseen_available_camera_sources": 0,
+    "auto_evaluations": 8095,
+    "invalid_AUTO_evaluations": 0,
+    "source_bridge_requests": 2,
+    "message_bridge_requests": 3,
+    "source_person_requests": 1,
+    "message_person_requests": 3,
+    "person_episodes": [
+      {
+        "first_t": 1792924740.487348,
+        "last_t": 1792924740.737348,
+        "samples": 6,
+        "sources": [
+          1792924740.071
+        ],
+        "source_trigger_t": null,
+        "message_trigger_t": 1792924740.537348,
+        "source_delay_from_first_eval_s": null,
+        "message_delay_from_first_eval_s": 0.04999995231628418
+      },
+      {
+        "first_t": 1792924942.737348,
+        "last_t": 1792924942.9373481,
+        "samples": 5,
+        "sources": [
+          1792924942.264
+        ],
+        "source_trigger_t": null,
+        "message_trigger_t": 1792924942.787348,
+        "source_delay_from_first_eval_s": null,
+        "message_delay_from_first_eval_s": 0.04999995231628418
+      },
+      {
+        "first_t": 1792924945.9373481,
+        "last_t": 1792924946.1873481,
+        "samples": 6,
+        "sources": [
+          1792924945.6
+        ],
+        "source_trigger_t": null,
+        "message_trigger_t": 1792924945.987348,
+        "source_delay_from_first_eval_s": null,
+        "message_delay_from_first_eval_s": 0.04999995231628418
+      },
+      {
+        "first_t": 1792925061.037348,
+        "last_t": 1792925061.3873482,
+        "samples": 8,
+        "sources": [
+          1792925060.585,
+          1792925060.752
+        ],
+        "source_trigger_t": 1792925061.3373482,
+        "message_trigger_t": 1792925061.0873482,
+        "source_delay_from_first_eval_s": 0.3000001907348633,
+        "message_delay_from_first_eval_s": 0.05000019073486328
+      }
+    ],
+    "source_requests": [
+      {
+        "t": 1792924898.1873481,
+        "action": "HOLD_REQUESTED_STABILITY_CRITICAL"
+      },
+      {
+        "t": 1792925061.3373482,
+        "action": "HOLD_REQUESTED_SEMANTIC_CONFIRMED_PERSON"
+      }
+    ],
+    "message_requests": [
+      {
+        "t": 1792924740.537348,
+        "action": "HOLD_REQUESTED_SEMANTIC_CONFIRMED_PERSON"
+      },
+      {
+        "t": 1792924942.787348,
+        "action": "HOLD_REQUESTED_SEMANTIC_CONFIRMED_PERSON"
+      },
+      {
+        "t": 1792925061.0873482,
+        "action": "HOLD_REQUESTED_SEMANTIC_CONFIRMED_PERSON"
+      }
+    ],
+    "states": {
+      "CAUTION": 4539,
+      "CLEAR": 4495,
+      "CRITICAL": 240
+    }
+  },
+  {
+    "run": "MISSION_20261025T103420_406168",
+    "variant": "frozen_chain",
+    "period_s": 0.1,
+    "phase_fraction": 0,
+    "anchor_s": 1792924504.1498482,
+    "evaluations": 4637,
+    "person_runs": 4,
+    "Rm_person": 4,
+    "Rs_person": 1,
+    "available_camera_sources": 1793,
+    "sampled_available_camera_sources": 1793,
+    "unseen_available_camera_sources": 0,
+    "auto_evaluations": 4047,
+    "invalid_AUTO_evaluations": 0,
+    "source_bridge_requests": 2,
+    "message_bridge_requests": 3,
+    "source_person_requests": 1,
+    "message_person_requests": 3,
+    "person_episodes": [
+      {
+        "first_t": 1792924740.4498482,
+        "last_t": 1792924740.6498482,
+        "samples": 3,
+        "sources": [
+          1792924740.071
+        ],
+        "source_trigger_t": null,
+        "message_trigger_t": 1792924740.5498483,
+        "source_delay_from_first_eval_s": null,
+        "message_delay_from_first_eval_s": 0.10000014305114746
+      },
+      {
+        "first_t": 1792924942.7498481,
+        "last_t": 1792924942.8498483,
+        "samples": 2,
+        "sources": [
+          1792924942.264
+        ],
+        "source_trigger_t": null,
+        "message_trigger_t": 1792924942.8498483,
+        "source_delay_from_first_eval_s": null,
+        "message_delay_from_first_eval_s": 0.10000014305114746
+      },
+      {
+        "first_t": 1792924945.9498482,
+        "last_t": 1792924946.1498482,
+        "samples": 3,
+        "sources": [
+          1792924945.6
+        ],
+        "source_trigger_t": null,
+        "message_trigger_t": 1792924946.0498483,
+        "source_delay_from_first_eval_s": null,
+        "message_delay_from_first_eval_s": 0.10000014305114746
+      },
+      {
+        "first_t": 1792925061.0498483,
+        "last_t": 1792925061.3498483,
+        "samples": 4,
+        "sources": [
+          1792925060.585,
+          1792925060.752
+        ],
+        "source_trigger_t": 1792925061.3498483,
+        "message_trigger_t": 1792925061.1498482,
+        "source_delay_from_first_eval_s": 0.2999999523162842,
+        "message_delay_from_first_eval_s": 0.09999990463256836
+      }
+    ],
+    "source_requests": [
+      {
+        "t": 1792924898.2498481,
+        "action": "HOLD_REQUESTED_STABILITY_CRITICAL"
+      },
+      {
+        "t": 1792925061.3498483,
+        "action": "HOLD_REQUESTED_SEMANTIC_CONFIRMED_PERSON"
+      }
+    ],
+    "message_requests": [
+      {
+        "t": 1792924740.5498483,
+        "action": "HOLD_REQUESTED_SEMANTIC_CONFIRMED_PERSON"
+      },
+      {
+        "t": 1792924942.8498483,
+        "action": "HOLD_REQUESTED_SEMANTIC_CONFIRMED_PERSON"
+      },
+      {
+        "t": 1792925061.1498482,
+        "action": "HOLD_REQUESTED_SEMANTIC_CONFIRMED_PERSON"
+      }
+    ],
+    "states": {
+      "CAUTION": 2258,
+      "CLEAR": 2259,
+      "CRITICAL": 120
+    }
+  },
+  {
+    "run": "MISSION_20261025T103420_406168",
+    "variant": "frozen_chain",
+    "period_s": 0.1,
+    "phase_fraction": 0.25,
+    "anchor_s": 1792924504.1498482,
+    "evaluations": 4637,
+    "person_runs": 4,
+    "Rm_person": 4,
+    "Rs_person": 1,
+    "available_camera_sources": 1793,
+    "sampled_available_camera_sources": 1793,
+    "unseen_available_camera_sources": 0,
+    "auto_evaluations": 4047,
+    "invalid_AUTO_evaluations": 0,
+    "source_bridge_requests": 2,
+    "message_bridge_requests": 3,
+    "source_person_requests": 1,
+    "message_person_requests": 3,
+    "person_episodes": [
+      {
+        "first_t": 1792924740.4748483,
+        "last_t": 1792924740.6748483,
+        "samples": 3,
+        "sources": [
+          1792924740.071
+        ],
+        "source_trigger_t": null,
+        "message_trigger_t": 1792924740.5748484,
+        "source_delay_from_first_eval_s": null,
+        "message_delay_from_first_eval_s": 0.10000014305114746
+      },
+      {
+        "first_t": 1792924942.7748482,
+        "last_t": 1792924942.8748484,
+        "samples": 2,
+        "sources": [
+          1792924942.264
+        ],
+        "source_trigger_t": null,
+        "message_trigger_t": 1792924942.8748484,
+        "source_delay_from_first_eval_s": null,
+        "message_delay_from_first_eval_s": 0.10000014305114746
+      },
+      {
+        "first_t": 1792924945.9748483,
+        "last_t": 1792924946.1748483,
+        "samples": 3,
+        "sources": [
+          1792924945.6
+        ],
+        "source_trigger_t": null,
+        "message_trigger_t": 1792924946.0748484,
+        "source_delay_from_first_eval_s": null,
+        "message_delay_from_first_eval_s": 0.10000014305114746
+      },
+      {
+        "first_t": 1792925061.0748484,
+        "last_t": 1792925061.3748484,
+        "samples": 4,
+        "sources": [
+          1792925060.585,
+          1792925060.752
+        ],
+        "source_trigger_t": 1792925061.3748484,
+        "message_trigger_t": 1792925061.1748483,
+        "source_delay_from_first_eval_s": 0.2999999523162842,
+        "message_delay_from_first_eval_s": 0.09999990463256836
+      }
+    ],
+    "source_requests": [
+      {
+        "t": 1792924898.1748483,
+        "action": "HOLD_REQUESTED_STABILITY_CRITICAL"
+      },
+      {
+        "t": 1792925061.3748484,
+        "action": "HOLD_REQUESTED_SEMANTIC_CONFIRMED_PERSON"
+      }
+    ],
+    "message_requests": [
+      {
+        "t": 1792924740.5748484,
+        "action": "HOLD_REQUESTED_SEMANTIC_CONFIRMED_PERSON"
+      },
+      {
+        "t": 1792924942.8748484,
+        "action": "HOLD_REQUESTED_SEMANTIC_CONFIRMED_PERSON"
+      },
+      {
+        "t": 1792925061.1748483,
+        "action": "HOLD_REQUESTED_SEMANTIC_CONFIRMED_PERSON"
+      }
+    ],
+    "states": {
+      "CAUTION": 2265,
+      "CLEAR": 2252,
+      "CRITICAL": 120
+    }
+  },
+  {
+    "run": "MISSION_20261025T103420_406168",
+    "variant": "frozen_chain",
+    "period_s": 0.1,
+    "phase_fraction": 0.5,
+    "anchor_s": 1792924504.1498482,
+    "evaluations": 4638,
+    "person_runs": 4,
+    "Rm_person": 4,
+    "Rs_person": 0,
+    "available_camera_sources": 1793,
+    "sampled_available_camera_sources": 1793,
+    "unseen_available_camera_sources": 0,
+    "auto_evaluations": 4047,
+    "invalid_AUTO_evaluations": 0,
+    "source_bridge_requests": 1,
+    "message_bridge_requests": 3,
+    "source_person_requests": 0,
+    "message_person_requests": 3,
+    "person_episodes": [
+      {
+        "first_t": 1792924740.4998481,
+        "last_t": 1792924740.6998482,
+        "samples": 3,
+        "sources": [
+          1792924740.071
+        ],
+        "source_trigger_t": null,
+        "message_trigger_t": 1792924740.5998483,
+        "source_delay_from_first_eval_s": null,
+        "message_delay_from_first_eval_s": 0.10000014305114746
+      },
+      {
+        "first_t": 1792924942.799848,
+        "last_t": 1792924942.8998482,
+        "samples": 2,
+        "sources": [
+          1792924942.264
+        ],
+        "source_trigger_t": null,
+        "message_trigger_t": 1792924942.8998482,
+        "source_delay_from_first_eval_s": null,
+        "message_delay_from_first_eval_s": 0.10000014305114746
+      },
+      {
+        "first_t": 1792924945.9998481,
+        "last_t": 1792924946.1998482,
+        "samples": 3,
+        "sources": [
+          1792924945.6
+        ],
+        "source_trigger_t": null,
+        "message_trigger_t": 1792924946.0998483,
+        "source_delay_from_first_eval_s": null,
+        "message_delay_from_first_eval_s": 0.10000014305114746
+      },
+      {
+        "first_t": 1792925061.0998483,
+        "last_t": 1792925061.299848,
+        "samples": 3,
+        "sources": [
+          1792925060.585
+        ],
+        "source_trigger_t": null,
+        "message_trigger_t": 1792925061.1998482,
+        "source_delay_from_first_eval_s": null,
+        "message_delay_from_first_eval_s": 0.09999990463256836
+      }
+    ],
+    "source_requests": [
+      {
+        "t": 1792924898.1998482,
+        "action": "HOLD_REQUESTED_STABILITY_CRITICAL"
+      }
+    ],
+    "message_requests": [
+      {
+        "t": 1792924740.5998483,
+        "action": "HOLD_REQUESTED_SEMANTIC_CONFIRMED_PERSON"
+      },
+      {
+        "t": 1792924942.8998482,
+        "action": "HOLD_REQUESTED_SEMANTIC_CONFIRMED_PERSON"
+      },
+      {
+        "t": 1792925061.1998482,
+        "action": "HOLD_REQUESTED_SEMANTIC_CONFIRMED_PERSON"
+      }
+    ],
+    "states": {
+      "CAUTION": 2267,
+      "CLEAR": 2252,
+      "CRITICAL": 119
+    }
+  },
+  {
+    "run": "MISSION_20261025T103420_406168",
+    "variant": "frozen_chain",
+    "period_s": 0.1,
+    "phase_fraction": 0.75,
+    "anchor_s": 1792924504.1498482,
+    "evaluations": 4637,
+    "person_runs": 4,
+    "Rm_person": 4,
+    "Rs_person": 1,
+    "available_camera_sources": 1793,
+    "sampled_available_camera_sources": 1793,
+    "unseen_available_camera_sources": 0,
+    "auto_evaluations": 4048,
+    "invalid_AUTO_evaluations": 0,
+    "source_bridge_requests": 2,
+    "message_bridge_requests": 3,
+    "source_person_requests": 1,
+    "message_person_requests": 3,
+    "person_episodes": [
+      {
+        "first_t": 1792924740.5248482,
+        "last_t": 1792924740.7248483,
+        "samples": 3,
+        "sources": [
+          1792924740.071
+        ],
+        "source_trigger_t": null,
+        "message_trigger_t": 1792924740.6248484,
+        "source_delay_from_first_eval_s": null,
+        "message_delay_from_first_eval_s": 0.10000014305114746
+      },
+      {
+        "first_t": 1792924942.7248483,
+        "last_t": 1792924942.9248483,
+        "samples": 3,
+        "sources": [
+          1792924942.264
+        ],
+        "source_trigger_t": null,
+        "message_trigger_t": 1792924942.8248482,
+        "source_delay_from_first_eval_s": null,
+        "message_delay_from_first_eval_s": 0.09999990463256836
+      },
+      {
+        "first_t": 1792924946.0248482,
+        "last_t": 1792924946.1248484,
+        "samples": 2,
+        "sources": [
+          1792924945.6
+        ],
+        "source_trigger_t": null,
+        "message_trigger_t": 1792924946.1248484,
+        "source_delay_from_first_eval_s": null,
+        "message_delay_from_first_eval_s": 0.10000014305114746
+      },
+      {
+        "first_t": 1792925061.0248482,
+        "last_t": 1792925061.3248482,
+        "samples": 4,
+        "sources": [
+          1792925060.585,
+          1792925060.752
+        ],
+        "source_trigger_t": 1792925061.3248482,
+        "message_trigger_t": 1792925061.1248484,
+        "source_delay_from_first_eval_s": 0.2999999523162842,
+        "message_delay_from_first_eval_s": 0.10000014305114746
+      }
+    ],
+    "source_requests": [
+      {
+        "t": 1792924898.2248483,
+        "action": "HOLD_REQUESTED_STABILITY_CRITICAL"
+      },
+      {
+        "t": 1792925061.3248482,
+        "action": "HOLD_REQUESTED_SEMANTIC_CONFIRMED_PERSON"
+      }
+    ],
+    "message_requests": [
+      {
+        "t": 1792924740.6248484,
+        "action": "HOLD_REQUESTED_SEMANTIC_CONFIRMED_PERSON"
+      },
+      {
+        "t": 1792924942.8248482,
+        "action": "HOLD_REQUESTED_SEMANTIC_CONFIRMED_PERSON"
+      },
+      {
+        "t": 1792925061.1248484,
+        "action": "HOLD_REQUESTED_SEMANTIC_CONFIRMED_PERSON"
+      }
+    ],
+    "states": {
+      "CAUTION": 2266,
+      "CLEAR": 2251,
+      "CRITICAL": 120
+    }
+  },
+  {
+    "run": "MISSION_20261025T103420_406168",
+    "variant": "frozen_chain",
+    "period_s": 0.2,
+    "phase_fraction": 0,
+    "anchor_s": 1792924504.1498482,
+    "evaluations": 2319,
+    "person_runs": 4,
+    "Rm_person": 2,
+    "Rs_person": 1,
+    "available_camera_sources": 1793,
+    "sampled_available_camera_sources": 1784,
+    "unseen_available_camera_sources": 9,
+    "auto_evaluations": 2024,
+    "invalid_AUTO_evaluations": 0,
+    "source_bridge_requests": 1,
+    "message_bridge_requests": 2,
+    "source_person_requests": 1,
+    "message_person_requests": 2,
+    "person_episodes": [
+      {
+        "first_t": 1792924740.5498483,
+        "last_t": 1792924740.5498483,
+        "samples": 1,
+        "sources": [
+          1792924740.071
+        ],
+        "source_trigger_t": null,
+        "message_trigger_t": null,
+        "source_delay_from_first_eval_s": null,
+        "message_delay_from_first_eval_s": null
+      },
+      {
+        "first_t": 1792924942.7498481,
+        "last_t": 1792924942.7498481,
+        "samples": 1,
+        "sources": [
+          1792924942.264
+        ],
+        "source_trigger_t": null,
+        "message_trigger_t": null,
+        "source_delay_from_first_eval_s": null,
+        "message_delay_from_first_eval_s": null
+      },
+      {
+        "first_t": 1792924945.9498482,
+        "last_t": 1792924946.1498482,
+        "samples": 2,
+        "sources": [
+          1792924945.6
+        ],
+        "source_trigger_t": null,
+        "message_trigger_t": 1792924946.1498482,
+        "source_delay_from_first_eval_s": null,
+        "message_delay_from_first_eval_s": 0.20000004768371582
+      },
+      {
+        "first_t": 1792925061.1498482,
+        "last_t": 1792925061.3498483,
+        "samples": 2,
+        "sources": [
+          1792925060.585,
+          1792925060.752
+        ],
+        "source_trigger_t": 1792925061.3498483,
+        "message_trigger_t": 1792925061.3498483,
+        "source_delay_from_first_eval_s": 0.20000004768371582,
+        "message_delay_from_first_eval_s": 0.20000004768371582
+      }
+    ],
+    "source_requests": [
+      {
+        "t": 1792925061.3498483,
+        "action": "HOLD_REQUESTED_SEMANTIC_CONFIRMED_PERSON"
+      }
+    ],
+    "message_requests": [
+      {
+        "t": 1792924946.1498482,
+        "action": "HOLD_REQUESTED_SEMANTIC_CONFIRMED_PERSON"
+      },
+      {
+        "t": 1792925061.3498483,
+        "action": "HOLD_REQUESTED_SEMANTIC_CONFIRMED_PERSON"
+      }
+    ],
+    "states": {
+      "CAUTION": 1135,
+      "CLEAR": 1125,
+      "CRITICAL": 59
+    }
+  },
+  {
+    "run": "MISSION_20261025T103420_406168",
+    "variant": "frozen_chain",
+    "period_s": 0.2,
+    "phase_fraction": 0.25,
+    "anchor_s": 1792924504.1498482,
+    "evaluations": 2319,
+    "person_runs": 4,
+    "Rm_person": 1,
+    "Rs_person": 0,
+    "available_camera_sources": 1793,
+    "sampled_available_camera_sources": 1789,
+    "unseen_available_camera_sources": 4,
+    "auto_evaluations": 2023,
+    "invalid_AUTO_evaluations": 0,
+    "source_bridge_requests": 1,
+    "message_bridge_requests": 2,
+    "source_person_requests": 0,
+    "message_person_requests": 1,
+    "person_episodes": [
+      {
+        "first_t": 1792924740.5998483,
+        "last_t": 1792924740.5998483,
+        "samples": 1,
+        "sources": [
+          1792924740.071
+        ],
+        "source_trigger_t": null,
+        "message_trigger_t": null,
+        "source_delay_from_first_eval_s": null,
+        "message_delay_from_first_eval_s": null
+      },
+      {
+        "first_t": 1792924942.799848,
+        "last_t": 1792924942.799848,
+        "samples": 1,
+        "sources": [
+          1792924942.264
+        ],
+        "source_trigger_t": null,
+        "message_trigger_t": null,
+        "source_delay_from_first_eval_s": null,
+        "message_delay_from_first_eval_s": null
+      },
+      {
+        "first_t": 1792924945.9998481,
+        "last_t": 1792924946.1998482,
+        "samples": 2,
+        "sources": [
+          1792924945.6
+        ],
+        "source_trigger_t": null,
+        "message_trigger_t": 1792924946.1998482,
+        "source_delay_from_first_eval_s": null,
+        "message_delay_from_first_eval_s": 0.20000004768371582
+      },
+      {
+        "first_t": 1792925061.1998482,
+        "last_t": 1792925061.1998482,
+        "samples": 1,
+        "sources": [
+          1792925060.585
+        ],
+        "source_trigger_t": null,
+        "message_trigger_t": null,
+        "source_delay_from_first_eval_s": null,
+        "message_delay_from_first_eval_s": null
+      }
+    ],
+    "source_requests": [
+      {
+        "t": 1792924898.1998482,
+        "action": "HOLD_REQUESTED_STABILITY_CRITICAL"
+      }
+    ],
+    "message_requests": [
+      {
+        "t": 1792924898.1998482,
+        "action": "HOLD_REQUESTED_STABILITY_CRITICAL"
+      },
+      {
+        "t": 1792924946.1998482,
+        "action": "HOLD_REQUESTED_SEMANTIC_CONFIRMED_PERSON"
+      }
+    ],
+    "states": {
+      "CAUTION": 1138,
+      "CLEAR": 1121,
+      "CRITICAL": 60
+    }
+  },
+  {
+    "run": "MISSION_20261025T103420_406168",
+    "variant": "frozen_chain",
+    "period_s": 0.2,
+    "phase_fraction": 0.5,
+    "anchor_s": 1792924504.1498482,
+    "evaluations": 2318,
+    "person_runs": 4,
+    "Rm_person": 2,
+    "Rs_person": 0,
+    "available_camera_sources": 1793,
+    "sampled_available_camera_sources": 1787,
+    "unseen_available_camera_sources": 6,
+    "auto_evaluations": 2023,
+    "invalid_AUTO_evaluations": 0,
+    "source_bridge_requests": 1,
+    "message_bridge_requests": 2,
+    "source_person_requests": 0,
+    "message_person_requests": 2,
+    "person_episodes": [
+      {
+        "first_t": 1792924740.4498482,
+        "last_t": 1792924740.6498482,
+        "samples": 2,
+        "sources": [
+          1792924740.071
+        ],
+        "source_trigger_t": null,
+        "message_trigger_t": 1792924740.6498482,
+        "source_delay_from_first_eval_s": null,
+        "message_delay_from_first_eval_s": 0.20000004768371582
+      },
+      {
+        "first_t": 1792924942.849848,
+        "last_t": 1792924942.849848,
+        "samples": 1,
+        "sources": [
+          1792924942.264
+        ],
+        "source_trigger_t": null,
+        "message_trigger_t": null,
+        "source_delay_from_first_eval_s": null,
+        "message_delay_from_first_eval_s": null
+      },
+      {
+        "first_t": 1792924946.049848,
+        "last_t": 1792924946.049848,
+        "samples": 1,
+        "sources": [
+          1792924945.6
+        ],
+        "source_trigger_t": null,
+        "message_trigger_t": null,
+        "source_delay_from_first_eval_s": null,
+        "message_delay_from_first_eval_s": null
+      },
+      {
+        "first_t": 1792925061.049848,
+        "last_t": 1792925061.2498481,
+        "samples": 2,
+        "sources": [
+          1792925060.585
+        ],
+        "source_trigger_t": null,
+        "message_trigger_t": 1792925061.2498481,
+        "source_delay_from_first_eval_s": null,
+        "message_delay_from_first_eval_s": 0.20000004768371582
+      }
+    ],
+    "source_requests": [
+      {
+        "t": 1792924898.2498481,
+        "action": "HOLD_REQUESTED_STABILITY_CRITICAL"
+      }
+    ],
+    "message_requests": [
+      {
+        "t": 1792924740.6498482,
+        "action": "HOLD_REQUESTED_SEMANTIC_CONFIRMED_PERSON"
+      },
+      {
+        "t": 1792925061.2498481,
+        "action": "HOLD_REQUESTED_SEMANTIC_CONFIRMED_PERSON"
+      }
+    ],
+    "states": {
+      "CAUTION": 1123,
+      "CLEAR": 1134,
+      "CRITICAL": 61
+    }
+  },
+  {
+    "run": "MISSION_20261025T103420_406168",
+    "variant": "frozen_chain",
+    "period_s": 0.2,
+    "phase_fraction": 0.75,
+    "anchor_s": 1792924504.1498482,
+    "evaluations": 2319,
+    "person_runs": 4,
+    "Rm_person": 2,
+    "Rs_person": 0,
+    "available_camera_sources": 1793,
+    "sampled_available_camera_sources": 1786,
+    "unseen_available_camera_sources": 7,
+    "auto_evaluations": 2024,
+    "invalid_AUTO_evaluations": 0,
+    "source_bridge_requests": 0,
+    "message_bridge_requests": 2,
+    "source_person_requests": 0,
+    "message_person_requests": 2,
+    "person_episodes": [
+      {
+        "first_t": 1792924740.4998484,
+        "last_t": 1792924740.6998484,
+        "samples": 2,
+        "sources": [
+          1792924740.071
+        ],
+        "source_trigger_t": null,
+        "message_trigger_t": 1792924740.6998484,
+        "source_delay_from_first_eval_s": null,
+        "message_delay_from_first_eval_s": 0.20000004768371582
+      },
+      {
+        "first_t": 1792924942.8998482,
+        "last_t": 1792924942.8998482,
+        "samples": 1,
+        "sources": [
+          1792924942.264
+        ],
+        "source_trigger_t": null,
+        "message_trigger_t": null,
+        "source_delay_from_first_eval_s": null,
+        "message_delay_from_first_eval_s": null
+      },
+      {
+        "first_t": 1792924946.0998483,
+        "last_t": 1792924946.0998483,
+        "samples": 1,
+        "sources": [
+          1792924945.6
+        ],
+        "source_trigger_t": null,
+        "message_trigger_t": null,
+        "source_delay_from_first_eval_s": null,
+        "message_delay_from_first_eval_s": null
+      },
+      {
+        "first_t": 1792925061.0998483,
+        "last_t": 1792925061.2998483,
+        "samples": 2,
+        "sources": [
+          1792925060.585
+        ],
+        "source_trigger_t": null,
+        "message_trigger_t": 1792925061.2998483,
+        "source_delay_from_first_eval_s": null,
+        "message_delay_from_first_eval_s": 0.20000004768371582
+      }
+    ],
+    "source_requests": [],
+    "message_requests": [
+      {
+        "t": 1792924740.6998484,
+        "action": "HOLD_REQUESTED_SEMANTIC_CONFIRMED_PERSON"
+      },
+      {
+        "t": 1792925061.2998483,
+        "action": "HOLD_REQUESTED_SEMANTIC_CONFIRMED_PERSON"
+      }
+    ],
+    "states": {
+      "CAUTION": 1129,
+      "CLEAR": 1131,
+      "CRITICAL": 59
+    }
+  },
+  {
+    "run": "MISSION_20261025T103420_406168",
+    "variant": "frozen_chain",
+    "period_s": 0.5,
+    "phase_fraction": 0,
+    "anchor_s": 1792924504.1498482,
+    "evaluations": 928,
+    "person_runs": 3,
+    "Rm_person": 0,
+    "Rs_person": 0,
+    "available_camera_sources": 1793,
+    "sampled_available_camera_sources": 928,
+    "unseen_available_camera_sources": 865,
+    "auto_evaluations": 811,
+    "invalid_AUTO_evaluations": 0,
+    "source_bridge_requests": 0,
+    "message_bridge_requests": 0,
+    "source_person_requests": 0,
+    "message_person_requests": 0,
+    "person_episodes": [
+      {
+        "first_t": 1792924740.6498482,
+        "last_t": 1792924740.6498482,
+        "samples": 1,
+        "sources": [
+          1792924740.071
+        ],
+        "source_trigger_t": null,
+        "message_trigger_t": null,
+        "source_delay_from_first_eval_s": null,
+        "message_delay_from_first_eval_s": null
+      },
+      {
+        "first_t": 1792924946.1498482,
+        "last_t": 1792924946.1498482,
+        "samples": 1,
+        "sources": [
+          1792924945.6
+        ],
+        "source_trigger_t": null,
+        "message_trigger_t": null,
+        "source_delay_from_first_eval_s": null,
+        "message_delay_from_first_eval_s": null
+      },
+      {
+        "first_t": 1792925061.1498482,
+        "last_t": 1792925061.1498482,
+        "samples": 1,
+        "sources": [
+          1792925060.585
+        ],
+        "source_trigger_t": null,
+        "message_trigger_t": null,
+        "source_delay_from_first_eval_s": null,
+        "message_delay_from_first_eval_s": null
+      }
+    ],
+    "source_requests": [],
+    "message_requests": [],
+    "states": {
+      "CAUTION": 445,
+      "CLEAR": 458,
+      "CRITICAL": 25
+    }
+  },
+  {
+    "run": "MISSION_20261025T103420_406168",
+    "variant": "frozen_chain",
+    "period_s": 0.5,
+    "phase_fraction": 0.25,
+    "anchor_s": 1792924504.1498482,
+    "evaluations": 927,
+    "person_runs": 2,
+    "Rm_person": 0,
+    "Rs_person": 0,
+    "available_camera_sources": 1793,
+    "sampled_available_camera_sources": 927,
+    "unseen_available_camera_sources": 866,
+    "auto_evaluations": 810,
+    "invalid_AUTO_evaluations": 0,
+    "source_bridge_requests": 1,
+    "message_bridge_requests": 1,
+    "source_person_requests": 0,
+    "message_person_requests": 0,
+    "person_episodes": [
+      {
+        "first_t": 1792924942.7748482,
+        "last_t": 1792924942.7748482,
+        "samples": 1,
+        "sources": [
+          1792924942.264
+        ],
+        "source_trigger_t": null,
+        "message_trigger_t": null,
+        "source_delay_from_first_eval_s": null,
+        "message_delay_from_first_eval_s": null
+      },
+      {
+        "first_t": 1792925061.2748482,
+        "last_t": 1792925061.2748482,
+        "samples": 1,
+        "sources": [
+          1792925060.585
+        ],
+        "source_trigger_t": null,
+        "message_trigger_t": null,
+        "source_delay_from_first_eval_s": null,
+        "message_delay_from_first_eval_s": null
+      }
+    ],
+    "source_requests": [
+      {
+        "t": 1792924898.2748482,
+        "action": "HOLD_REQUESTED_STABILITY_CRITICAL"
+      }
+    ],
+    "message_requests": [
+      {
+        "t": 1792924898.2748482,
+        "action": "HOLD_REQUESTED_STABILITY_CRITICAL"
+      }
+    ],
+    "states": {
+      "CAUTION": 460,
+      "CLEAR": 443,
+      "CRITICAL": 24
+    }
+  },
+  {
+    "run": "MISSION_20261025T103420_406168",
+    "variant": "frozen_chain",
+    "period_s": 0.5,
+    "phase_fraction": 0.5,
+    "anchor_s": 1792924504.1498482,
+    "evaluations": 927,
+    "person_runs": 1,
+    "Rm_person": 0,
+    "Rs_person": 0,
+    "available_camera_sources": 1793,
+    "sampled_available_camera_sources": 927,
+    "unseen_available_camera_sources": 866,
+    "auto_evaluations": 808,
+    "invalid_AUTO_evaluations": 0,
+    "source_bridge_requests": 0,
+    "message_bridge_requests": 0,
+    "source_person_requests": 0,
+    "message_person_requests": 0,
+    "person_episodes": [
+      {
+        "first_t": 1792924942.8998482,
+        "last_t": 1792924942.8998482,
+        "samples": 1,
+        "sources": [
+          1792924942.264
+        ],
+        "source_trigger_t": null,
+        "message_trigger_t": null,
+        "source_delay_from_first_eval_s": null,
+        "message_delay_from_first_eval_s": null
+      }
+    ],
+    "source_requests": [],
+    "message_requests": [],
+    "states": {
+      "CAUTION": 459,
+      "CLEAR": 446,
+      "CRITICAL": 22
+    }
+  },
+  {
+    "run": "MISSION_20261025T103420_406168",
+    "variant": "frozen_chain",
+    "period_s": 0.5,
+    "phase_fraction": 0.75,
+    "anchor_s": 1792924504.1498482,
+    "evaluations": 928,
+    "person_runs": 3,
+    "Rm_person": 0,
+    "Rs_person": 0,
+    "available_camera_sources": 1793,
+    "sampled_available_camera_sources": 927,
+    "unseen_available_camera_sources": 866,
+    "auto_evaluations": 809,
+    "invalid_AUTO_evaluations": 0,
+    "source_bridge_requests": 0,
+    "message_bridge_requests": 0,
+    "source_person_requests": 0,
+    "message_person_requests": 0,
+    "person_episodes": [
+      {
+        "first_t": 1792924740.5248482,
+        "last_t": 1792924740.5248482,
+        "samples": 1,
+        "sources": [
+          1792924740.071
+        ],
+        "source_trigger_t": null,
+        "message_trigger_t": null,
+        "source_delay_from_first_eval_s": null,
+        "message_delay_from_first_eval_s": null
+      },
+      {
+        "first_t": 1792924946.0248482,
+        "last_t": 1792924946.0248482,
+        "samples": 1,
+        "sources": [
+          1792924945.6
+        ],
+        "source_trigger_t": null,
+        "message_trigger_t": null,
+        "source_delay_from_first_eval_s": null,
+        "message_delay_from_first_eval_s": null
+      },
+      {
+        "first_t": 1792925061.0248482,
+        "last_t": 1792925061.0248482,
+        "samples": 1,
+        "sources": [
+          1792925060.585
+        ],
+        "source_trigger_t": null,
+        "message_trigger_t": null,
+        "source_delay_from_first_eval_s": null,
+        "message_delay_from_first_eval_s": null
+      }
+    ],
+    "source_requests": [],
+    "message_requests": [],
+    "states": {
+      "CAUTION": 455,
+      "CLEAR": 449,
+      "CRITICAL": 24
+    }
+  },
+  {
+    "run": "MISSION_20261025T103420_406168",
+    "variant": "held_recorded_fusion",
+    "period_s": 0.05,
+    "phase_fraction": 0,
+    "anchor_s": 1792924504.1498482,
+    "evaluations": 9275,
+    "person_runs": 4,
+    "Rm_person": 4,
+    "Rs_person": 0,
+    "available_camera_sources": 1793,
+    "sampled_available_camera_sources": 1793,
+    "unseen_available_camera_sources": 0,
+    "auto_evaluations": 8094,
+    "invalid_AUTO_evaluations": 0,
+    "source_bridge_requests": 0,
+    "message_bridge_requests": 3,
+    "source_person_requests": 0,
+    "message_person_requests": 3,
+    "person_episodes": [
+      {
+        "first_t": 1792924740.4998481,
+        "last_t": 1792924740.7498481,
+        "samples": 6,
+        "sources": [
+          1792924740.071
+        ],
+        "source_trigger_t": null,
+        "message_trigger_t": 1792924740.5498483,
+        "source_delay_from_first_eval_s": null,
+        "message_delay_from_first_eval_s": 0.05000019073486328
+      },
+      {
+        "first_t": 1792924942.7998483,
+        "last_t": 1792924943.0498483,
+        "samples": 6,
+        "sources": [
+          1792924942.264
+        ],
+        "source_trigger_t": null,
+        "message_trigger_t": 1792924942.8498483,
+        "source_delay_from_first_eval_s": null,
+        "message_delay_from_first_eval_s": 0.04999995231628418
+      },
+      {
+        "first_t": 1792924945.9998481,
+        "last_t": 1792924946.2498481,
+        "samples": 6,
+        "sources": [
+          1792924945.6
+        ],
+        "source_trigger_t": null,
+        "message_trigger_t": 1792924946.0498483,
+        "source_delay_from_first_eval_s": null,
+        "message_delay_from_first_eval_s": 0.05000019073486328
+      },
+      {
+        "first_t": 1792925061.0998483,
+        "last_t": 1792925061.3498483,
+        "samples": 6,
+        "sources": [
+          1792925060.585
+        ],
+        "source_trigger_t": null,
+        "message_trigger_t": 1792925061.1498482,
+        "source_delay_from_first_eval_s": null,
+        "message_delay_from_first_eval_s": 0.04999995231628418
+      }
+    ],
+    "source_requests": [],
+    "message_requests": [
+      {
+        "t": 1792924740.5498483,
+        "action": "HOLD_REQUESTED_SEMANTIC_CONFIRMED_PERSON"
+      },
+      {
+        "t": 1792924942.8498483,
+        "action": "HOLD_REQUESTED_SEMANTIC_CONFIRMED_PERSON"
+      },
+      {
+        "t": 1792925061.1498482,
+        "action": "HOLD_REQUESTED_SEMANTIC_CONFIRMED_PERSON"
+      }
+    ],
+    "states": {
+      "CAUTION": 4538,
+      "CLEAR": 4495,
+      "CRITICAL": 242
+    }
+  },
+  {
+    "run": "MISSION_20261025T103420_406168",
+    "variant": "held_recorded_fusion",
+    "period_s": 0.05,
+    "phase_fraction": 0.25,
+    "anchor_s": 1792924504.1498482,
+    "evaluations": 9275,
+    "person_runs": 4,
+    "Rm_person": 4,
+    "Rs_person": 1,
+    "available_camera_sources": 1793,
+    "sampled_available_camera_sources": 1793,
+    "unseen_available_camera_sources": 0,
+    "auto_evaluations": 8095,
+    "invalid_AUTO_evaluations": 0,
+    "source_bridge_requests": 2,
+    "message_bridge_requests": 3,
+    "source_person_requests": 1,
+    "message_person_requests": 3,
+    "person_episodes": [
+      {
+        "first_t": 1792924740.4623482,
+        "last_t": 1792924740.7123482,
+        "samples": 6,
+        "sources": [
+          1792924740.071
+        ],
+        "source_trigger_t": null,
+        "message_trigger_t": 1792924740.5123482,
+        "source_delay_from_first_eval_s": null,
+        "message_delay_from_first_eval_s": 0.04999995231628418
+      },
+      {
+        "first_t": 1792924942.7623482,
+        "last_t": 1792924943.0123482,
+        "samples": 6,
+        "sources": [
+          1792924942.264
+        ],
+        "source_trigger_t": null,
+        "message_trigger_t": 1792924942.8123484,
+        "source_delay_from_first_eval_s": null,
+        "message_delay_from_first_eval_s": 0.05000019073486328
+      },
+      {
+        "first_t": 1792924945.9623482,
+        "last_t": 1792924946.2623482,
+        "samples": 7,
+        "sources": [
+          1792924945.6
+        ],
+        "source_trigger_t": null,
+        "message_trigger_t": 1792924946.0123482,
+        "source_delay_from_first_eval_s": null,
+        "message_delay_from_first_eval_s": 0.04999995231628418
+      },
+      {
+        "first_t": 1792925061.0623484,
+        "last_t": 1792925061.3623483,
+        "samples": 7,
+        "sources": [
+          1792925060.585,
+          1792925060.752
+        ],
+        "source_trigger_t": 1792925061.3623483,
+        "message_trigger_t": 1792925061.1123483,
+        "source_delay_from_first_eval_s": 0.2999999523162842,
+        "message_delay_from_first_eval_s": 0.04999995231628418
+      }
+    ],
+    "source_requests": [
+      {
+        "t": 1792924898.2623482,
+        "action": "HOLD_REQUESTED_STABILITY_CRITICAL"
+      },
+      {
+        "t": 1792925061.3623483,
+        "action": "HOLD_REQUESTED_SEMANTIC_CONFIRMED_PERSON"
+      }
+    ],
+    "message_requests": [
+      {
+        "t": 1792924740.5123482,
+        "action": "HOLD_REQUESTED_SEMANTIC_CONFIRMED_PERSON"
+      },
+      {
+        "t": 1792924942.8123484,
+        "action": "HOLD_REQUESTED_SEMANTIC_CONFIRMED_PERSON"
+      },
+      {
+        "t": 1792925061.1123483,
+        "action": "HOLD_REQUESTED_SEMANTIC_CONFIRMED_PERSON"
+      }
+    ],
+    "states": {
+      "CAUTION": 4529,
+      "CLEAR": 4503,
+      "CRITICAL": 243
+    }
+  },
+  {
+    "run": "MISSION_20261025T103420_406168",
+    "variant": "held_recorded_fusion",
+    "period_s": 0.05,
+    "phase_fraction": 0.5,
+    "anchor_s": 1792924504.1498482,
+    "evaluations": 9274,
+    "person_runs": 4,
+    "Rm_person": 4,
+    "Rs_person": 1,
+    "available_camera_sources": 1793,
+    "sampled_available_camera_sources": 1793,
+    "unseen_available_camera_sources": 0,
+    "auto_evaluations": 8095,
+    "invalid_AUTO_evaluations": 0,
+    "source_bridge_requests": 2,
+    "message_bridge_requests": 3,
+    "source_person_requests": 1,
+    "message_person_requests": 3,
+    "person_episodes": [
+      {
+        "first_t": 1792924740.4748483,
+        "last_t": 1792924740.7248483,
+        "samples": 6,
+        "sources": [
+          1792924740.071
+        ],
+        "source_trigger_t": null,
+        "message_trigger_t": 1792924740.5248482,
+        "source_delay_from_first_eval_s": null,
+        "message_delay_from_first_eval_s": 0.04999995231628418
+      },
+      {
+        "first_t": 1792924942.7748482,
+        "last_t": 1792924943.0248482,
+        "samples": 6,
+        "sources": [
+          1792924942.264
+        ],
+        "source_trigger_t": null,
+        "message_trigger_t": 1792924942.8248484,
+        "source_delay_from_first_eval_s": null,
+        "message_delay_from_first_eval_s": 0.05000019073486328
+      },
+      {
+        "first_t": 1792924945.9748483,
+        "last_t": 1792924946.2248483,
+        "samples": 6,
+        "sources": [
+          1792924945.6
+        ],
+        "source_trigger_t": null,
+        "message_trigger_t": 1792924946.0248482,
+        "source_delay_from_first_eval_s": null,
+        "message_delay_from_first_eval_s": 0.04999995231628418
+      },
+      {
+        "first_t": 1792925061.0748484,
+        "last_t": 1792925061.3748484,
+        "samples": 7,
+        "sources": [
+          1792925060.585,
+          1792925060.752
+        ],
+        "source_trigger_t": 1792925061.3748484,
+        "message_trigger_t": 1792925061.1248484,
+        "source_delay_from_first_eval_s": 0.2999999523162842,
+        "message_delay_from_first_eval_s": 0.04999995231628418
+      }
+    ],
+    "source_requests": [
+      {
+        "t": 1792924898.2748482,
+        "action": "HOLD_REQUESTED_STABILITY_CRITICAL"
+      },
+      {
+        "t": 1792925061.3748484,
+        "action": "HOLD_REQUESTED_SEMANTIC_CONFIRMED_PERSON"
+      }
+    ],
+    "message_requests": [
+      {
+        "t": 1792924740.5248482,
+        "action": "HOLD_REQUESTED_SEMANTIC_CONFIRMED_PERSON"
+      },
+      {
+        "t": 1792924942.8248484,
+        "action": "HOLD_REQUESTED_SEMANTIC_CONFIRMED_PERSON"
+      },
+      {
+        "t": 1792925061.1248484,
+        "action": "HOLD_REQUESTED_SEMANTIC_CONFIRMED_PERSON"
+      }
+    ],
+    "states": {
+      "CAUTION": 4538,
+      "CLEAR": 4494,
+      "CRITICAL": 242
+    }
+  },
+  {
+    "run": "MISSION_20261025T103420_406168",
+    "variant": "held_recorded_fusion",
+    "period_s": 0.05,
+    "phase_fraction": 0.75,
+    "anchor_s": 1792924504.1498482,
+    "evaluations": 9274,
+    "person_runs": 4,
+    "Rm_person": 4,
+    "Rs_person": 1,
+    "available_camera_sources": 1793,
+    "sampled_available_camera_sources": 1793,
+    "unseen_available_camera_sources": 0,
+    "auto_evaluations": 8095,
+    "invalid_AUTO_evaluations": 0,
+    "source_bridge_requests": 2,
+    "message_bridge_requests": 3,
+    "source_person_requests": 1,
+    "message_person_requests": 3,
+    "person_episodes": [
+      {
+        "first_t": 1792924740.487348,
+        "last_t": 1792924740.737348,
+        "samples": 6,
+        "sources": [
+          1792924740.071
+        ],
+        "source_trigger_t": null,
+        "message_trigger_t": 1792924740.537348,
+        "source_delay_from_first_eval_s": null,
+        "message_delay_from_first_eval_s": 0.04999995231628418
+      },
+      {
+        "first_t": 1792924942.787348,
+        "last_t": 1792924943.037348,
+        "samples": 6,
+        "sources": [
+          1792924942.264
+        ],
+        "source_trigger_t": null,
+        "message_trigger_t": 1792924942.8373482,
+        "source_delay_from_first_eval_s": null,
+        "message_delay_from_first_eval_s": 0.05000019073486328
+      },
+      {
+        "first_t": 1792924945.987348,
+        "last_t": 1792924946.237348,
+        "samples": 6,
+        "sources": [
+          1792924945.6
+        ],
+        "source_trigger_t": null,
+        "message_trigger_t": 1792924946.037348,
+        "source_delay_from_first_eval_s": null,
+        "message_delay_from_first_eval_s": 0.04999995231628418
+      },
+      {
+        "first_t": 1792925061.0873482,
+        "last_t": 1792925061.3873482,
+        "samples": 7,
+        "sources": [
+          1792925060.585,
+          1792925060.752
+        ],
+        "source_trigger_t": 1792925061.3873482,
+        "message_trigger_t": 1792925061.1373482,
+        "source_delay_from_first_eval_s": 0.2999999523162842,
+        "message_delay_from_first_eval_s": 0.04999995231628418
+      }
+    ],
+    "source_requests": [
+      {
+        "t": 1792924898.287348,
+        "action": "HOLD_REQUESTED_STABILITY_CRITICAL"
+      },
+      {
+        "t": 1792925061.3873482,
+        "action": "HOLD_REQUESTED_SEMANTIC_CONFIRMED_PERSON"
+      }
+    ],
+    "message_requests": [
+      {
+        "t": 1792924740.537348,
+        "action": "HOLD_REQUESTED_SEMANTIC_CONFIRMED_PERSON"
+      },
+      {
+        "t": 1792924942.8373482,
+        "action": "HOLD_REQUESTED_SEMANTIC_CONFIRMED_PERSON"
+      },
+      {
+        "t": 1792925061.1373482,
+        "action": "HOLD_REQUESTED_SEMANTIC_CONFIRMED_PERSON"
+      }
+    ],
+    "states": {
+      "CAUTION": 4538,
+      "CLEAR": 4494,
+      "CRITICAL": 242
+    }
+  },
+  {
+    "run": "MISSION_20261025T103420_406168",
+    "variant": "held_recorded_fusion",
+    "period_s": 0.1,
+    "phase_fraction": 0,
+    "anchor_s": 1792924504.1498482,
+    "evaluations": 4637,
+    "person_runs": 4,
+    "Rm_person": 4,
+    "Rs_person": 0,
+    "available_camera_sources": 1793,
+    "sampled_available_camera_sources": 1792,
+    "unseen_available_camera_sources": 1,
+    "auto_evaluations": 4047,
+    "invalid_AUTO_evaluations": 0,
+    "source_bridge_requests": 0,
+    "message_bridge_requests": 3,
+    "source_person_requests": 0,
+    "message_person_requests": 3,
+    "person_episodes": [
+      {
+        "first_t": 1792924740.5498483,
+        "last_t": 1792924740.7498481,
+        "samples": 3,
+        "sources": [
+          1792924740.071
+        ],
+        "source_trigger_t": null,
+        "message_trigger_t": 1792924740.6498482,
+        "source_delay_from_first_eval_s": null,
+        "message_delay_from_first_eval_s": 0.09999990463256836
+      },
+      {
+        "first_t": 1792924942.8498483,
+        "last_t": 1792924943.0498483,
+        "samples": 3,
+        "sources": [
+          1792924942.264
+        ],
+        "source_trigger_t": null,
+        "message_trigger_t": 1792924942.9498482,
+        "source_delay_from_first_eval_s": null,
+        "message_delay_from_first_eval_s": 0.09999990463256836
+      },
+      {
+        "first_t": 1792924946.0498483,
+        "last_t": 1792924946.2498481,
+        "samples": 3,
+        "sources": [
+          1792924945.6
+        ],
+        "source_trigger_t": null,
+        "message_trigger_t": 1792924946.1498482,
+        "source_delay_from_first_eval_s": null,
+        "message_delay_from_first_eval_s": 0.09999990463256836
+      },
+      {
+        "first_t": 1792925061.1498482,
+        "last_t": 1792925061.3498483,
+        "samples": 3,
+        "sources": [
+          1792925060.585
+        ],
+        "source_trigger_t": null,
+        "message_trigger_t": 1792925061.2498481,
+        "source_delay_from_first_eval_s": null,
+        "message_delay_from_first_eval_s": 0.09999990463256836
+      }
+    ],
+    "source_requests": [],
+    "message_requests": [
+      {
+        "t": 1792924740.6498482,
+        "action": "HOLD_REQUESTED_SEMANTIC_CONFIRMED_PERSON"
+      },
+      {
+        "t": 1792924942.9498482,
+        "action": "HOLD_REQUESTED_SEMANTIC_CONFIRMED_PERSON"
+      },
+      {
+        "t": 1792925061.2498481,
+        "action": "HOLD_REQUESTED_SEMANTIC_CONFIRMED_PERSON"
+      }
+    ],
+    "states": {
+      "CAUTION": 2269,
+      "CLEAR": 2247,
+      "CRITICAL": 121
+    }
+  },
+  {
+    "run": "MISSION_20261025T103420_406168",
+    "variant": "held_recorded_fusion",
+    "period_s": 0.1,
+    "phase_fraction": 0.25,
+    "anchor_s": 1792924504.1498482,
+    "evaluations": 4637,
+    "person_runs": 4,
+    "Rm_person": 4,
+    "Rs_person": 1,
+    "available_camera_sources": 1793,
+    "sampled_available_camera_sources": 1793,
+    "unseen_available_camera_sources": 0,
+    "auto_evaluations": 4047,
+    "invalid_AUTO_evaluations": 0,
+    "source_bridge_requests": 2,
+    "message_bridge_requests": 3,
+    "source_person_requests": 1,
+    "message_person_requests": 3,
+    "person_episodes": [
+      {
+        "first_t": 1792924740.4748483,
+        "last_t": 1792924740.6748483,
+        "samples": 3,
+        "sources": [
+          1792924740.071
+        ],
+        "source_trigger_t": null,
+        "message_trigger_t": 1792924740.5748484,
+        "source_delay_from_first_eval_s": null,
+        "message_delay_from_first_eval_s": 0.10000014305114746
+      },
+      {
+        "first_t": 1792924942.7748482,
+        "last_t": 1792924942.9748483,
+        "samples": 3,
+        "sources": [
+          1792924942.264
+        ],
+        "source_trigger_t": null,
+        "message_trigger_t": 1792924942.8748484,
+        "source_delay_from_first_eval_s": null,
+        "message_delay_from_first_eval_s": 0.10000014305114746
+      },
+      {
+        "first_t": 1792924945.9748483,
+        "last_t": 1792924946.1748483,
+        "samples": 3,
+        "sources": [
+          1792924945.6
+        ],
+        "source_trigger_t": null,
+        "message_trigger_t": 1792924946.0748484,
+        "source_delay_from_first_eval_s": null,
+        "message_delay_from_first_eval_s": 0.10000014305114746
+      },
+      {
+        "first_t": 1792925061.0748484,
+        "last_t": 1792925061.3748484,
+        "samples": 4,
+        "sources": [
+          1792925060.585,
+          1792925060.752
+        ],
+        "source_trigger_t": 1792925061.3748484,
+        "message_trigger_t": 1792925061.1748483,
+        "source_delay_from_first_eval_s": 0.2999999523162842,
+        "message_delay_from_first_eval_s": 0.09999990463256836
+      }
+    ],
+    "source_requests": [
+      {
+        "t": 1792924898.2748482,
+        "action": "HOLD_REQUESTED_STABILITY_CRITICAL"
+      },
+      {
+        "t": 1792925061.3748484,
+        "action": "HOLD_REQUESTED_SEMANTIC_CONFIRMED_PERSON"
+      }
+    ],
+    "message_requests": [
+      {
+        "t": 1792924740.5748484,
+        "action": "HOLD_REQUESTED_SEMANTIC_CONFIRMED_PERSON"
+      },
+      {
+        "t": 1792924942.8748484,
+        "action": "HOLD_REQUESTED_SEMANTIC_CONFIRMED_PERSON"
+      },
+      {
+        "t": 1792925061.1748483,
+        "action": "HOLD_REQUESTED_SEMANTIC_CONFIRMED_PERSON"
+      }
+    ],
+    "states": {
+      "CAUTION": 2269,
+      "CLEAR": 2247,
+      "CRITICAL": 121
+    }
+  },
+  {
+    "run": "MISSION_20261025T103420_406168",
+    "variant": "held_recorded_fusion",
+    "period_s": 0.1,
+    "phase_fraction": 0.5,
+    "anchor_s": 1792924504.1498482,
+    "evaluations": 4638,
+    "person_runs": 4,
+    "Rm_person": 4,
+    "Rs_person": 0,
+    "available_camera_sources": 1793,
+    "sampled_available_camera_sources": 1793,
+    "unseen_available_camera_sources": 0,
+    "auto_evaluations": 4047,
+    "invalid_AUTO_evaluations": 0,
+    "source_bridge_requests": 0,
+    "message_bridge_requests": 3,
+    "source_person_requests": 0,
+    "message_person_requests": 3,
+    "person_episodes": [
+      {
+        "first_t": 1792924740.4998481,
+        "last_t": 1792924740.6998482,
+        "samples": 3,
+        "sources": [
+          1792924740.071
+        ],
+        "source_trigger_t": null,
+        "message_trigger_t": 1792924740.5998483,
+        "source_delay_from_first_eval_s": null,
+        "message_delay_from_first_eval_s": 0.10000014305114746
+      },
+      {
+        "first_t": 1792924942.799848,
+        "last_t": 1792924942.9998481,
+        "samples": 3,
+        "sources": [
+          1792924942.264
+        ],
+        "source_trigger_t": null,
+        "message_trigger_t": 1792924942.8998482,
+        "source_delay_from_first_eval_s": null,
+        "message_delay_from_first_eval_s": 0.10000014305114746
+      },
+      {
+        "first_t": 1792924945.9998481,
+        "last_t": 1792924946.1998482,
+        "samples": 3,
+        "sources": [
+          1792924945.6
+        ],
+        "source_trigger_t": null,
+        "message_trigger_t": 1792924946.0998483,
+        "source_delay_from_first_eval_s": null,
+        "message_delay_from_first_eval_s": 0.10000014305114746
+      },
+      {
+        "first_t": 1792925061.0998483,
+        "last_t": 1792925061.299848,
+        "samples": 3,
+        "sources": [
+          1792925060.585
+        ],
+        "source_trigger_t": null,
+        "message_trigger_t": 1792925061.1998482,
+        "source_delay_from_first_eval_s": null,
+        "message_delay_from_first_eval_s": 0.09999990463256836
+      }
+    ],
+    "source_requests": [],
+    "message_requests": [
+      {
+        "t": 1792924740.5998483,
+        "action": "HOLD_REQUESTED_SEMANTIC_CONFIRMED_PERSON"
+      },
+      {
+        "t": 1792924942.8998482,
+        "action": "HOLD_REQUESTED_SEMANTIC_CONFIRMED_PERSON"
+      },
+      {
+        "t": 1792925061.1998482,
+        "action": "HOLD_REQUESTED_SEMANTIC_CONFIRMED_PERSON"
+      }
+    ],
+    "states": {
+      "CAUTION": 2269,
+      "CLEAR": 2248,
+      "CRITICAL": 121
+    }
+  },
+  {
+    "run": "MISSION_20261025T103420_406168",
+    "variant": "held_recorded_fusion",
+    "period_s": 0.1,
+    "phase_fraction": 0.75,
+    "anchor_s": 1792924504.1498482,
+    "evaluations": 4637,
+    "person_runs": 4,
+    "Rm_person": 4,
+    "Rs_person": 0,
+    "available_camera_sources": 1793,
+    "sampled_available_camera_sources": 1792,
+    "unseen_available_camera_sources": 1,
+    "auto_evaluations": 4048,
+    "invalid_AUTO_evaluations": 0,
+    "source_bridge_requests": 0,
+    "message_bridge_requests": 3,
+    "source_person_requests": 0,
+    "message_person_requests": 3,
+    "person_episodes": [
+      {
+        "first_t": 1792924740.5248482,
+        "last_t": 1792924740.7248483,
+        "samples": 3,
+        "sources": [
+          1792924740.071
+        ],
+        "source_trigger_t": null,
+        "message_trigger_t": 1792924740.6248484,
+        "source_delay_from_first_eval_s": null,
+        "message_delay_from_first_eval_s": 0.10000014305114746
+      },
+      {
+        "first_t": 1792924942.8248482,
+        "last_t": 1792924943.0248482,
+        "samples": 3,
+        "sources": [
+          1792924942.264
+        ],
+        "source_trigger_t": null,
+        "message_trigger_t": 1792924942.9248483,
+        "source_delay_from_first_eval_s": null,
+        "message_delay_from_first_eval_s": 0.10000014305114746
+      },
+      {
+        "first_t": 1792924946.0248482,
+        "last_t": 1792924946.2248483,
+        "samples": 3,
+        "sources": [
+          1792924945.6
+        ],
+        "source_trigger_t": null,
+        "message_trigger_t": 1792924946.1248484,
+        "source_delay_from_first_eval_s": null,
+        "message_delay_from_first_eval_s": 0.10000014305114746
+      },
+      {
+        "first_t": 1792925061.1248484,
+        "last_t": 1792925061.3248482,
+        "samples": 3,
+        "sources": [
+          1792925060.585
+        ],
+        "source_trigger_t": null,
+        "message_trigger_t": 1792925061.2248483,
+        "source_delay_from_first_eval_s": null,
+        "message_delay_from_first_eval_s": 0.09999990463256836
+      }
+    ],
+    "source_requests": [],
+    "message_requests": [
+      {
+        "t": 1792924740.6248484,
+        "action": "HOLD_REQUESTED_SEMANTIC_CONFIRMED_PERSON"
+      },
+      {
+        "t": 1792924942.9248483,
+        "action": "HOLD_REQUESTED_SEMANTIC_CONFIRMED_PERSON"
+      },
+      {
+        "t": 1792925061.2248483,
+        "action": "HOLD_REQUESTED_SEMANTIC_CONFIRMED_PERSON"
+      }
+    ],
+    "states": {
+      "CAUTION": 2269,
+      "CLEAR": 2247,
+      "CRITICAL": 121
+    }
+  },
+  {
+    "run": "MISSION_20261025T103420_406168",
+    "variant": "held_recorded_fusion",
+    "period_s": 0.2,
+    "phase_fraction": 0,
+    "anchor_s": 1792924504.1498482,
+    "evaluations": 2319,
+    "person_runs": 4,
+    "Rm_person": 2,
+    "Rs_person": 0,
+    "available_camera_sources": 1793,
+    "sampled_available_camera_sources": 1788,
+    "unseen_available_camera_sources": 5,
+    "auto_evaluations": 2024,
+    "invalid_AUTO_evaluations": 0,
+    "source_bridge_requests": 0,
+    "message_bridge_requests": 2,
+    "source_person_requests": 0,
+    "message_person_requests": 2,
+    "person_episodes": [
+      {
+        "first_t": 1792924740.5498483,
+        "last_t": 1792924740.7498481,
+        "samples": 2,
+        "sources": [
+          1792924740.071
+        ],
+        "source_trigger_t": null,
+        "message_trigger_t": 1792924740.7498481,
+        "source_delay_from_first_eval_s": null,
+        "message_delay_from_first_eval_s": 0.19999980926513672
+      },
+      {
+        "first_t": 1792924942.9498482,
+        "last_t": 1792924942.9498482,
+        "samples": 1,
+        "sources": [
+          1792924942.264
+        ],
+        "source_trigger_t": null,
+        "message_trigger_t": null,
+        "source_delay_from_first_eval_s": null,
+        "message_delay_from_first_eval_s": null
+      },
+      {
+        "first_t": 1792924946.1498482,
+        "last_t": 1792924946.1498482,
+        "samples": 1,
+        "sources": [
+          1792924945.6
+        ],
+        "source_trigger_t": null,
+        "message_trigger_t": null,
+        "source_delay_from_first_eval_s": null,
+        "message_delay_from_first_eval_s": null
+      },
+      {
+        "first_t": 1792925061.1498482,
+        "last_t": 1792925061.3498483,
+        "samples": 2,
+        "sources": [
+          1792925060.585
+        ],
+        "source_trigger_t": null,
+        "message_trigger_t": 1792925061.3498483,
+        "source_delay_from_first_eval_s": null,
+        "message_delay_from_first_eval_s": 0.20000004768371582
+      }
+    ],
+    "source_requests": [],
+    "message_requests": [
+      {
+        "t": 1792924740.7498481,
+        "action": "HOLD_REQUESTED_SEMANTIC_CONFIRMED_PERSON"
+      },
+      {
+        "t": 1792925061.3498483,
+        "action": "HOLD_REQUESTED_SEMANTIC_CONFIRMED_PERSON"
+      }
+    ],
+    "states": {
+      "CAUTION": 1128,
+      "CLEAR": 1130,
+      "CRITICAL": 61
+    }
+  },
+  {
+    "run": "MISSION_20261025T103420_406168",
+    "variant": "held_recorded_fusion",
+    "period_s": 0.2,
+    "phase_fraction": 0.25,
+    "anchor_s": 1792924504.1498482,
+    "evaluations": 2319,
+    "person_runs": 4,
+    "Rm_person": 2,
+    "Rs_person": 0,
+    "available_camera_sources": 1793,
+    "sampled_available_camera_sources": 1788,
+    "unseen_available_camera_sources": 5,
+    "auto_evaluations": 2023,
+    "invalid_AUTO_evaluations": 0,
+    "source_bridge_requests": 0,
+    "message_bridge_requests": 1,
+    "source_person_requests": 0,
+    "message_person_requests": 1,
+    "person_episodes": [
+      {
+        "first_t": 1792924740.5998483,
+        "last_t": 1792924740.5998483,
+        "samples": 1,
+        "sources": [
+          1792924740.071
+        ],
+        "source_trigger_t": null,
+        "message_trigger_t": null,
+        "source_delay_from_first_eval_s": null,
+        "message_delay_from_first_eval_s": null
+      },
+      {
+        "first_t": 1792924942.799848,
+        "last_t": 1792924942.9998481,
+        "samples": 2,
+        "sources": [
+          1792924942.264
+        ],
+        "source_trigger_t": null,
+        "message_trigger_t": 1792924942.9998481,
+        "source_delay_from_first_eval_s": null,
+        "message_delay_from_first_eval_s": 0.20000004768371582
+      },
+      {
+        "first_t": 1792924945.9998481,
+        "last_t": 1792924946.1998482,
+        "samples": 2,
+        "sources": [
+          1792924945.6
+        ],
+        "source_trigger_t": null,
+        "message_trigger_t": 1792924946.1998482,
+        "source_delay_from_first_eval_s": null,
+        "message_delay_from_first_eval_s": 0.20000004768371582
+      },
+      {
+        "first_t": 1792925061.1998482,
+        "last_t": 1792925061.1998482,
+        "samples": 1,
+        "sources": [
+          1792925060.585
+        ],
+        "source_trigger_t": null,
+        "message_trigger_t": null,
+        "source_delay_from_first_eval_s": null,
+        "message_delay_from_first_eval_s": null
+      }
+    ],
+    "source_requests": [],
+    "message_requests": [
+      {
+        "t": 1792924942.9998481,
+        "action": "HOLD_REQUESTED_SEMANTIC_CONFIRMED_PERSON"
+      }
+    ],
+    "states": {
+      "CAUTION": 1141,
+      "CLEAR": 1118,
+      "CRITICAL": 60
+    }
+  },
+  {
+    "run": "MISSION_20261025T103420_406168",
+    "variant": "held_recorded_fusion",
+    "period_s": 0.2,
+    "phase_fraction": 0.5,
+    "anchor_s": 1792924504.1498482,
+    "evaluations": 2318,
+    "person_runs": 4,
+    "Rm_person": 2,
+    "Rs_person": 0,
+    "available_camera_sources": 1793,
+    "sampled_available_camera_sources": 1787,
+    "unseen_available_camera_sources": 6,
+    "auto_evaluations": 2023,
+    "invalid_AUTO_evaluations": 0,
+    "source_bridge_requests": 0,
+    "message_bridge_requests": 1,
+    "source_person_requests": 0,
+    "message_person_requests": 1,
+    "person_episodes": [
+      {
+        "first_t": 1792924740.6498482,
+        "last_t": 1792924740.6498482,
+        "samples": 1,
+        "sources": [
+          1792924740.071
+        ],
+        "source_trigger_t": null,
+        "message_trigger_t": null,
+        "source_delay_from_first_eval_s": null,
+        "message_delay_from_first_eval_s": null
+      },
+      {
+        "first_t": 1792924942.849848,
+        "last_t": 1792924943.049848,
+        "samples": 2,
+        "sources": [
+          1792924942.264
+        ],
+        "source_trigger_t": null,
+        "message_trigger_t": 1792924943.049848,
+        "source_delay_from_first_eval_s": null,
+        "message_delay_from_first_eval_s": 0.20000004768371582
+      },
+      {
+        "first_t": 1792924946.049848,
+        "last_t": 1792924946.2498481,
+        "samples": 2,
+        "sources": [
+          1792924945.6
+        ],
+        "source_trigger_t": null,
+        "message_trigger_t": 1792924946.2498481,
+        "source_delay_from_first_eval_s": null,
+        "message_delay_from_first_eval_s": 0.20000004768371582
+      },
+      {
+        "first_t": 1792925061.2498481,
+        "last_t": 1792925061.2498481,
+        "samples": 1,
+        "sources": [
+          1792925060.585
+        ],
+        "source_trigger_t": null,
+        "message_trigger_t": null,
+        "source_delay_from_first_eval_s": null,
+        "message_delay_from_first_eval_s": null
+      }
+    ],
+    "source_requests": [],
+    "message_requests": [
+      {
+        "t": 1792924943.049848,
+        "action": "HOLD_REQUESTED_SEMANTIC_CONFIRMED_PERSON"
+      }
+    ],
+    "states": {
+      "CAUTION": 1141,
+      "CLEAR": 1117,
+      "CRITICAL": 60
+    }
+  },
+  {
+    "run": "MISSION_20261025T103420_406168",
+    "variant": "held_recorded_fusion",
+    "period_s": 0.2,
+    "phase_fraction": 0.75,
+    "anchor_s": 1792924504.1498482,
+    "evaluations": 2319,
+    "person_runs": 4,
+    "Rm_person": 2,
+    "Rs_person": 0,
+    "available_camera_sources": 1793,
+    "sampled_available_camera_sources": 1787,
+    "unseen_available_camera_sources": 6,
+    "auto_evaluations": 2024,
+    "invalid_AUTO_evaluations": 0,
+    "source_bridge_requests": 0,
+    "message_bridge_requests": 2,
+    "source_person_requests": 0,
+    "message_person_requests": 2,
+    "person_episodes": [
+      {
+        "first_t": 1792924740.4998484,
+        "last_t": 1792924740.6998484,
+        "samples": 2,
+        "sources": [
+          1792924740.071
+        ],
+        "source_trigger_t": null,
+        "message_trigger_t": 1792924740.6998484,
+        "source_delay_from_first_eval_s": null,
+        "message_delay_from_first_eval_s": 0.20000004768371582
+      },
+      {
+        "first_t": 1792924942.8998482,
+        "last_t": 1792924942.8998482,
+        "samples": 1,
+        "sources": [
+          1792924942.264
+        ],
+        "source_trigger_t": null,
+        "message_trigger_t": null,
+        "source_delay_from_first_eval_s": null,
+        "message_delay_from_first_eval_s": null
+      },
+      {
+        "first_t": 1792924946.0998483,
+        "last_t": 1792924946.0998483,
+        "samples": 1,
+        "sources": [
+          1792924945.6
+        ],
+        "source_trigger_t": null,
+        "message_trigger_t": null,
+        "source_delay_from_first_eval_s": null,
+        "message_delay_from_first_eval_s": null
+      },
+      {
+        "first_t": 1792925061.0998483,
+        "last_t": 1792925061.2998483,
+        "samples": 2,
+        "sources": [
+          1792925060.585
+        ],
+        "source_trigger_t": null,
+        "message_trigger_t": 1792925061.2998483,
+        "source_delay_from_first_eval_s": null,
+        "message_delay_from_first_eval_s": 0.20000004768371582
+      }
+    ],
+    "source_requests": [],
+    "message_requests": [
+      {
+        "t": 1792924740.6998484,
+        "action": "HOLD_REQUESTED_SEMANTIC_CONFIRMED_PERSON"
+      },
+      {
+        "t": 1792925061.2998483,
+        "action": "HOLD_REQUESTED_SEMANTIC_CONFIRMED_PERSON"
+      }
+    ],
+    "states": {
+      "CAUTION": 1128,
+      "CLEAR": 1130,
+      "CRITICAL": 61
+    }
+  },
+  {
+    "run": "MISSION_20261025T103420_406168",
+    "variant": "held_recorded_fusion",
+    "period_s": 0.5,
+    "phase_fraction": 0,
+    "anchor_s": 1792924504.1498482,
+    "evaluations": 928,
+    "person_runs": 3,
+    "Rm_person": 0,
+    "Rs_person": 0,
+    "available_camera_sources": 1793,
+    "sampled_available_camera_sources": 927,
+    "unseen_available_camera_sources": 866,
+    "auto_evaluations": 811,
+    "invalid_AUTO_evaluations": 0,
+    "source_bridge_requests": 0,
+    "message_bridge_requests": 0,
+    "source_person_requests": 0,
+    "message_person_requests": 0,
+    "person_episodes": [
+      {
+        "first_t": 1792924740.6498482,
+        "last_t": 1792924740.6498482,
+        "samples": 1,
+        "sources": [
+          1792924740.071
+        ],
+        "source_trigger_t": null,
+        "message_trigger_t": null,
+        "source_delay_from_first_eval_s": null,
+        "message_delay_from_first_eval_s": null
+      },
+      {
+        "first_t": 1792924946.1498482,
+        "last_t": 1792924946.1498482,
+        "samples": 1,
+        "sources": [
+          1792924945.6
+        ],
+        "source_trigger_t": null,
+        "message_trigger_t": null,
+        "source_delay_from_first_eval_s": null,
+        "message_delay_from_first_eval_s": null
+      },
+      {
+        "first_t": 1792925061.1498482,
+        "last_t": 1792925061.1498482,
+        "samples": 1,
+        "sources": [
+          1792925060.585
+        ],
+        "source_trigger_t": null,
+        "message_trigger_t": null,
+        "source_delay_from_first_eval_s": null,
+        "message_delay_from_first_eval_s": null
+      }
+    ],
+    "source_requests": [],
+    "message_requests": [],
+    "states": {
+      "CAUTION": 451,
+      "CLEAR": 453,
+      "CRITICAL": 24
+    }
+  },
+  {
+    "run": "MISSION_20261025T103420_406168",
+    "variant": "held_recorded_fusion",
+    "period_s": 0.5,
+    "phase_fraction": 0.25,
+    "anchor_s": 1792924504.1498482,
+    "evaluations": 927,
+    "person_runs": 2,
+    "Rm_person": 0,
+    "Rs_person": 0,
+    "available_camera_sources": 1793,
+    "sampled_available_camera_sources": 927,
+    "unseen_available_camera_sources": 866,
+    "auto_evaluations": 810,
+    "invalid_AUTO_evaluations": 0,
+    "source_bridge_requests": 1,
+    "message_bridge_requests": 1,
+    "source_person_requests": 0,
+    "message_person_requests": 0,
+    "person_episodes": [
+      {
+        "first_t": 1792924942.7748482,
+        "last_t": 1792924942.7748482,
+        "samples": 1,
+        "sources": [
+          1792924942.264
+        ],
+        "source_trigger_t": null,
+        "message_trigger_t": null,
+        "source_delay_from_first_eval_s": null,
+        "message_delay_from_first_eval_s": null
+      },
+      {
+        "first_t": 1792925061.2748482,
+        "last_t": 1792925061.2748482,
+        "samples": 1,
+        "sources": [
+          1792925060.585
+        ],
+        "source_trigger_t": null,
+        "message_trigger_t": null,
+        "source_delay_from_first_eval_s": null,
+        "message_delay_from_first_eval_s": null
+      }
+    ],
+    "source_requests": [
+      {
+        "t": 1792924898.2748482,
+        "action": "HOLD_REQUESTED_STABILITY_CRITICAL"
+      }
+    ],
+    "message_requests": [
+      {
+        "t": 1792924898.2748482,
+        "action": "HOLD_REQUESTED_STABILITY_CRITICAL"
+      }
+    ],
+    "states": {
+      "CAUTION": 454,
+      "CLEAR": 449,
+      "CRITICAL": 24
+    }
+  },
+  {
+    "run": "MISSION_20261025T103420_406168",
+    "variant": "held_recorded_fusion",
+    "period_s": 0.5,
+    "phase_fraction": 0.5,
+    "anchor_s": 1792924504.1498482,
+    "evaluations": 927,
+    "person_runs": 1,
+    "Rm_person": 0,
+    "Rs_person": 0,
+    "available_camera_sources": 1793,
+    "sampled_available_camera_sources": 927,
+    "unseen_available_camera_sources": 866,
+    "auto_evaluations": 808,
+    "invalid_AUTO_evaluations": 0,
+    "source_bridge_requests": 0,
+    "message_bridge_requests": 0,
+    "source_person_requests": 0,
+    "message_person_requests": 0,
+    "person_episodes": [
+      {
+        "first_t": 1792924942.8998482,
+        "last_t": 1792924942.8998482,
+        "samples": 1,
+        "sources": [
+          1792924942.264
+        ],
+        "source_trigger_t": null,
+        "message_trigger_t": null,
+        "source_delay_from_first_eval_s": null,
+        "message_delay_from_first_eval_s": null
+      }
+    ],
+    "source_requests": [],
+    "message_requests": [],
+    "states": {
+      "CAUTION": 453,
+      "CLEAR": 450,
+      "CRITICAL": 24
+    }
+  },
+  {
+    "run": "MISSION_20261025T103420_406168",
+    "variant": "held_recorded_fusion",
+    "period_s": 0.5,
+    "phase_fraction": 0.75,
+    "anchor_s": 1792924504.1498482,
+    "evaluations": 928,
+    "person_runs": 3,
+    "Rm_person": 0,
+    "Rs_person": 0,
+    "available_camera_sources": 1793,
+    "sampled_available_camera_sources": 927,
+    "unseen_available_camera_sources": 866,
+    "auto_evaluations": 809,
+    "invalid_AUTO_evaluations": 0,
+    "source_bridge_requests": 0,
+    "message_bridge_requests": 0,
+    "source_person_requests": 0,
+    "message_person_requests": 0,
+    "person_episodes": [
+      {
+        "first_t": 1792924740.5248482,
+        "last_t": 1792924740.5248482,
+        "samples": 1,
+        "sources": [
+          1792924740.071
+        ],
+        "source_trigger_t": null,
+        "message_trigger_t": null,
+        "source_delay_from_first_eval_s": null,
+        "message_delay_from_first_eval_s": null
+      },
+      {
+        "first_t": 1792924943.0248482,
+        "last_t": 1792924943.0248482,
+        "samples": 1,
+        "sources": [
+          1792924942.264
+        ],
+        "source_trigger_t": null,
+        "message_trigger_t": null,
+        "source_delay_from_first_eval_s": null,
+        "message_delay_from_first_eval_s": null
+      },
+      {
+        "first_t": 1792924946.0248482,
+        "last_t": 1792924946.0248482,
+        "samples": 1,
+        "sources": [
+          1792924945.6
+        ],
+        "source_trigger_t": null,
+        "message_trigger_t": null,
+        "source_delay_from_first_eval_s": null,
+        "message_delay_from_first_eval_s": null
+      }
+    ],
+    "source_requests": [],
+    "message_requests": [],
+    "states": {
+      "CAUTION": 461,
+      "CLEAR": 443,
+      "CRITICAL": 24
+    }
+  }
+]

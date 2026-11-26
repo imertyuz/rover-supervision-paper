@@ -1,0 +1,132 @@
+[
+  {
+    "test": 1,
+    "action": "HOLD_REQUESTED_INVALID_FAILSAFE",
+    "request_receipt_s": 1792921562.3724346,
+    "request_publication_s": 1792921562.371177,
+    "first_HOLD_receipt_s": 1792921562.423193,
+    "receipt_interval_ms": 50.75836181640625
+  },
+  {
+    "test": 2,
+    "action": "HOLD_REQUESTED_INVALID_FAILSAFE",
+    "request_receipt_s": 1792922516.099034,
+    "request_publication_s": 1792922516.0975432,
+    "first_HOLD_receipt_s": 1792922516.244672,
+    "receipt_interval_ms": 145.63798904418945
+  },
+  {
+    "test": 4,
+    "action": "HOLD_REQUESTED_STABILITY_CRITICAL",
+    "request_receipt_s": 1792924898.2901895,
+    "request_publication_s": 1792924898.288699,
+    "first_HOLD_receipt_s": 1792924898.2938418,
+    "receipt_interval_ms": 3.652334213256836
+  },
+  {
+    "test": 4,
+    "action": "HOLD_REQUESTED_SEMANTIC_CONFIRMED_PERSON",
+    "request_receipt_s": 1792925061.3860352,
+    "request_publication_s": 1792925061.3848176,
+    "first_HOLD_receipt_s": 1792925061.394328,
+    "receipt_interval_ms": 8.292913436889648,
+    "person_samples": [
+      {
+        "receipt": 1792925059.5430536,
+        "source": 1792925059.2518032,
+        "range": 1.957,
+        "risk": "WARN"
+      },
+      {
+        "receipt": 1792925059.5430536,
+        "source": 1792925059.2518032,
+        "range": 1.906,
+        "risk": "WARN"
+      },
+      {
+        "receipt": 1792925059.7555,
+        "source": 1792925059.451776,
+        "range": 1.844,
+        "risk": "WARN"
+      },
+      {
+        "receipt": 1792925059.9880788,
+        "source": 1792925059.751746,
+        "range": 1.753,
+        "risk": "WARN"
+      },
+      {
+        "receipt": 1792925060.2823813,
+        "source": 1792925059.9517202,
+        "range": 1.692,
+        "risk": "WARN"
+      },
+      {
+        "receipt": 1792925060.4634683,
+        "source": 1792925060.1850169,
+        "range": 1.662,
+        "risk": "WARN"
+      },
+      {
+        "receipt": 1792925060.7468371,
+        "source": 1792925060.3849788,
+        "range": 1.552,
+        "risk": "WARN"
+      },
+      {
+        "receipt": 1792925061.0092363,
+        "source": 1792925060.584992,
+        "range": 1.49,
+        "risk": "CRITICAL"
+      },
+      {
+        "receipt": 1792925061.3101363,
+        "source": 1792925060.7516763,
+        "range": 1.444,
+        "risk": "CRITICAL"
+      },
+      {
+        "receipt": 1792925061.5561662,
+        "source": 1792925061.1850488,
+        "range": 1.367,
+        "risk": "CRITICAL"
+      },
+      {
+        "receipt": 1792925061.7703185,
+        "source": 1792925061.3517265,
+        "range": 1.346,
+        "risk": "CRITICAL"
+      },
+      {
+        "receipt": 1792925062.0314133,
+        "source": 1792925061.652357,
+        "range": 1.341,
+        "risk": "CRITICAL"
+      },
+      {
+        "receipt": 1792925062.330042,
+        "source": 1792925061.9530911,
+        "range": 1.24,
+        "risk": "CRITICAL"
+      },
+      {
+        "receipt": 1792925062.6176066,
+        "source": 1792925062.187016,
+        "range": 1.271,
+        "risk": "CRITICAL"
+      },
+      {
+        "receipt": 1792925062.8600476,
+        "source": 1792925062.4540956,
+        "range": 1.307,
+        "risk": "CRITICAL"
+      },
+      {
+        "receipt": 1792925063.106983,
+        "source": 1792925062.5873992,
+        "range": 1.295,
+        "risk": "CRITICAL"
+      }
+    ]
+  }
+]

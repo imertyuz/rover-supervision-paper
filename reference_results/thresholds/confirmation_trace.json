@@ -1,0 +1,2209 @@
+[
+  {
+    "event": "P1",
+    "test": "T3",
+    "first_raw_source_s": 1792923446.1625147,
+    "episode": [
+      {
+        "t": 1792923446.6517289,
+        "source": 1792923446.163,
+        "positive": true,
+        "mode": "AUTO",
+        "M": {
+          "2": {
+            "count": 1,
+            "action": "SEMANTIC_CONFIRM_PERSON_1/2"
+          },
+          "3": {
+            "count": 1,
+            "action": "SEMANTIC_CONFIRM_PERSON_1/3"
+          },
+          "4": {
+            "count": 1,
+            "action": "SEMANTIC_CONFIRM_PERSON_1/4"
+          }
+        },
+        "two_of_three": {
+          "0.5": false,
+          "1.0": false,
+          "1.5": false
+        },
+        "history": [
+          {
+            "source": 1792923445.596,
+            "positive": false,
+            "first_receipt": 1792923446.0535982
+          },
+          {
+            "source": 1792923445.896,
+            "positive": false,
+            "first_receipt": 1792923446.3514655
+          },
+          {
+            "source": 1792923446.163,
+            "positive": true,
+            "first_receipt": 1792923446.6517289
+          }
+        ]
+      },
+      {
+        "t": 1792923446.7592404,
+        "source": 1792923446.163,
+        "positive": true,
+        "mode": "AUTO",
+        "M": {
+          "2": {
+            "count": 1,
+            "action": "SEMANTIC_CONFIRM_PERSON_1/2"
+          },
+          "3": {
+            "count": 1,
+            "action": "SEMANTIC_CONFIRM_PERSON_1/3"
+          },
+          "4": {
+            "count": 1,
+            "action": "SEMANTIC_CONFIRM_PERSON_1/4"
+          }
+        },
+        "two_of_three": {
+          "0.5": false,
+          "1.0": false,
+          "1.5": false
+        },
+        "history": [
+          {
+            "source": 1792923445.596,
+            "positive": false,
+            "first_receipt": 1792923446.0535982
+          },
+          {
+            "source": 1792923445.896,
+            "positive": false,
+            "first_receipt": 1792923446.3514655
+          },
+          {
+            "source": 1792923446.163,
+            "positive": true,
+            "first_receipt": 1792923446.6517289
+          }
+        ]
+      },
+      {
+        "t": 1792923446.8514245,
+        "source": 1792923446.163,
+        "positive": true,
+        "mode": "AUTO",
+        "M": {
+          "2": {
+            "count": 1,
+            "action": "SEMANTIC_CONFIRM_PERSON_1/2"
+          },
+          "3": {
+            "count": 1,
+            "action": "SEMANTIC_CONFIRM_PERSON_1/3"
+          },
+          "4": {
+            "count": 1,
+            "action": "SEMANTIC_CONFIRM_PERSON_1/4"
+          }
+        },
+        "two_of_three": {
+          "0.5": false,
+          "1.0": false,
+          "1.5": false
+        },
+        "history": [
+          {
+            "source": 1792923445.596,
+            "positive": false,
+            "first_receipt": 1792923446.0535982
+          },
+          {
+            "source": 1792923445.896,
+            "positive": false,
+            "first_receipt": 1792923446.3514655
+          },
+          {
+            "source": 1792923446.163,
+            "positive": true,
+            "first_receipt": 1792923446.6517289
+          }
+        ]
+      },
+      {
+        "t": 1792923446.9537776,
+        "source": 1792923446.163,
+        "positive": true,
+        "mode": "AUTO",
+        "M": {
+          "2": {
+            "count": 1,
+            "action": "SEMANTIC_CONFIRM_PERSON_1/2"
+          },
+          "3": {
+            "count": 1,
+            "action": "SEMANTIC_CONFIRM_PERSON_1/3"
+          },
+          "4": {
+            "count": 1,
+            "action": "SEMANTIC_CONFIRM_PERSON_1/4"
+          }
+        },
+        "two_of_three": {
+          "0.5": false,
+          "1.0": false,
+          "1.5": false
+        },
+        "history": [
+          {
+            "source": 1792923445.596,
+            "positive": false,
+            "first_receipt": 1792923446.0535982
+          },
+          {
+            "source": 1792923445.896,
+            "positive": false,
+            "first_receipt": 1792923446.3514655
+          },
+          {
+            "source": 1792923446.163,
+            "positive": true,
+            "first_receipt": 1792923446.6517289
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "event": "P2",
+    "test": "T4",
+    "first_raw_source_s": 1792924740.0705235,
+    "episode": [
+      {
+        "t": 1792924740.4579728,
+        "source": 1792924740.071,
+        "positive": true,
+        "mode": "AUTO",
+        "M": {
+          "2": {
+            "count": 1,
+            "action": "SEMANTIC_CONFIRM_PERSON_1/2"
+          },
+          "3": {
+            "count": 1,
+            "action": "SEMANTIC_CONFIRM_PERSON_1/3"
+          },
+          "4": {
+            "count": 1,
+            "action": "SEMANTIC_CONFIRM_PERSON_1/4"
+          }
+        },
+        "two_of_three": {
+          "0.5": false,
+          "1.0": false,
+          "1.5": false
+        },
+        "history": [
+          {
+            "source": 1792924739.604,
+            "positive": false,
+            "first_receipt": 1792924739.9546986
+          },
+          {
+            "source": 1792924739.804,
+            "positive": false,
+            "first_receipt": 1792924740.15729
+          },
+          {
+            "source": 1792924740.071,
+            "positive": true,
+            "first_receipt": 1792924740.4579728
+          }
+        ]
+      },
+      {
+        "t": 1792924740.5542266,
+        "source": 1792924740.071,
+        "positive": true,
+        "mode": "AUTO",
+        "M": {
+          "2": {
+            "count": 1,
+            "action": "SEMANTIC_CONFIRM_PERSON_1/2"
+          },
+          "3": {
+            "count": 1,
+            "action": "SEMANTIC_CONFIRM_PERSON_1/3"
+          },
+          "4": {
+            "count": 1,
+            "action": "SEMANTIC_CONFIRM_PERSON_1/4"
+          }
+        },
+        "two_of_three": {
+          "0.5": false,
+          "1.0": false,
+          "1.5": false
+        },
+        "history": [
+          {
+            "source": 1792924739.604,
+            "positive": false,
+            "first_receipt": 1792924739.9546986
+          },
+          {
+            "source": 1792924739.804,
+            "positive": false,
+            "first_receipt": 1792924740.15729
+          },
+          {
+            "source": 1792924740.071,
+            "positive": true,
+            "first_receipt": 1792924740.4579728
+          }
+        ]
+      },
+      {
+        "t": 1792924740.6526902,
+        "source": 1792924740.071,
+        "positive": true,
+        "mode": "AUTO",
+        "M": {
+          "2": {
+            "count": 1,
+            "action": "SEMANTIC_CONFIRM_PERSON_1/2"
+          },
+          "3": {
+            "count": 1,
+            "action": "SEMANTIC_CONFIRM_PERSON_1/3"
+          },
+          "4": {
+            "count": 1,
+            "action": "SEMANTIC_CONFIRM_PERSON_1/4"
+          }
+        },
+        "two_of_three": {
+          "0.5": false,
+          "1.0": false,
+          "1.5": false
+        },
+        "history": [
+          {
+            "source": 1792924739.604,
+            "positive": false,
+            "first_receipt": 1792924739.9546986
+          },
+          {
+            "source": 1792924739.804,
+            "positive": false,
+            "first_receipt": 1792924740.15729
+          },
+          {
+            "source": 1792924740.071,
+            "positive": true,
+            "first_receipt": 1792924740.4579728
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "event": "P3",
+    "test": "T4",
+    "first_raw_source_s": 1792924942.2636175,
+    "episode": [
+      {
+        "t": 1792924942.7521896,
+        "source": 1792924942.264,
+        "positive": true,
+        "mode": "AUTO",
+        "M": {
+          "2": {
+            "count": 1,
+            "action": "SEMANTIC_CONFIRM_PERSON_1/2"
+          },
+          "3": {
+            "count": 1,
+            "action": "SEMANTIC_CONFIRM_PERSON_1/3"
+          },
+          "4": {
+            "count": 1,
+            "action": "SEMANTIC_CONFIRM_PERSON_1/4"
+          }
+        },
+        "two_of_three": {
+          "0.5": false,
+          "1.0": false,
+          "1.5": false
+        },
+        "history": [
+          {
+            "source": 1792924941.696,
+            "positive": false,
+            "first_receipt": 1792924942.1535149
+          },
+          {
+            "source": 1792924941.929,
+            "positive": false,
+            "first_receipt": 1792924942.4522207
+          },
+          {
+            "source": 1792924942.264,
+            "positive": true,
+            "first_receipt": 1792924942.7521896
+          }
+        ]
+      },
+      {
+        "t": 1792924942.8526964,
+        "source": 1792924942.264,
+        "positive": true,
+        "mode": "AUTO",
+        "M": {
+          "2": {
+            "count": 1,
+            "action": "SEMANTIC_CONFIRM_PERSON_1/2"
+          },
+          "3": {
+            "count": 1,
+            "action": "SEMANTIC_CONFIRM_PERSON_1/3"
+          },
+          "4": {
+            "count": 1,
+            "action": "SEMANTIC_CONFIRM_PERSON_1/4"
+          }
+        },
+        "two_of_three": {
+          "0.5": false,
+          "1.0": false,
+          "1.5": false
+        },
+        "history": [
+          {
+            "source": 1792924941.696,
+            "positive": false,
+            "first_receipt": 1792924942.1535149
+          },
+          {
+            "source": 1792924941.929,
+            "positive": false,
+            "first_receipt": 1792924942.4522207
+          },
+          {
+            "source": 1792924942.264,
+            "positive": true,
+            "first_receipt": 1792924942.7521896
+          }
+        ]
+      },
+      {
+        "t": 1792924942.9518063,
+        "source": 1792924942.264,
+        "positive": true,
+        "mode": "AUTO",
+        "M": {
+          "2": {
+            "count": 1,
+            "action": "SEMANTIC_CONFIRM_PERSON_1/2"
+          },
+          "3": {
+            "count": 1,
+            "action": "SEMANTIC_CONFIRM_PERSON_1/3"
+          },
+          "4": {
+            "count": 1,
+            "action": "SEMANTIC_CONFIRM_PERSON_1/4"
+          }
+        },
+        "two_of_three": {
+          "0.5": false,
+          "1.0": false,
+          "1.5": false
+        },
+        "history": [
+          {
+            "source": 1792924941.696,
+            "positive": false,
+            "first_receipt": 1792924942.1535149
+          },
+          {
+            "source": 1792924941.929,
+            "positive": false,
+            "first_receipt": 1792924942.4522207
+          },
+          {
+            "source": 1792924942.264,
+            "positive": true,
+            "first_receipt": 1792924942.7521896
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "event": "P4",
+    "test": "T4",
+    "first_raw_source_s": 1792924945.6002436,
+    "episode": [
+      {
+        "t": 1792924945.9515011,
+        "source": 1792924945.6,
+        "positive": true,
+        "mode": "AUTO",
+        "M": {
+          "2": {
+            "count": 1,
+            "action": "SEMANTIC_CONFIRM_PERSON_1/2"
+          },
+          "3": {
+            "count": 1,
+            "action": "SEMANTIC_CONFIRM_PERSON_1/3"
+          },
+          "4": {
+            "count": 1,
+            "action": "SEMANTIC_CONFIRM_PERSON_1/4"
+          }
+        },
+        "two_of_three": {
+          "0.5": false,
+          "1.0": false,
+          "1.5": false
+        },
+        "history": [
+          {
+            "source": 1792924945.167,
+            "positive": false,
+            "first_receipt": 1792924945.5526333
+          },
+          {
+            "source": 1792924945.367,
+            "positive": false,
+            "first_receipt": 1792924945.7533307
+          },
+          {
+            "source": 1792924945.6,
+            "positive": true,
+            "first_receipt": 1792924945.9515011
+          }
+        ]
+      },
+      {
+        "t": 1792924946.051946,
+        "source": 1792924945.6,
+        "positive": true,
+        "mode": "AUTO",
+        "M": {
+          "2": {
+            "count": 1,
+            "action": "SEMANTIC_CONFIRM_PERSON_1/2"
+          },
+          "3": {
+            "count": 1,
+            "action": "SEMANTIC_CONFIRM_PERSON_1/3"
+          },
+          "4": {
+            "count": 1,
+            "action": "SEMANTIC_CONFIRM_PERSON_1/4"
+          }
+        },
+        "two_of_three": {
+          "0.5": false,
+          "1.0": false,
+          "1.5": false
+        },
+        "history": [
+          {
+            "source": 1792924945.167,
+            "positive": false,
+            "first_receipt": 1792924945.5526333
+          },
+          {
+            "source": 1792924945.367,
+            "positive": false,
+            "first_receipt": 1792924945.7533307
+          },
+          {
+            "source": 1792924945.6,
+            "positive": true,
+            "first_receipt": 1792924945.9515011
+          }
+        ]
+      },
+      {
+        "t": 1792924946.1529882,
+        "source": 1792924945.6,
+        "positive": true,
+        "mode": "AUTO",
+        "M": {
+          "2": {
+            "count": 1,
+            "action": "SEMANTIC_CONFIRM_PERSON_1/2"
+          },
+          "3": {
+            "count": 1,
+            "action": "SEMANTIC_CONFIRM_PERSON_1/3"
+          },
+          "4": {
+            "count": 1,
+            "action": "SEMANTIC_CONFIRM_PERSON_1/4"
+          }
+        },
+        "two_of_three": {
+          "0.5": false,
+          "1.0": false,
+          "1.5": false
+        },
+        "history": [
+          {
+            "source": 1792924945.167,
+            "positive": false,
+            "first_receipt": 1792924945.5526333
+          },
+          {
+            "source": 1792924945.367,
+            "positive": false,
+            "first_receipt": 1792924945.7533307
+          },
+          {
+            "source": 1792924945.6,
+            "positive": true,
+            "first_receipt": 1792924945.9515011
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "event": "P5",
+    "test": "T4",
+    "first_raw_source_s": 1792925060.584992,
+    "episode": [
+      {
+        "t": 1792925061.0527258,
+        "source": 1792925060.585,
+        "positive": true,
+        "mode": "AUTO",
+        "M": {
+          "2": {
+            "count": 1,
+            "action": "SEMANTIC_CONFIRM_PERSON_1/2"
+          },
+          "3": {
+            "count": 1,
+            "action": "SEMANTIC_CONFIRM_PERSON_1/3"
+          },
+          "4": {
+            "count": 1,
+            "action": "SEMANTIC_CONFIRM_PERSON_1/4"
+          }
+        },
+        "two_of_three": {
+          "0.5": false,
+          "1.0": false,
+          "1.5": false
+        },
+        "history": [
+          {
+            "source": 1792925060.185,
+            "positive": false,
+            "first_receipt": 1792925060.5525734
+          },
+          {
+            "source": 1792925060.385,
+            "positive": false,
+            "first_receipt": 1792925060.7553484
+          },
+          {
+            "source": 1792925060.585,
+            "positive": true,
+            "first_receipt": 1792925061.0527258
+          }
+        ]
+      },
+      {
+        "t": 1792925061.158855,
+        "source": 1792925060.585,
+        "positive": true,
+        "mode": "AUTO",
+        "M": {
+          "2": {
+            "count": 1,
+            "action": "SEMANTIC_CONFIRM_PERSON_1/2"
+          },
+          "3": {
+            "count": 1,
+            "action": "SEMANTIC_CONFIRM_PERSON_1/3"
+          },
+          "4": {
+            "count": 1,
+            "action": "SEMANTIC_CONFIRM_PERSON_1/4"
+          }
+        },
+        "two_of_three": {
+          "0.5": false,
+          "1.0": false,
+          "1.5": false
+        },
+        "history": [
+          {
+            "source": 1792925060.185,
+            "positive": false,
+            "first_receipt": 1792925060.5525734
+          },
+          {
+            "source": 1792925060.385,
+            "positive": false,
+            "first_receipt": 1792925060.7553484
+          },
+          {
+            "source": 1792925060.585,
+            "positive": true,
+            "first_receipt": 1792925061.0527258
+          }
+        ]
+      },
+      {
+        "t": 1792925061.2542255,
+        "source": 1792925060.585,
+        "positive": true,
+        "mode": "AUTO",
+        "M": {
+          "2": {
+            "count": 1,
+            "action": "SEMANTIC_CONFIRM_PERSON_1/2"
+          },
+          "3": {
+            "count": 1,
+            "action": "SEMANTIC_CONFIRM_PERSON_1/3"
+          },
+          "4": {
+            "count": 1,
+            "action": "SEMANTIC_CONFIRM_PERSON_1/4"
+          }
+        },
+        "two_of_three": {
+          "0.5": false,
+          "1.0": false,
+          "1.5": false
+        },
+        "history": [
+          {
+            "source": 1792925060.185,
+            "positive": false,
+            "first_receipt": 1792925060.5525734
+          },
+          {
+            "source": 1792925060.385,
+            "positive": false,
+            "first_receipt": 1792925060.7553484
+          },
+          {
+            "source": 1792925060.585,
+            "positive": true,
+            "first_receipt": 1792925061.0527258
+          }
+        ]
+      },
+      {
+        "t": 1792925061.355603,
+        "source": 1792925060.752,
+        "positive": true,
+        "mode": "AUTO",
+        "M": {
+          "2": {
+            "count": 2,
+            "action": "HOLD_REQUESTED_SEMANTIC_CONFIRMED_PERSON"
+          },
+          "3": {
+            "count": 2,
+            "action": "SEMANTIC_CONFIRM_PERSON_2/3"
+          },
+          "4": {
+            "count": 2,
+            "action": "SEMANTIC_CONFIRM_PERSON_2/4"
+          }
+        },
+        "two_of_three": {
+          "0.5": true,
+          "1.0": true,
+          "1.5": true
+        },
+        "history": [
+          {
+            "source": 1792925060.385,
+            "positive": false,
+            "first_receipt": 1792925060.7553484
+          },
+          {
+            "source": 1792925060.585,
+            "positive": true,
+            "first_receipt": 1792925061.0527258
+          },
+          {
+            "source": 1792925060.752,
+            "positive": true,
+            "first_receipt": 1792925061.355603
+          }
+        ]
+      },
+      {
+        "t": 1792925061.4540303,
+        "source": 1792925060.752,
+        "positive": true,
+        "mode": "HOLD",
+        "M": {
+          "2": {
+            "count": 2,
+            "action": "CRITICAL_NO_HOLD_MODE_HOLD"
+          },
+          "3": {
+            "count": 2,
+            "action": "SEMANTIC_CONFIRM_PERSON_2/3"
+          },
+          "4": {
+            "count": 2,
+            "action": "SEMANTIC_CONFIRM_PERSON_2/4"
+          }
+        },
+        "two_of_three": {
+          "0.5": true,
+          "1.0": true,
+          "1.5": true
+        },
+        "history": [
+          {
+            "source": 1792925060.385,
+            "positive": false,
+            "first_receipt": 1792925060.7553484
+          },
+          {
+            "source": 1792925060.585,
+            "positive": true,
+            "first_receipt": 1792925061.0527258
+          },
+          {
+            "source": 1792925060.752,
+            "positive": true,
+            "first_receipt": 1792925061.355603
+          }
+        ]
+      },
+      {
+        "t": 1792925061.551568,
+        "source": 1792925060.752,
+        "positive": true,
+        "mode": "HOLD",
+        "M": {
+          "2": {
+            "count": 2,
+            "action": "CRITICAL_NO_HOLD_MODE_HOLD"
+          },
+          "3": {
+            "count": 2,
+            "action": "SEMANTIC_CONFIRM_PERSON_2/3"
+          },
+          "4": {
+            "count": 2,
+            "action": "SEMANTIC_CONFIRM_PERSON_2/4"
+          }
+        },
+        "two_of_three": {
+          "0.5": true,
+          "1.0": true,
+          "1.5": true
+        },
+        "history": [
+          {
+            "source": 1792925060.385,
+            "positive": false,
+            "first_receipt": 1792925060.7553484
+          },
+          {
+            "source": 1792925060.585,
+            "positive": true,
+            "first_receipt": 1792925061.0527258
+          },
+          {
+            "source": 1792925060.752,
+            "positive": true,
+            "first_receipt": 1792925061.355603
+          }
+        ]
+      },
+      {
+        "t": 1792925061.6519632,
+        "source": 1792925061.185,
+        "positive": true,
+        "mode": "HOLD",
+        "M": {
+          "2": {
+            "count": 3,
+            "action": "CRITICAL_NO_HOLD_MODE_HOLD"
+          },
+          "3": {
+            "count": 3,
+            "action": "CRITICAL_NO_HOLD_MODE_HOLD"
+          },
+          "4": {
+            "count": 3,
+            "action": "SEMANTIC_CONFIRM_PERSON_3/4"
+          }
+        },
+        "two_of_three": {
+          "0.5": true,
+          "1.0": true,
+          "1.5": true
+        },
+        "history": [
+          {
+            "source": 1792925060.585,
+            "positive": true,
+            "first_receipt": 1792925061.0527258
+          },
+          {
+            "source": 1792925060.752,
+            "positive": true,
+            "first_receipt": 1792925061.355603
+          },
+          {
+            "source": 1792925061.185,
+            "positive": true,
+            "first_receipt": 1792925061.6519632
+          }
+        ]
+      },
+      {
+        "t": 1792925061.7519162,
+        "source": 1792925061.185,
+        "positive": true,
+        "mode": "HOLD",
+        "M": {
+          "2": {
+            "count": 3,
+            "action": "CRITICAL_NO_HOLD_MODE_HOLD"
+          },
+          "3": {
+            "count": 3,
+            "action": "CRITICAL_NO_HOLD_MODE_HOLD"
+          },
+          "4": {
+            "count": 3,
+            "action": "SEMANTIC_CONFIRM_PERSON_3/4"
+          }
+        },
+        "two_of_three": {
+          "0.5": true,
+          "1.0": true,
+          "1.5": true
+        },
+        "history": [
+          {
+            "source": 1792925060.585,
+            "positive": true,
+            "first_receipt": 1792925061.0527258
+          },
+          {
+            "source": 1792925060.752,
+            "positive": true,
+            "first_receipt": 1792925061.355603
+          },
+          {
+            "source": 1792925061.185,
+            "positive": true,
+            "first_receipt": 1792925061.6519632
+          }
+        ]
+      },
+      {
+        "t": 1792925061.873111,
+        "source": 1792925061.352,
+        "positive": true,
+        "mode": "HOLD",
+        "M": {
+          "2": {
+            "count": 4,
+            "action": "CRITICAL_NO_HOLD_MODE_HOLD"
+          },
+          "3": {
+            "count": 4,
+            "action": "CRITICAL_NO_HOLD_MODE_HOLD"
+          },
+          "4": {
+            "count": 4,
+            "action": "CRITICAL_NO_HOLD_MODE_HOLD"
+          }
+        },
+        "two_of_three": {
+          "0.5": true,
+          "1.0": true,
+          "1.5": true
+        },
+        "history": [
+          {
+            "source": 1792925060.752,
+            "positive": true,
+            "first_receipt": 1792925061.355603
+          },
+          {
+            "source": 1792925061.185,
+            "positive": true,
+            "first_receipt": 1792925061.6519632
+          },
+          {
+            "source": 1792925061.352,
+            "positive": true,
+            "first_receipt": 1792925061.873111
+          }
+        ]
+      },
+      {
+        "t": 1792925061.9518552,
+        "source": 1792925061.352,
+        "positive": true,
+        "mode": "HOLD",
+        "M": {
+          "2": {
+            "count": 4,
+            "action": "CRITICAL_NO_HOLD_MODE_HOLD"
+          },
+          "3": {
+            "count": 4,
+            "action": "CRITICAL_NO_HOLD_MODE_HOLD"
+          },
+          "4": {
+            "count": 4,
+            "action": "CRITICAL_NO_HOLD_MODE_HOLD"
+          }
+        },
+        "two_of_three": {
+          "0.5": true,
+          "1.0": true,
+          "1.5": true
+        },
+        "history": [
+          {
+            "source": 1792925060.752,
+            "positive": true,
+            "first_receipt": 1792925061.355603
+          },
+          {
+            "source": 1792925061.185,
+            "positive": true,
+            "first_receipt": 1792925061.6519632
+          },
+          {
+            "source": 1792925061.352,
+            "positive": true,
+            "first_receipt": 1792925061.873111
+          }
+        ]
+      },
+      {
+        "t": 1792925062.053019,
+        "source": 1792925061.652,
+        "positive": true,
+        "mode": "HOLD",
+        "M": {
+          "2": {
+            "count": 5,
+            "action": "CRITICAL_NO_HOLD_MODE_HOLD"
+          },
+          "3": {
+            "count": 5,
+            "action": "CRITICAL_NO_HOLD_MODE_HOLD"
+          },
+          "4": {
+            "count": 5,
+            "action": "CRITICAL_NO_HOLD_MODE_HOLD"
+          }
+        },
+        "two_of_three": {
+          "0.5": true,
+          "1.0": true,
+          "1.5": true
+        },
+        "history": [
+          {
+            "source": 1792925061.185,
+            "positive": true,
+            "first_receipt": 1792925061.6519632
+          },
+          {
+            "source": 1792925061.352,
+            "positive": true,
+            "first_receipt": 1792925061.873111
+          },
+          {
+            "source": 1792925061.652,
+            "positive": true,
+            "first_receipt": 1792925062.053019
+          }
+        ]
+      },
+      {
+        "t": 1792925062.1516259,
+        "source": 1792925061.652,
+        "positive": true,
+        "mode": "HOLD",
+        "M": {
+          "2": {
+            "count": 5,
+            "action": "CRITICAL_NO_HOLD_MODE_HOLD"
+          },
+          "3": {
+            "count": 5,
+            "action": "CRITICAL_NO_HOLD_MODE_HOLD"
+          },
+          "4": {
+            "count": 5,
+            "action": "CRITICAL_NO_HOLD_MODE_HOLD"
+          }
+        },
+        "two_of_three": {
+          "0.5": true,
+          "1.0": true,
+          "1.5": true
+        },
+        "history": [
+          {
+            "source": 1792925061.185,
+            "positive": true,
+            "first_receipt": 1792925061.6519632
+          },
+          {
+            "source": 1792925061.352,
+            "positive": true,
+            "first_receipt": 1792925061.873111
+          },
+          {
+            "source": 1792925061.652,
+            "positive": true,
+            "first_receipt": 1792925062.053019
+          }
+        ]
+      },
+      {
+        "t": 1792925062.254882,
+        "source": 1792925061.652,
+        "positive": true,
+        "mode": "HOLD",
+        "M": {
+          "2": {
+            "count": 5,
+            "action": "CRITICAL_NO_HOLD_MODE_HOLD"
+          },
+          "3": {
+            "count": 5,
+            "action": "CRITICAL_NO_HOLD_MODE_HOLD"
+          },
+          "4": {
+            "count": 5,
+            "action": "CRITICAL_NO_HOLD_MODE_HOLD"
+          }
+        },
+        "two_of_three": {
+          "0.5": true,
+          "1.0": true,
+          "1.5": true
+        },
+        "history": [
+          {
+            "source": 1792925061.185,
+            "positive": true,
+            "first_receipt": 1792925061.6519632
+          },
+          {
+            "source": 1792925061.352,
+            "positive": true,
+            "first_receipt": 1792925061.873111
+          },
+          {
+            "source": 1792925061.652,
+            "positive": true,
+            "first_receipt": 1792925062.053019
+          }
+        ]
+      },
+      {
+        "t": 1792925062.3586764,
+        "source": 1792925061.953,
+        "positive": true,
+        "mode": "HOLD",
+        "M": {
+          "2": {
+            "count": 6,
+            "action": "CRITICAL_NO_HOLD_MODE_HOLD"
+          },
+          "3": {
+            "count": 6,
+            "action": "CRITICAL_NO_HOLD_MODE_HOLD"
+          },
+          "4": {
+            "count": 6,
+            "action": "CRITICAL_NO_HOLD_MODE_HOLD"
+          }
+        },
+        "two_of_three": {
+          "0.5": true,
+          "1.0": true,
+          "1.5": true
+        },
+        "history": [
+          {
+            "source": 1792925061.352,
+            "positive": true,
+            "first_receipt": 1792925061.873111
+          },
+          {
+            "source": 1792925061.652,
+            "positive": true,
+            "first_receipt": 1792925062.053019
+          },
+          {
+            "source": 1792925061.953,
+            "positive": true,
+            "first_receipt": 1792925062.3586764
+          }
+        ]
+      },
+      {
+        "t": 1792925062.454889,
+        "source": 1792925061.953,
+        "positive": true,
+        "mode": "HOLD",
+        "M": {
+          "2": {
+            "count": 6,
+            "action": "CRITICAL_NO_HOLD_MODE_HOLD"
+          },
+          "3": {
+            "count": 6,
+            "action": "CRITICAL_NO_HOLD_MODE_HOLD"
+          },
+          "4": {
+            "count": 6,
+            "action": "CRITICAL_NO_HOLD_MODE_HOLD"
+          }
+        },
+        "two_of_three": {
+          "0.5": true,
+          "1.0": true,
+          "1.5": true
+        },
+        "history": [
+          {
+            "source": 1792925061.352,
+            "positive": true,
+            "first_receipt": 1792925061.873111
+          },
+          {
+            "source": 1792925061.652,
+            "positive": true,
+            "first_receipt": 1792925062.053019
+          },
+          {
+            "source": 1792925061.953,
+            "positive": true,
+            "first_receipt": 1792925062.3586764
+          }
+        ]
+      },
+      {
+        "t": 1792925062.5537038,
+        "source": 1792925061.953,
+        "positive": true,
+        "mode": "HOLD",
+        "M": {
+          "2": {
+            "count": 6,
+            "action": "CRITICAL_NO_HOLD_MODE_HOLD"
+          },
+          "3": {
+            "count": 6,
+            "action": "CRITICAL_NO_HOLD_MODE_HOLD"
+          },
+          "4": {
+            "count": 6,
+            "action": "CRITICAL_NO_HOLD_MODE_HOLD"
+          }
+        },
+        "two_of_three": {
+          "0.5": true,
+          "1.0": true,
+          "1.5": true
+        },
+        "history": [
+          {
+            "source": 1792925061.352,
+            "positive": true,
+            "first_receipt": 1792925061.873111
+          },
+          {
+            "source": 1792925061.652,
+            "positive": true,
+            "first_receipt": 1792925062.053019
+          },
+          {
+            "source": 1792925061.953,
+            "positive": true,
+            "first_receipt": 1792925062.3586764
+          }
+        ]
+      },
+      {
+        "t": 1792925062.655842,
+        "source": 1792925062.187,
+        "positive": true,
+        "mode": "HOLD",
+        "M": {
+          "2": {
+            "count": 7,
+            "action": "CRITICAL_NO_HOLD_MODE_HOLD"
+          },
+          "3": {
+            "count": 7,
+            "action": "CRITICAL_NO_HOLD_MODE_HOLD"
+          },
+          "4": {
+            "count": 7,
+            "action": "CRITICAL_NO_HOLD_MODE_HOLD"
+          }
+        },
+        "two_of_three": {
+          "0.5": true,
+          "1.0": true,
+          "1.5": true
+        },
+        "history": [
+          {
+            "source": 1792925061.652,
+            "positive": true,
+            "first_receipt": 1792925062.053019
+          },
+          {
+            "source": 1792925061.953,
+            "positive": true,
+            "first_receipt": 1792925062.3586764
+          },
+          {
+            "source": 1792925062.187,
+            "positive": true,
+            "first_receipt": 1792925062.655842
+          }
+        ]
+      },
+      {
+        "t": 1792925062.760699,
+        "source": 1792925062.187,
+        "positive": true,
+        "mode": "HOLD",
+        "M": {
+          "2": {
+            "count": 7,
+            "action": "CRITICAL_NO_HOLD_MODE_HOLD"
+          },
+          "3": {
+            "count": 7,
+            "action": "CRITICAL_NO_HOLD_MODE_HOLD"
+          },
+          "4": {
+            "count": 7,
+            "action": "CRITICAL_NO_HOLD_MODE_HOLD"
+          }
+        },
+        "two_of_three": {
+          "0.5": true,
+          "1.0": true,
+          "1.5": true
+        },
+        "history": [
+          {
+            "source": 1792925061.652,
+            "positive": true,
+            "first_receipt": 1792925062.053019
+          },
+          {
+            "source": 1792925061.953,
+            "positive": true,
+            "first_receipt": 1792925062.3586764
+          },
+          {
+            "source": 1792925062.187,
+            "positive": true,
+            "first_receipt": 1792925062.655842
+          }
+        ]
+      },
+      {
+        "t": 1792925062.8511539,
+        "source": 1792925062.187,
+        "positive": true,
+        "mode": "HOLD",
+        "M": {
+          "2": {
+            "count": 7,
+            "action": "CRITICAL_NO_HOLD_MODE_HOLD"
+          },
+          "3": {
+            "count": 7,
+            "action": "CRITICAL_NO_HOLD_MODE_HOLD"
+          },
+          "4": {
+            "count": 7,
+            "action": "CRITICAL_NO_HOLD_MODE_HOLD"
+          }
+        },
+        "two_of_three": {
+          "0.5": true,
+          "1.0": true,
+          "1.5": true
+        },
+        "history": [
+          {
+            "source": 1792925061.652,
+            "positive": true,
+            "first_receipt": 1792925062.053019
+          },
+          {
+            "source": 1792925061.953,
+            "positive": true,
+            "first_receipt": 1792925062.3586764
+          },
+          {
+            "source": 1792925062.187,
+            "positive": true,
+            "first_receipt": 1792925062.655842
+          }
+        ]
+      },
+      {
+        "t": 1792925062.9537227,
+        "source": 1792925062.454,
+        "positive": true,
+        "mode": "HOLD",
+        "M": {
+          "2": {
+            "count": 8,
+            "action": "CRITICAL_NO_HOLD_MODE_HOLD"
+          },
+          "3": {
+            "count": 8,
+            "action": "CRITICAL_NO_HOLD_MODE_HOLD"
+          },
+          "4": {
+            "count": 8,
+            "action": "CRITICAL_NO_HOLD_MODE_HOLD"
+          }
+        },
+        "two_of_three": {
+          "0.5": true,
+          "1.0": true,
+          "1.5": true
+        },
+        "history": [
+          {
+            "source": 1792925061.953,
+            "positive": true,
+            "first_receipt": 1792925062.3586764
+          },
+          {
+            "source": 1792925062.187,
+            "positive": true,
+            "first_receipt": 1792925062.655842
+          },
+          {
+            "source": 1792925062.454,
+            "positive": true,
+            "first_receipt": 1792925062.9537227
+          }
+        ]
+      },
+      {
+        "t": 1792925063.0546682,
+        "source": 1792925062.454,
+        "positive": true,
+        "mode": "HOLD",
+        "M": {
+          "2": {
+            "count": 8,
+            "action": "CRITICAL_NO_HOLD_MODE_HOLD"
+          },
+          "3": {
+            "count": 8,
+            "action": "CRITICAL_NO_HOLD_MODE_HOLD"
+          },
+          "4": {
+            "count": 8,
+            "action": "CRITICAL_NO_HOLD_MODE_HOLD"
+          }
+        },
+        "two_of_three": {
+          "0.5": true,
+          "1.0": true,
+          "1.5": true
+        },
+        "history": [
+          {
+            "source": 1792925061.953,
+            "positive": true,
+            "first_receipt": 1792925062.3586764
+          },
+          {
+            "source": 1792925062.187,
+            "positive": true,
+            "first_receipt": 1792925062.655842
+          },
+          {
+            "source": 1792925062.454,
+            "positive": true,
+            "first_receipt": 1792925062.9537227
+          }
+        ]
+      },
+      {
+        "t": 1792925063.152834,
+        "source": 1792925062.587,
+        "positive": true,
+        "mode": "HOLD",
+        "M": {
+          "2": {
+            "count": 9,
+            "action": "CRITICAL_NO_HOLD_MODE_HOLD"
+          },
+          "3": {
+            "count": 9,
+            "action": "CRITICAL_NO_HOLD_MODE_HOLD"
+          },
+          "4": {
+            "count": 9,
+            "action": "CRITICAL_NO_HOLD_MODE_HOLD"
+          }
+        },
+        "two_of_three": {
+          "0.5": true,
+          "1.0": true,
+          "1.5": true
+        },
+        "history": [
+          {
+            "source": 1792925062.187,
+            "positive": true,
+            "first_receipt": 1792925062.655842
+          },
+          {
+            "source": 1792925062.454,
+            "positive": true,
+            "first_receipt": 1792925062.9537227
+          },
+          {
+            "source": 1792925062.587,
+            "positive": true,
+            "first_receipt": 1792925063.152834
+          }
+        ]
+      },
+      {
+        "t": 1792925063.2549458,
+        "source": 1792925062.587,
+        "positive": true,
+        "mode": "HOLD",
+        "M": {
+          "2": {
+            "count": 9,
+            "action": "CRITICAL_NO_HOLD_MODE_HOLD"
+          },
+          "3": {
+            "count": 9,
+            "action": "CRITICAL_NO_HOLD_MODE_HOLD"
+          },
+          "4": {
+            "count": 9,
+            "action": "CRITICAL_NO_HOLD_MODE_HOLD"
+          }
+        },
+        "two_of_three": {
+          "0.5": true,
+          "1.0": true,
+          "1.5": true
+        },
+        "history": [
+          {
+            "source": 1792925062.187,
+            "positive": true,
+            "first_receipt": 1792925062.655842
+          },
+          {
+            "source": 1792925062.454,
+            "positive": true,
+            "first_receipt": 1792925062.9537227
+          },
+          {
+            "source": 1792925062.587,
+            "positive": true,
+            "first_receipt": 1792925063.152834
+          }
+        ]
+      },
+      {
+        "t": 1792925063.3584146,
+        "source": 1792925062.587,
+        "positive": true,
+        "mode": "HOLD",
+        "M": {
+          "2": {
+            "count": 9,
+            "action": "CRITICAL_NO_HOLD_MODE_HOLD"
+          },
+          "3": {
+            "count": 9,
+            "action": "CRITICAL_NO_HOLD_MODE_HOLD"
+          },
+          "4": {
+            "count": 9,
+            "action": "CRITICAL_NO_HOLD_MODE_HOLD"
+          }
+        },
+        "two_of_three": {
+          "0.5": true,
+          "1.0": true,
+          "1.5": true
+        },
+        "history": [
+          {
+            "source": 1792925062.187,
+            "positive": true,
+            "first_receipt": 1792925062.655842
+          },
+          {
+            "source": 1792925062.454,
+            "positive": true,
+            "first_receipt": 1792925062.9537227
+          },
+          {
+            "source": 1792925062.587,
+            "positive": true,
+            "first_receipt": 1792925063.152834
+          }
+        ]
+      },
+      {
+        "t": 1792925063.4549315,
+        "source": 1792925062.921,
+        "positive": true,
+        "mode": "HOLD",
+        "M": {
+          "2": {
+            "count": 10,
+            "action": "CRITICAL_NO_HOLD_MODE_HOLD"
+          },
+          "3": {
+            "count": 10,
+            "action": "CRITICAL_NO_HOLD_MODE_HOLD"
+          },
+          "4": {
+            "count": 10,
+            "action": "CRITICAL_NO_HOLD_MODE_HOLD"
+          }
+        },
+        "two_of_three": {
+          "0.5": true,
+          "1.0": true,
+          "1.5": true
+        },
+        "history": [
+          {
+            "source": 1792925062.454,
+            "positive": true,
+            "first_receipt": 1792925062.9537227
+          },
+          {
+            "source": 1792925062.587,
+            "positive": true,
+            "first_receipt": 1792925063.152834
+          },
+          {
+            "source": 1792925062.921,
+            "positive": true,
+            "first_receipt": 1792925063.4549315
+          }
+        ]
+      },
+      {
+        "t": 1792925063.5682662,
+        "source": 1792925062.921,
+        "positive": true,
+        "mode": "HOLD",
+        "M": {
+          "2": {
+            "count": 10,
+            "action": "CRITICAL_NO_HOLD_MODE_HOLD"
+          },
+          "3": {
+            "count": 10,
+            "action": "CRITICAL_NO_HOLD_MODE_HOLD"
+          },
+          "4": {
+            "count": 10,
+            "action": "CRITICAL_NO_HOLD_MODE_HOLD"
+          }
+        },
+        "two_of_three": {
+          "0.5": true,
+          "1.0": true,
+          "1.5": true
+        },
+        "history": [
+          {
+            "source": 1792925062.454,
+            "positive": true,
+            "first_receipt": 1792925062.9537227
+          },
+          {
+            "source": 1792925062.587,
+            "positive": true,
+            "first_receipt": 1792925063.152834
+          },
+          {
+            "source": 1792925062.921,
+            "positive": true,
+            "first_receipt": 1792925063.4549315
+          }
+        ]
+      },
+      {
+        "t": 1792925063.669126,
+        "source": 1792925063.254,
+        "positive": true,
+        "mode": "HOLD",
+        "M": {
+          "2": {
+            "count": 11,
+            "action": "CRITICAL_NO_HOLD_MODE_HOLD"
+          },
+          "3": {
+            "count": 11,
+            "action": "CRITICAL_NO_HOLD_MODE_HOLD"
+          },
+          "4": {
+            "count": 11,
+            "action": "CRITICAL_NO_HOLD_MODE_HOLD"
+          }
+        },
+        "two_of_three": {
+          "0.5": true,
+          "1.0": true,
+          "1.5": true
+        },
+        "history": [
+          {
+            "source": 1792925062.587,
+            "positive": true,
+            "first_receipt": 1792925063.152834
+          },
+          {
+            "source": 1792925062.921,
+            "positive": true,
+            "first_receipt": 1792925063.4549315
+          },
+          {
+            "source": 1792925063.254,
+            "positive": true,
+            "first_receipt": 1792925063.669126
+          }
+        ]
+      },
+      {
+        "t": 1792925063.7543023,
+        "source": 1792925063.254,
+        "positive": true,
+        "mode": "HOLD",
+        "M": {
+          "2": {
+            "count": 11,
+            "action": "CRITICAL_NO_HOLD_MODE_HOLD"
+          },
+          "3": {
+            "count": 11,
+            "action": "CRITICAL_NO_HOLD_MODE_HOLD"
+          },
+          "4": {
+            "count": 11,
+            "action": "CRITICAL_NO_HOLD_MODE_HOLD"
+          }
+        },
+        "two_of_three": {
+          "0.5": true,
+          "1.0": true,
+          "1.5": true
+        },
+        "history": [
+          {
+            "source": 1792925062.587,
+            "positive": true,
+            "first_receipt": 1792925063.152834
+          },
+          {
+            "source": 1792925062.921,
+            "positive": true,
+            "first_receipt": 1792925063.4549315
+          },
+          {
+            "source": 1792925063.254,
+            "positive": true,
+            "first_receipt": 1792925063.669126
+          }
+        ]
+      },
+      {
+        "t": 1792925063.8545365,
+        "source": 1792925063.254,
+        "positive": true,
+        "mode": "HOLD",
+        "M": {
+          "2": {
+            "count": 11,
+            "action": "CRITICAL_NO_HOLD_MODE_HOLD"
+          },
+          "3": {
+            "count": 11,
+            "action": "CRITICAL_NO_HOLD_MODE_HOLD"
+          },
+          "4": {
+            "count": 11,
+            "action": "CRITICAL_NO_HOLD_MODE_HOLD"
+          }
+        },
+        "two_of_three": {
+          "0.5": true,
+          "1.0": true,
+          "1.5": true
+        },
+        "history": [
+          {
+            "source": 1792925062.587,
+            "positive": true,
+            "first_receipt": 1792925063.152834
+          },
+          {
+            "source": 1792925062.921,
+            "positive": true,
+            "first_receipt": 1792925063.4549315
+          },
+          {
+            "source": 1792925063.254,
+            "positive": true,
+            "first_receipt": 1792925063.669126
+          }
+        ]
+      },
+      {
+        "t": 1792925063.9523966,
+        "source": 1792925063.254,
+        "positive": true,
+        "mode": "HOLD",
+        "M": {
+          "2": {
+            "count": 11,
+            "action": "CRITICAL_NO_HOLD_MODE_HOLD"
+          },
+          "3": {
+            "count": 11,
+            "action": "CRITICAL_NO_HOLD_MODE_HOLD"
+          },
+          "4": {
+            "count": 11,
+            "action": "CRITICAL_NO_HOLD_MODE_HOLD"
+          }
+        },
+        "two_of_three": {
+          "0.5": true,
+          "1.0": true,
+          "1.5": true
+        },
+        "history": [
+          {
+            "source": 1792925062.587,
+            "positive": true,
+            "first_receipt": 1792925063.152834
+          },
+          {
+            "source": 1792925062.921,
+            "positive": true,
+            "first_receipt": 1792925063.4549315
+          },
+          {
+            "source": 1792925063.254,
+            "positive": true,
+            "first_receipt": 1792925063.669126
+          }
+        ]
+      },
+      {
+        "t": 1792925064.0523493,
+        "source": 1792925063.587,
+        "positive": true,
+        "mode": "HOLD",
+        "M": {
+          "2": {
+            "count": 12,
+            "action": "CRITICAL_NO_HOLD_MODE_HOLD"
+          },
+          "3": {
+            "count": 12,
+            "action": "CRITICAL_NO_HOLD_MODE_HOLD"
+          },
+          "4": {
+            "count": 12,
+            "action": "CRITICAL_NO_HOLD_MODE_HOLD"
+          }
+        },
+        "two_of_three": {
+          "0.5": true,
+          "1.0": true,
+          "1.5": true
+        },
+        "history": [
+          {
+            "source": 1792925062.921,
+            "positive": true,
+            "first_receipt": 1792925063.4549315
+          },
+          {
+            "source": 1792925063.254,
+            "positive": true,
+            "first_receipt": 1792925063.669126
+          },
+          {
+            "source": 1792925063.587,
+            "positive": true,
+            "first_receipt": 1792925064.0523493
+          }
+        ]
+      },
+      {
+        "t": 1792925064.1592898,
+        "source": 1792925063.587,
+        "positive": true,
+        "mode": "HOLD",
+        "M": {
+          "2": {
+            "count": 12,
+            "action": "CRITICAL_NO_HOLD_MODE_HOLD"
+          },
+          "3": {
+            "count": 12,
+            "action": "CRITICAL_NO_HOLD_MODE_HOLD"
+          },
+          "4": {
+            "count": 12,
+            "action": "CRITICAL_NO_HOLD_MODE_HOLD"
+          }
+        },
+        "two_of_three": {
+          "0.5": true,
+          "1.0": true,
+          "1.5": true
+        },
+        "history": [
+          {
+            "source": 1792925062.921,
+            "positive": true,
+            "first_receipt": 1792925063.4549315
+          },
+          {
+            "source": 1792925063.254,
+            "positive": true,
+            "first_receipt": 1792925063.669126
+          },
+          {
+            "source": 1792925063.587,
+            "positive": true,
+            "first_receipt": 1792925064.0523493
+          }
+        ]
+      },
+      {
+        "t": 1792925064.2560108,
+        "source": 1792925063.854,
+        "positive": true,
+        "mode": "HOLD",
+        "M": {
+          "2": {
+            "count": 13,
+            "action": "CRITICAL_NO_HOLD_MODE_HOLD"
+          },
+          "3": {
+            "count": 13,
+            "action": "CRITICAL_NO_HOLD_MODE_HOLD"
+          },
+          "4": {
+            "count": 13,
+            "action": "CRITICAL_NO_HOLD_MODE_HOLD"
+          }
+        },
+        "two_of_three": {
+          "0.5": true,
+          "1.0": true,
+          "1.5": true
+        },
+        "history": [
+          {
+            "source": 1792925063.254,
+            "positive": true,
+            "first_receipt": 1792925063.669126
+          },
+          {
+            "source": 1792925063.587,
+            "positive": true,
+            "first_receipt": 1792925064.0523493
+          },
+          {
+            "source": 1792925063.854,
+            "positive": true,
+            "first_receipt": 1792925064.2560108
+          }
+        ]
+      },
+      {
+        "t": 1792925064.3554914,
+        "source": 1792925063.854,
+        "positive": true,
+        "mode": "HOLD",
+        "M": {
+          "2": {
+            "count": 13,
+            "action": "CRITICAL_NO_HOLD_MODE_HOLD"
+          },
+          "3": {
+            "count": 13,
+            "action": "CRITICAL_NO_HOLD_MODE_HOLD"
+          },
+          "4": {
+            "count": 13,
+            "action": "CRITICAL_NO_HOLD_MODE_HOLD"
+          }
+        },
+        "two_of_three": {
+          "0.5": true,
+          "1.0": true,
+          "1.5": true
+        },
+        "history": [
+          {
+            "source": 1792925063.254,
+            "positive": true,
+            "first_receipt": 1792925063.669126
+          },
+          {
+            "source": 1792925063.587,
+            "positive": true,
+            "first_receipt": 1792925064.0523493
+          },
+          {
+            "source": 1792925063.854,
+            "positive": true,
+            "first_receipt": 1792925064.2560108
+          }
+        ]
+      },
+      {
+        "t": 1792925064.4512403,
+        "source": 1792925064.087,
+        "positive": true,
+        "mode": "HOLD",
+        "M": {
+          "2": {
+            "count": 14,
+            "action": "CRITICAL_NO_HOLD_MODE_HOLD"
+          },
+          "3": {
+            "count": 14,
+            "action": "CRITICAL_NO_HOLD_MODE_HOLD"
+          },
+          "4": {
+            "count": 14,
+            "action": "CRITICAL_NO_HOLD_MODE_HOLD"
+          }
+        },
+        "two_of_three": {
+          "0.5": true,
+          "1.0": true,
+          "1.5": true
+        },
+        "history": [
+          {
+            "source": 1792925063.587,
+            "positive": true,
+            "first_receipt": 1792925064.0523493
+          },
+          {
+            "source": 1792925063.854,
+            "positive": true,
+            "first_receipt": 1792925064.2560108
+          },
+          {
+            "source": 1792925064.087,
+            "positive": true,
+            "first_receipt": 1792925064.4512403
+          }
+        ]
+      },
+      {
+        "t": 1792925064.5544386,
+        "source": 1792925064.087,
+        "positive": true,
+        "mode": "HOLD",
+        "M": {
+          "2": {
+            "count": 14,
+            "action": "CRITICAL_NO_HOLD_MODE_HOLD"
+          },
+          "3": {
+            "count": 14,
+            "action": "CRITICAL_NO_HOLD_MODE_HOLD"
+          },
+          "4": {
+            "count": 14,
+            "action": "CRITICAL_NO_HOLD_MODE_HOLD"
+          }
+        },
+        "two_of_three": {
+          "0.5": true,
+          "1.0": true,
+          "1.5": true
+        },
+        "history": [
+          {
+            "source": 1792925063.587,
+            "positive": true,
+            "first_receipt": 1792925064.0523493
+          },
+          {
+            "source": 1792925063.854,
+            "positive": true,
+            "first_receipt": 1792925064.2560108
+          },
+          {
+            "source": 1792925064.087,
+            "positive": true,
+            "first_receipt": 1792925064.4512403
+          }
+        ]
+      },
+      {
+        "t": 1792925064.6565177,
+        "source": 1792925064.087,
+        "positive": true,
+        "mode": "HOLD",
+        "M": {
+          "2": {
+            "count": 14,
+            "action": "CRITICAL_NO_HOLD_MODE_HOLD"
+          },
+          "3": {
+            "count": 14,
+            "action": "CRITICAL_NO_HOLD_MODE_HOLD"
+          },
+          "4": {
+            "count": 14,
+            "action": "CRITICAL_NO_HOLD_MODE_HOLD"
+          }
+        },
+        "two_of_three": {
+          "0.5": true,
+          "1.0": true,
+          "1.5": true
+        },
+        "history": [
+          {
+            "source": 1792925063.587,
+            "positive": true,
+            "first_receipt": 1792925064.0523493
+          },
+          {
+            "source": 1792925063.854,
+            "positive": true,
+            "first_receipt": 1792925064.2560108
+          },
+          {
+            "source": 1792925064.087,
+            "positive": true,
+            "first_receipt": 1792925064.4512403
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "alternative_auto_rising_edge": true,
+    "test": "T4",
+    "window_s": 0.5,
+    "t": 1792925061.355603,
+    "source": 1792925060.752,
+    "history": [
+      {
+        "source": 1792925060.385,
+        "positive": false,
+        "first_receipt": 1792925060.7553484
+      },
+      {
+        "source": 1792925060.585,
+        "positive": true,
+        "first_receipt": 1792925061.0527258
+      },
+      {
+        "source": 1792925060.752,
+        "positive": true,
+        "first_receipt": 1792925061.355603
+      }
+    ]
+  },
+  {
+    "alternative_auto_rising_edge": true,
+    "test": "T4",
+    "window_s": 1.0,
+    "t": 1792925061.355603,
+    "source": 1792925060.752,
+    "history": [
+      {
+        "source": 1792925060.385,
+        "positive": false,
+        "first_receipt": 1792925060.7553484
+      },
+      {
+        "source": 1792925060.585,
+        "positive": true,
+        "first_receipt": 1792925061.0527258
+      },
+      {
+        "source": 1792925060.752,
+        "positive": true,
+        "first_receipt": 1792925061.355603
+      }
+    ]
+  },
+  {
+    "alternative_auto_rising_edge": true,
+    "test": "T4",
+    "window_s": 1.5,
+    "t": 1792925061.355603,
+    "source": 1792925060.752,
+    "history": [
+      {
+        "source": 1792925060.385,
+        "positive": false,
+        "first_receipt": 1792925060.7553484
+      },
+      {
+        "source": 1792925060.585,
+        "positive": true,
+        "first_receipt": 1792925061.0527258
+      },
+      {
+        "source": 1792925060.752,
+        "positive": true,
+        "first_receipt": 1792925061.355603
+      }
+    ]
+  }
+]

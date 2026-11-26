@@ -1,0 +1,26 @@
+[
+  {
+    "run": "MISSION_20261025T093856_685142",
+    "all_bridge_in_window": 2844,
+    "armed_AUTO_with_positive_camera_stamp": 2658,
+    "full_recording_same_filter": 2715
+  },
+  {
+    "run": "MISSION_20261025T095656_324958",
+    "all_bridge_in_window": 2915,
+    "armed_AUTO_with_positive_camera_stamp": 2797,
+    "full_recording_same_filter": 2842
+  },
+  {
+    "run": "MISSION_20261025T101222_031804",
+    "all_bridge_in_window": 3170,
+    "armed_AUTO_with_positive_camera_stamp": 3170,
+    "full_recording_same_filter": 3251
+  },
+  {
+    "run": "MISSION_20261025T103420_406168",
+    "all_bridge_in_window": 4637,
+    "armed_AUTO_with_positive_camera_stamp": 4047,
+    "full_recording_same_filter": 4065
+  }
+]

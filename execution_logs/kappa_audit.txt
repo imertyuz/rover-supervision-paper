@@ -1,0 +1,83 @@
+GAPS [
+  {
+    "test": "T1",
+    "sigma_before": "1792921561.21",
+    "sigma_after": "1792921580.651",
+    "gap_s": "19.44099998474121",
+    "kind": "gap_between_selected_valid_camera_sources",
+    "camera_publications_between_capture_endpoints": 66,
+    "valid_distinct_sources_between": 66,
+    "max_adjacent_valid_capture_gap_s": 0.8330769538879395,
+    "outputs_not_armed_AUTO": 65,
+    "modes_at_camera_arrivals": {
+      "AUTO": 1,
+      "HOLD": 50,
+      "MANUAL": 15
+    }
+  },
+  {
+    "test": "T2",
+    "sigma_before": "1792922515.082",
+    "sigma_after": "1792922527.584",
+    "gap_s": "12.502000093460083",
+    "kind": "gap_between_selected_valid_camera_sources",
+    "camera_publications_between_capture_endpoints": 50,
+    "valid_distinct_sources_between": 50,
+    "max_adjacent_valid_capture_gap_s": 0.8665530681610107,
+    "outputs_not_armed_AUTO": 49,
+    "modes_at_camera_arrivals": {
+      "AUTO": 1,
+      "HOLD": 38,
+      "MANUAL": 11
+    }
+  },
+  {
+    "test": "T4",
+    "sigma_before": "1792924897.677",
+    "sigma_after": "1792924921.488",
+    "gap_s": "23.810999870300293",
+    "kind": "gap_between_selected_valid_camera_sources",
+    "camera_publications_between_capture_endpoints": 90,
+    "valid_distinct_sources_between": 90,
+    "max_adjacent_valid_capture_gap_s": 0.5333259105682373,
+    "outputs_not_armed_AUTO": 90,
+    "modes_at_camera_arrivals": {
+      "HOLD": 17,
+      "MANUAL": 73
+    }
+  },
+  {
+    "test": "T4",
+    "sigma_before": "1792925004.091",
+    "sigma_after": "1792925027.302",
+    "gap_s": "23.210999965667725",
+    "kind": "gap_between_selected_valid_camera_sources",
+    "camera_publications_between_capture_endpoints": 90,
+    "valid_distinct_sources_between": 90,
+    "max_adjacent_valid_capture_gap_s": 0.40111756324768066,
+    "outputs_not_armed_AUTO": 89,
+    "modes_at_camera_arrivals": {
+      "AUTO": 1,
+      "HOLD": 7,
+      "MANUAL": 82
+    }
+  },
+  {
+    "test": "T4",
+    "sigma_before": "1792925060.752",
+    "sigma_after": "1792925073.956",
+    "gap_s": "13.203999996185303",
+    "kind": "gap_between_selected_valid_camera_sources",
+    "camera_publications_between_capture_endpoints": 49,
+    "valid_distinct_sources_between": 49,
+    "max_adjacent_valid_capture_gap_s": 0.466688871383667,
+    "outputs_not_armed_AUTO": 48,
+    "modes_at_camera_arrivals": {
+      "HOLD": 40,
+      "MANUAL": 8,
+      "AUTO": 1
+    }
+  }
+]
+dynamic count [('T1', 2658, 2658, -0.021720409393310547), ('T2', 2797, 2797, -0.00534367561340332), ('T3', 3170, 3170, -0.01028585433959961), ('T4', 4047, 4047, 0.0453946590423584)]
+Precision checks [('T1', True, 0), ('T2', True, 0), ('T3', True, 0), ('T4', True, 0)]

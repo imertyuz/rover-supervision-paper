@@ -1,0 +1,4 @@
+1 nbridge 2658 cam 1028 hist Counter({3: 550, 2: 443, 4: 25, 1: 7, 5: 3})
+2 nbridge 2797 cam 1090 hist Counter({3: 558, 2: 491, 4: 32, 1: 8, 5: 1})
+3 nbridge 3170 cam 1207 hist Counter({3: 627, 2: 514, 4: 62, 1: 3, 5: 2})
+4 nbridge 4047 cam 1566 hist Counter({3: 824, 2: 687, 4: 45, 1: 11, 5: 2})

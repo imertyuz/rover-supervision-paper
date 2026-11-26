@@ -1,0 +1,466 @@
+[
+  {
+    "variant": "frozen_chain",
+    "period_s": 0.05,
+    "by_phase": [
+      {
+        "phase_fraction": 0,
+        "evaluations": 27133,
+        "person_runs": 5,
+        "Rm_person": 5,
+        "Rs_person": 1,
+        "available_camera_sources": 5230,
+        "unseen_available_camera_sources": 0,
+        "source_bridge_requests": 4,
+        "message_bridge_requests": 6,
+        "source_person_requests": 1,
+        "message_person_requests": 4
+      },
+      {
+        "phase_fraction": 0.25,
+        "evaluations": 27133,
+        "person_runs": 5,
+        "Rm_person": 5,
+        "Rs_person": 1,
+        "available_camera_sources": 5230,
+        "unseen_available_camera_sources": 0,
+        "source_bridge_requests": 4,
+        "message_bridge_requests": 6,
+        "source_person_requests": 1,
+        "message_person_requests": 4
+      },
+      {
+        "phase_fraction": 0.5,
+        "evaluations": 27131,
+        "person_runs": 5,
+        "Rm_person": 5,
+        "Rs_person": 1,
+        "available_camera_sources": 5230,
+        "unseen_available_camera_sources": 1,
+        "source_bridge_requests": 4,
+        "message_bridge_requests": 6,
+        "source_person_requests": 1,
+        "message_person_requests": 4
+      },
+      {
+        "phase_fraction": 0.75,
+        "evaluations": 27130,
+        "person_runs": 5,
+        "Rm_person": 5,
+        "Rs_person": 1,
+        "available_camera_sources": 5230,
+        "unseen_available_camera_sources": 0,
+        "source_bridge_requests": 4,
+        "message_bridge_requests": 6,
+        "source_person_requests": 1,
+        "message_person_requests": 4
+      }
+    ]
+  },
+  {
+    "variant": "frozen_chain",
+    "period_s": 0.1,
+    "by_phase": [
+      {
+        "phase_fraction": 0,
+        "evaluations": 13566,
+        "person_runs": 5,
+        "Rm_person": 5,
+        "Rs_person": 1,
+        "available_camera_sources": 5230,
+        "unseen_available_camera_sources": 0,
+        "source_bridge_requests": 4,
+        "message_bridge_requests": 6,
+        "source_person_requests": 1,
+        "message_person_requests": 4
+      },
+      {
+        "phase_fraction": 0.25,
+        "evaluations": 13565,
+        "person_runs": 5,
+        "Rm_person": 5,
+        "Rs_person": 1,
+        "available_camera_sources": 5230,
+        "unseen_available_camera_sources": 1,
+        "source_bridge_requests": 4,
+        "message_bridge_requests": 6,
+        "source_person_requests": 1,
+        "message_person_requests": 4
+      },
+      {
+        "phase_fraction": 0.5,
+        "evaluations": 13567,
+        "person_runs": 5,
+        "Rm_person": 5,
+        "Rs_person": 0,
+        "available_camera_sources": 5230,
+        "unseen_available_camera_sources": 1,
+        "source_bridge_requests": 3,
+        "message_bridge_requests": 6,
+        "source_person_requests": 0,
+        "message_person_requests": 4
+      },
+      {
+        "phase_fraction": 0.75,
+        "evaluations": 13566,
+        "person_runs": 5,
+        "Rm_person": 5,
+        "Rs_person": 1,
+        "available_camera_sources": 5230,
+        "unseen_available_camera_sources": 1,
+        "source_bridge_requests": 4,
+        "message_bridge_requests": 6,
+        "source_person_requests": 1,
+        "message_person_requests": 4
+      }
+    ]
+  },
+  {
+    "variant": "frozen_chain",
+    "period_s": 0.2,
+    "by_phase": [
+      {
+        "phase_fraction": 0,
+        "evaluations": 6784,
+        "person_runs": 5,
+        "Rm_person": 3,
+        "Rs_person": 1,
+        "available_camera_sources": 5230,
+        "unseen_available_camera_sources": 17,
+        "source_bridge_requests": 2,
+        "message_bridge_requests": 4,
+        "source_person_requests": 1,
+        "message_person_requests": 3
+      },
+      {
+        "phase_fraction": 0.25,
+        "evaluations": 6783,
+        "person_runs": 5,
+        "Rm_person": 2,
+        "Rs_person": 0,
+        "available_camera_sources": 5230,
+        "unseen_available_camera_sources": 19,
+        "source_bridge_requests": 2,
+        "message_bridge_requests": 4,
+        "source_person_requests": 0,
+        "message_person_requests": 2
+      },
+      {
+        "phase_fraction": 0.5,
+        "evaluations": 6782,
+        "person_runs": 5,
+        "Rm_person": 3,
+        "Rs_person": 0,
+        "available_camera_sources": 5230,
+        "unseen_available_camera_sources": 14,
+        "source_bridge_requests": 3,
+        "message_bridge_requests": 5,
+        "source_person_requests": 0,
+        "message_person_requests": 3
+      },
+      {
+        "phase_fraction": 0.75,
+        "evaluations": 6784,
+        "person_runs": 5,
+        "Rm_person": 3,
+        "Rs_person": 0,
+        "available_camera_sources": 5230,
+        "unseen_available_camera_sources": 15,
+        "source_bridge_requests": 1,
+        "message_bridge_requests": 4,
+        "source_person_requests": 0,
+        "message_person_requests": 3
+      }
+    ]
+  },
+  {
+    "variant": "frozen_chain",
+    "period_s": 0.5,
+    "by_phase": [
+      {
+        "phase_fraction": 0,
+        "evaluations": 2714,
+        "person_runs": 4,
+        "Rm_person": 0,
+        "Rs_person": 0,
+        "available_camera_sources": 5230,
+        "unseen_available_camera_sources": 2518,
+        "source_bridge_requests": 1,
+        "message_bridge_requests": 1,
+        "source_person_requests": 0,
+        "message_person_requests": 0
+      },
+      {
+        "phase_fraction": 0.25,
+        "evaluations": 2712,
+        "person_runs": 3,
+        "Rm_person": 0,
+        "Rs_person": 0,
+        "available_camera_sources": 5230,
+        "unseen_available_camera_sources": 2519,
+        "source_bridge_requests": 1,
+        "message_bridge_requests": 1,
+        "source_person_requests": 0,
+        "message_person_requests": 0
+      },
+      {
+        "phase_fraction": 0.5,
+        "evaluations": 2713,
+        "person_runs": 1,
+        "Rm_person": 0,
+        "Rs_person": 0,
+        "available_camera_sources": 5230,
+        "unseen_available_camera_sources": 2518,
+        "source_bridge_requests": 0,
+        "message_bridge_requests": 0,
+        "source_person_requests": 0,
+        "message_person_requests": 0
+      },
+      {
+        "phase_fraction": 0.75,
+        "evaluations": 2714,
+        "person_runs": 4,
+        "Rm_person": 0,
+        "Rs_person": 0,
+        "available_camera_sources": 5230,
+        "unseen_available_camera_sources": 2518,
+        "source_bridge_requests": 1,
+        "message_bridge_requests": 1,
+        "source_person_requests": 0,
+        "message_person_requests": 0
+      }
+    ]
+  },
+  {
+    "variant": "held_recorded_fusion",
+    "period_s": 0.05,
+    "by_phase": [
+      {
+        "phase_fraction": 0,
+        "evaluations": 27133,
+        "person_runs": 5,
+        "Rm_person": 5,
+        "Rs_person": 0,
+        "available_camera_sources": 5230,
+        "unseen_available_camera_sources": 3,
+        "source_bridge_requests": 2,
+        "message_bridge_requests": 6,
+        "source_person_requests": 0,
+        "message_person_requests": 4
+      },
+      {
+        "phase_fraction": 0.25,
+        "evaluations": 27133,
+        "person_runs": 5,
+        "Rm_person": 5,
+        "Rs_person": 1,
+        "available_camera_sources": 5230,
+        "unseen_available_camera_sources": 2,
+        "source_bridge_requests": 3,
+        "message_bridge_requests": 5,
+        "source_person_requests": 1,
+        "message_person_requests": 4
+      },
+      {
+        "phase_fraction": 0.5,
+        "evaluations": 27131,
+        "person_runs": 5,
+        "Rm_person": 5,
+        "Rs_person": 1,
+        "available_camera_sources": 5230,
+        "unseen_available_camera_sources": 4,
+        "source_bridge_requests": 4,
+        "message_bridge_requests": 6,
+        "source_person_requests": 1,
+        "message_person_requests": 4
+      },
+      {
+        "phase_fraction": 0.75,
+        "evaluations": 27130,
+        "person_runs": 5,
+        "Rm_person": 5,
+        "Rs_person": 1,
+        "available_camera_sources": 5230,
+        "unseen_available_camera_sources": 3,
+        "source_bridge_requests": 4,
+        "message_bridge_requests": 6,
+        "source_person_requests": 1,
+        "message_person_requests": 4
+      }
+    ]
+  },
+  {
+    "variant": "held_recorded_fusion",
+    "period_s": 0.1,
+    "by_phase": [
+      {
+        "phase_fraction": 0,
+        "evaluations": 13566,
+        "person_runs": 5,
+        "Rm_person": 5,
+        "Rs_person": 0,
+        "available_camera_sources": 5230,
+        "unseen_available_camera_sources": 4,
+        "source_bridge_requests": 1,
+        "message_bridge_requests": 5,
+        "source_person_requests": 0,
+        "message_person_requests": 4
+      },
+      {
+        "phase_fraction": 0.25,
+        "evaluations": 13565,
+        "person_runs": 5,
+        "Rm_person": 5,
+        "Rs_person": 1,
+        "available_camera_sources": 5230,
+        "unseen_available_camera_sources": 4,
+        "source_bridge_requests": 3,
+        "message_bridge_requests": 5,
+        "source_person_requests": 1,
+        "message_person_requests": 4
+      },
+      {
+        "phase_fraction": 0.5,
+        "evaluations": 13567,
+        "person_runs": 5,
+        "Rm_person": 5,
+        "Rs_person": 0,
+        "available_camera_sources": 5230,
+        "unseen_available_camera_sources": 4,
+        "source_bridge_requests": 1,
+        "message_bridge_requests": 5,
+        "source_person_requests": 0,
+        "message_person_requests": 4
+      },
+      {
+        "phase_fraction": 0.75,
+        "evaluations": 13566,
+        "person_runs": 5,
+        "Rm_person": 5,
+        "Rs_person": 0,
+        "available_camera_sources": 5230,
+        "unseen_available_camera_sources": 5,
+        "source_bridge_requests": 2,
+        "message_bridge_requests": 6,
+        "source_person_requests": 0,
+        "message_person_requests": 4
+      }
+    ]
+  },
+  {
+    "variant": "held_recorded_fusion",
+    "period_s": 0.2,
+    "by_phase": [
+      {
+        "phase_fraction": 0,
+        "evaluations": 6784,
+        "person_runs": 5,
+        "Rm_person": 3,
+        "Rs_person": 0,
+        "available_camera_sources": 5230,
+        "unseen_available_camera_sources": 21,
+        "source_bridge_requests": 0,
+        "message_bridge_requests": 3,
+        "source_person_requests": 0,
+        "message_person_requests": 3
+      },
+      {
+        "phase_fraction": 0.25,
+        "evaluations": 6783,
+        "person_runs": 5,
+        "Rm_person": 3,
+        "Rs_person": 0,
+        "available_camera_sources": 5230,
+        "unseen_available_camera_sources": 19,
+        "source_bridge_requests": 0,
+        "message_bridge_requests": 2,
+        "source_person_requests": 0,
+        "message_person_requests": 2
+      },
+      {
+        "phase_fraction": 0.5,
+        "evaluations": 6782,
+        "person_runs": 5,
+        "Rm_person": 3,
+        "Rs_person": 0,
+        "available_camera_sources": 5230,
+        "unseen_available_camera_sources": 16,
+        "source_bridge_requests": 1,
+        "message_bridge_requests": 3,
+        "source_person_requests": 0,
+        "message_person_requests": 2
+      },
+      {
+        "phase_fraction": 0.75,
+        "evaluations": 6784,
+        "person_runs": 5,
+        "Rm_person": 3,
+        "Rs_person": 0,
+        "available_camera_sources": 5230,
+        "unseen_available_camera_sources": 18,
+        "source_bridge_requests": 1,
+        "message_bridge_requests": 4,
+        "source_person_requests": 0,
+        "message_person_requests": 3
+      }
+    ]
+  },
+  {
+    "variant": "held_recorded_fusion",
+    "period_s": 0.5,
+    "by_phase": [
+      {
+        "phase_fraction": 0,
+        "evaluations": 2714,
+        "person_runs": 4,
+        "Rm_person": 0,
+        "Rs_person": 0,
+        "available_camera_sources": 5230,
+        "unseen_available_camera_sources": 2521,
+        "source_bridge_requests": 1,
+        "message_bridge_requests": 1,
+        "source_person_requests": 0,
+        "message_person_requests": 0
+      },
+      {
+        "phase_fraction": 0.25,
+        "evaluations": 2712,
+        "person_runs": 3,
+        "Rm_person": 0,
+        "Rs_person": 0,
+        "available_camera_sources": 5230,
+        "unseen_available_camera_sources": 2520,
+        "source_bridge_requests": 1,
+        "message_bridge_requests": 1,
+        "source_person_requests": 0,
+        "message_person_requests": 0
+      },
+      {
+        "phase_fraction": 0.5,
+        "evaluations": 2713,
+        "person_runs": 2,
+        "Rm_person": 0,
+        "Rs_person": 0,
+        "available_camera_sources": 5230,
+        "unseen_available_camera_sources": 2518,
+        "source_bridge_requests": 0,
+        "message_bridge_requests": 0,
+        "source_person_requests": 0,
+        "message_person_requests": 0
+      },
+      {
+        "phase_fraction": 0.75,
+        "evaluations": 2714,
+        "person_runs": 3,
+        "Rm_person": 0,
+        "Rs_person": 0,
+        "available_camera_sources": 5230,
+        "unseen_available_camera_sources": 2518,
+        "source_bridge_requests": 1,
+        "message_bridge_requests": 1,
+        "source_person_requests": 0,
+        "message_person_requests": 0
+      }
+    ]
+  }
+]

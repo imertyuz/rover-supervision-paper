@@ -1,0 +1,731 @@
+[
+  {
+    "run": "PILOT_S1_R1_20261121_132956",
+    "setup": {
+      "scenario": "S1",
+      "repeat": 1,
+      "camera_reference_m": 1.0,
+      "front_reference_m": 0.56,
+      "lighting": "robot golgede,kisi golgede",
+      "trial_id": "S1_R1",
+      "preparation_start_wall_s": 1795257016.8288605,
+      "preparation_start_mono_s": 5380.959597487,
+      "preparation_s": 45.0,
+      "measurement_s": 30.0,
+      "launcher_sha256": "1de72262228af8d32e9db5e7a108c04c60a57d90e7d35343d4cfe56b02e14231",
+      "note": "Static continuity trial; target may already be present during preparation. Not a first-appearance or physical stopping latency test."
+    },
+    "images": 107,
+    "hash_errors": [],
+    "independent_stamp_matches": 107,
+    "validator_status": "PASS",
+    "validation_problems": [],
+    "raw_class_frames": {
+      "person": 107,
+      "vehicle": 84,
+      "tree": 59
+    },
+    "raw_cooccurrence": {
+      "person+tree": 59
+    },
+    "processed_class_frames_matched_images": {
+      "person": 107,
+      "vehicle": 84,
+      "tree": 59
+    },
+    "matched_camera_conflict_frames": 0,
+    "fusion_n": 299,
+    "fusion_states": {
+      "CRITICAL": 299
+    },
+    "fusion_hazards": {
+      "person": 299
+    },
+    "fusion_ambiguity_reasons": {},
+    "bridge_actions": {
+      "CRITICAL_NO_HOLD_MODE_HOLD": 299
+    },
+    "bridge_counter_minmax": [
+      163,
+      271
+    ],
+    "fcu_states": {
+      "(True, False, 'HOLD')": 73
+    },
+    "age_median_s": 0.3365,
+    "age_p99_s": 0.4542299999999999,
+    "pitch_minmax": [
+      -0.28,
+      -0.13
+    ]
+  },
+  {
+    "run": "PILOT_S2_R1_20261121_133759",
+    "setup": {
+      "scenario": "S2",
+      "repeat": 1,
+      "camera_reference_m": 1.5,
+      "front_reference_m": 1.04,
+      "lighting": "gogede, kisi golgede",
+      "trial_id": "S2_R1",
+      "preparation_start_wall_s": 1795257605.9747393,
+      "preparation_start_mono_s": 5970.105474253,
+      "preparation_s": 45.0,
+      "measurement_s": 30.0,
+      "launcher_sha256": "1de72262228af8d32e9db5e7a108c04c60a57d90e7d35343d4cfe56b02e14231",
+      "note": "Static continuity trial; target may already be present during preparation. Not a first-appearance or physical stopping latency test."
+    },
+    "images": 110,
+    "hash_errors": [],
+    "independent_stamp_matches": 110,
+    "validator_status": "PASS",
+    "validation_problems": [],
+    "raw_class_frames": {
+      "vehicle": 110,
+      "person": 110,
+      "tree": 7
+    },
+    "raw_cooccurrence": {
+      "person+tree": 7
+    },
+    "processed_class_frames_matched_images": {
+      "vehicle": 110,
+      "person": 110,
+      "tree": 7
+    },
+    "matched_camera_conflict_frames": 0,
+    "fusion_n": 300,
+    "fusion_states": {
+      "CRITICAL": 288,
+      "CAUTION": 12
+    },
+    "fusion_hazards": {
+      "person": 288,
+      "geometric": 12
+    },
+    "fusion_ambiguity_reasons": {},
+    "bridge_actions": {
+      "CRITICAL_NO_HOLD_MODE_HOLD": 285,
+      "CAUTION_DEFER_TO_BENDYRULER": 12,
+      "SEMANTIC_CONFIRM_PERSON_1/2": 3
+    },
+    "bridge_counter_minmax": [
+      0,
+      193
+    ],
+    "fcu_states": {
+      "(True, False, 'HOLD')": 73
+    },
+    "age_median_s": 0.34,
+    "age_p99_s": 0.5013000000000001,
+    "pitch_minmax": [
+      -0.41,
+      -0.17
+    ]
+  },
+  {
+    "run": "PILOT_S3_R1_20261121_131457",
+    "setup": {
+      "scenario": "S3",
+      "repeat": 1,
+      "camera_reference_m": 2.5,
+      "front_reference_m": 1.96,
+      "lighting": "robot golgede,kisi guneste",
+      "trial_id": "S3_R1",
+      "preparation_start_wall_s": 1795256121.4451756,
+      "preparation_start_mono_s": 4485.575914607,
+      "preparation_s": 45.0,
+      "measurement_s": 30.0,
+      "launcher_sha256": "1de72262228af8d32e9db5e7a108c04c60a57d90e7d35343d4cfe56b02e14231",
+      "note": "Static continuity trial; target may already be present during preparation. Not a first-appearance or physical stopping latency test."
+    },
+    "images": 111,
+    "hash_errors": [],
+    "independent_stamp_matches": 111,
+    "validator_status": "PASS",
+    "validation_problems": [],
+    "raw_class_frames": {
+      "person": 111,
+      "vehicle": 23
+    },
+    "raw_cooccurrence": {},
+    "processed_class_frames_matched_images": {
+      "person": 111,
+      "vehicle": 23
+    },
+    "matched_camera_conflict_frames": 0,
+    "fusion_n": 300,
+    "fusion_states": {
+      "CLEAR": 285,
+      "CAUTION": 15
+    },
+    "fusion_hazards": {
+      "none": 285,
+      "geometric": 13,
+      "person": 2
+    },
+    "fusion_ambiguity_reasons": {},
+    "bridge_actions": {
+      "CLEAR_NAVIGATION": 285,
+      "CAUTION_DEFER_TO_BENDYRULER": 15
+    },
+    "bridge_counter_minmax": [
+      0,
+      0
+    ],
+    "fcu_states": {
+      "(True, False, 'HOLD')": 74
+    },
+    "age_median_s": 0.322,
+    "age_p99_s": 0.4178,
+    "pitch_minmax": [
+      -0.36,
+      -0.17
+    ]
+  },
+  {
+    "run": "PILOT_S1_R2_20261122_132300",
+    "setup": {
+      "scenario": "S1",
+      "repeat": 2,
+      "camera_reference_m": 1.0,
+      "front_reference_m": 0.54,
+      "lighting": "kapi onu, hava yagisli",
+      "trial_id": "S1_R2",
+      "preparation_start_wall_s": 1795343003.2307491,
+      "preparation_start_mono_s": 2123.99597682,
+      "preparation_s": 45.0,
+      "measurement_s": 30.0,
+      "launcher_sha256": "1de72262228af8d32e9db5e7a108c04c60a57d90e7d35343d4cfe56b02e14231",
+      "note": "Static continuity trial; target may already be present during preparation. Not a first-appearance or physical stopping latency test."
+    },
+    "images": 107,
+    "hash_errors": [],
+    "independent_stamp_matches": 107,
+    "validator_status": "PASS",
+    "validation_problems": [],
+    "raw_class_frames": {
+      "person": 107,
+      "tree": 104,
+      "vehicle": 107
+    },
+    "raw_cooccurrence": {
+      "person+tree": 104
+    },
+    "processed_class_frames_matched_images": {
+      "person": 107,
+      "tree": 104,
+      "vehicle": 107
+    },
+    "matched_camera_conflict_frames": 0,
+    "fusion_n": 300,
+    "fusion_states": {
+      "CRITICAL": 300
+    },
+    "fusion_hazards": {
+      "stability": 17,
+      "person": 283
+    },
+    "fusion_ambiguity_reasons": {},
+    "bridge_actions": {
+      "CRITICAL_NO_HOLD_MODE_HOLD": 299,
+      "SEMANTIC_CONFIRM_PERSON_1/2": 1
+    },
+    "bridge_counter_minmax": [
+      0,
+      101
+    ],
+    "fcu_states": {
+      "(True, False, 'HOLD')": 72
+    },
+    "age_median_s": 0.338,
+    "age_p99_s": 0.44585,
+    "pitch_minmax": [
+      -20.98,
+      1.99
+    ]
+  },
+  {
+    "run": "PILOT_S2_R2_20261122_132846",
+    "setup": {
+      "scenario": "S2",
+      "repeat": 2,
+      "camera_reference_m": 1.5,
+      "front_reference_m": 1.04,
+      "lighting": "kapi onu, hava yagisli",
+      "trial_id": "S2_R2",
+      "preparation_start_wall_s": 1795343360.2144432,
+      "preparation_start_mono_s": 2480.979671146,
+      "preparation_s": 45.0,
+      "measurement_s": 30.0,
+      "launcher_sha256": "1de72262228af8d32e9db5e7a108c04c60a57d90e7d35343d4cfe56b02e14231",
+      "note": "Static continuity trial; target may already be present during preparation. Not a first-appearance or physical stopping latency test."
+    },
+    "images": 107,
+    "hash_errors": [],
+    "independent_stamp_matches": 107,
+    "validator_status": "PASS",
+    "validation_problems": [],
+    "raw_class_frames": {
+      "person": 107,
+      "tree": 106,
+      "vehicle": 107
+    },
+    "raw_cooccurrence": {
+      "person+tree": 106
+    },
+    "processed_class_frames_matched_images": {
+      "person": 107,
+      "tree": 106,
+      "vehicle": 107
+    },
+    "matched_camera_conflict_frames": 0,
+    "fusion_n": 300,
+    "fusion_states": {
+      "CRITICAL": 300
+    },
+    "fusion_hazards": {
+      "person": 300
+    },
+    "fusion_ambiguity_reasons": {},
+    "bridge_actions": {
+      "CRITICAL_NO_HOLD_MODE_HOLD": 301
+    },
+    "bridge_counter_minmax": [
+      153,
+      260
+    ],
+    "fcu_states": {
+      "(True, False, 'HOLD')": 73
+    },
+    "age_median_s": 0.347,
+    "age_p99_s": 0.44816,
+    "pitch_minmax": [
+      0.01,
+      5.23
+    ]
+  },
+  {
+    "run": "PILOT_S3_R2_20261122_131421",
+    "setup": {
+      "scenario": "S3",
+      "repeat": 2,
+      "camera_reference_m": 2.5,
+      "front_reference_m": 2.04,
+      "lighting": "kapi onu, hava yagisli",
+      "trial_id": "S3_R2",
+      "preparation_start_wall_s": 1795342495.5844188,
+      "preparation_start_mono_s": 1616.349639482,
+      "preparation_s": 45.0,
+      "measurement_s": 30.0,
+      "launcher_sha256": "1de72262228af8d32e9db5e7a108c04c60a57d90e7d35343d4cfe56b02e14231",
+      "note": "Static continuity trial; target may already be present during preparation. Not a first-appearance or physical stopping latency test."
+    },
+    "images": 111,
+    "hash_errors": [],
+    "independent_stamp_matches": 111,
+    "validator_status": "PASS",
+    "validation_problems": [],
+    "raw_class_frames": {
+      "person": 111,
+      "tree": 101,
+      "vehicle": 111
+    },
+    "raw_cooccurrence": {
+      "person+tree": 101
+    },
+    "processed_class_frames_matched_images": {
+      "person": 111,
+      "tree": 101,
+      "vehicle": 111
+    },
+    "matched_camera_conflict_frames": 0,
+    "fusion_n": 300,
+    "fusion_states": {
+      "CAUTION": 300
+    },
+    "fusion_hazards": {
+      "geometric": 300
+    },
+    "fusion_ambiguity_reasons": {},
+    "bridge_actions": {
+      "CAUTION_DEFER_TO_BENDYRULER": 300
+    },
+    "bridge_counter_minmax": [
+      0,
+      0
+    ],
+    "fcu_states": {
+      "(True, False, 'HOLD')": 73
+    },
+    "age_median_s": 0.323,
+    "age_p99_s": 0.43467,
+    "pitch_minmax": [
+      -1.51,
+      5.05
+    ]
+  },
+  {
+    "run": "PILOT_S4_R1_20261122_135133",
+    "setup": {
+      "scenario": "S4",
+      "repeat": 1,
+      "camera_reference_m": 1.5,
+      "front_reference_m": 1.04,
+      "lighting": "kapi onu, hava yagisli",
+      "trial_id": "S4_R1",
+      "preparation_start_wall_s": 1795344719.7848444,
+      "preparation_start_mono_s": 3840.550072747,
+      "preparation_s": 45.0,
+      "measurement_s": 120.0,
+      "launcher_sha256": "11ce287a8d5a39fb5022e022c01e8166a36dccf7f7ad1068f1b1ca3ead38b308",
+      "note": "Lateral-entry trial: five intended traversals. Actual entry and exit times must be annotated from saved images; automatic markers delimit recording only."
+    },
+    "images": 456,
+    "hash_errors": [],
+    "independent_stamp_matches": 456,
+    "validator_status": "PASS",
+    "validation_problems": [],
+    "raw_class_frames": {
+      "tree": 430,
+      "vehicle": 440,
+      "person": 84
+    },
+    "raw_cooccurrence": {
+      "person+tree": 58
+    },
+    "processed_class_frames_matched_images": {
+      "tree": 430,
+      "vehicle": 440,
+      "person": 84
+    },
+    "matched_camera_conflict_frames": 0,
+    "fusion_n": 1200,
+    "fusion_states": {
+      "CAUTION": 1014,
+      "CRITICAL": 186
+    },
+    "fusion_hazards": {
+      "geometric": 1014,
+      "person": 186
+    },
+    "fusion_ambiguity_reasons": {},
+    "bridge_actions": {
+      "CAUTION_DEFER_TO_BENDYRULER": 1014,
+      "SEMANTIC_CONFIRM_PERSON_1/2": 21,
+      "CRITICAL_NO_HOLD_MODE_HOLD": 165
+    },
+    "bridge_counter_minmax": [
+      0,
+      16
+    ],
+    "fcu_states": {
+      "(True, False, 'HOLD')": 162
+    },
+    "age_median_s": 0.321,
+    "age_p99_s": 0.43459999999999993,
+    "pitch_minmax": [
+      -1.81,
+      7.65
+    ]
+  },
+  {
+    "run": "PILOT_S5_R1_20261123_162046",
+    "setup": {
+      "scenario": "S5",
+      "repeat": 1,
+      "camera_reference_m": 1.25,
+      "front_reference_m": 72.0,
+      "lighting": "golgeli",
+      "trial_id": "S5_R1",
+      "preparation_start_wall_s": 1795440103.8878982,
+      "preparation_start_mono_s": 1611.360889815,
+      "preparation_s": 45.0,
+      "measurement_s": 120.0,
+      "launcher_sha256": "a93f92fe6152cd2f62c0f53a1b30dc888057f2bacc2359eef75e4e290311ffe0",
+      "note": "Occlusion trial: five intended visible/partially-occluded cycles with a real tree. Actual visibility must be annotated from saved images; automatic markers delimit recording only."
+    },
+    "images": 475,
+    "hash_errors": [],
+    "independent_stamp_matches": 475,
+    "validator_status": "PASS",
+    "validation_problems": [],
+    "raw_class_frames": {
+      "animal": 47,
+      "tree": 55,
+      "person": 63,
+      "pole": 1
+    },
+    "raw_cooccurrence": {
+      "tree+animal": 1,
+      "person+tree": 34,
+      "person+animal": 5
+    },
+    "processed_class_frames_matched_images": {
+      "animal": 47,
+      "tree": 55,
+      "person": 63,
+      "pole": 1
+    },
+    "matched_camera_conflict_frames": 0,
+    "fusion_n": 1200,
+    "fusion_states": {
+      "CAUTION": 1064,
+      "CRITICAL": 136
+    },
+    "fusion_hazards": {
+      "geometric": 1064,
+      "animal": 105,
+      "person": 31
+    },
+    "fusion_ambiguity_reasons": {},
+    "bridge_actions": {
+      "CAUTION_DEFER_TO_BENDYRULER": 1064,
+      "SEMANTIC_CONFIRM_ANIMAL_1/2": 37,
+      "CRITICAL_NO_HOLD_MODE_HOLD": 90,
+      "SEMANTIC_CONFIRM_PERSON_1/2": 9
+    },
+    "bridge_counter_minmax": [
+      0,
+      16
+    ],
+    "fcu_states": {
+      "(True, False, 'HOLD')": 164
+    },
+    "age_median_s": 0.307,
+    "age_p99_s": 0.43074999999999997,
+    "pitch_minmax": [
+      1.88,
+      2.07
+    ]
+  },
+  {
+    "run": "PILOT_S6_R1_20261124_101921",
+    "setup": {
+      "scenario": "S6",
+      "repeat": 1,
+      "camera_reference_m": 1.2,
+      "front_reference_m": 0.74,
+      "lighting": "hava gunesli hedef golgede",
+      "trial_id": "S6_R1",
+      "preparation_start_wall_s": 1795504809.9264052,
+      "preparation_start_mono_s": 749.069184606,
+      "preparation_s": 45.0,
+      "measurement_s": 30.0,
+      "launcher_sha256": "929e8f1320cd7d5f5e894c3d7870e549b076223d2b364d051fa3fe9224d73a48",
+      "note": "Person-next-to-real-tree static trial. Repeat IDs 1/2/3 denote camera distances 1.2/1.0/0.8 m, not independent repetitions of one distance."
+    },
+    "images": 113,
+    "hash_errors": [],
+    "independent_stamp_matches": 113,
+    "validator_status": "PASS",
+    "validation_problems": [],
+    "raw_class_frames": {
+      "tree": 83,
+      "person": 113,
+      "animal": 29
+    },
+    "raw_cooccurrence": {
+      "person+tree": 83,
+      "person+animal": 29,
+      "tree+animal": 20,
+      "triple": 20
+    },
+    "processed_class_frames_matched_images": {
+      "tree": 83,
+      "person": 113,
+      "animal": 29
+    },
+    "matched_camera_conflict_frames": 0,
+    "fusion_n": 300,
+    "fusion_states": {
+      "CRITICAL": 300
+    },
+    "fusion_hazards": {
+      "person": 300
+    },
+    "fusion_ambiguity_reasons": {},
+    "bridge_actions": {
+      "CRITICAL_NO_HOLD_MODE_HOLD": 300
+    },
+    "bridge_counter_minmax": [
+      155,
+      268
+    ],
+    "fcu_states": {
+      "(True, False, 'HOLD')": 74
+    },
+    "age_median_s": 0.318,
+    "age_p99_s": 0.43804,
+    "pitch_minmax": [
+      0.44,
+      0.56
+    ]
+  },
+  {
+    "run": "PILOT_S6_R2_20261124_102653",
+    "setup": {
+      "scenario": "S6",
+      "repeat": 2,
+      "camera_reference_m": 1.0,
+      "front_reference_m": 0.64,
+      "lighting": "gunesli, hedef golgede,Kaldirim nedeniyle robot hafif egimli; kamera montaji degismedi",
+      "trial_id": "S6_R2",
+      "preparation_start_wall_s": 1795505276.8159962,
+      "preparation_start_mono_s": 1215.958774414,
+      "preparation_s": 45.0,
+      "measurement_s": 30.0,
+      "launcher_sha256": "929e8f1320cd7d5f5e894c3d7870e549b076223d2b364d051fa3fe9224d73a48",
+      "note": "Person-next-to-real-tree static trial. Repeat IDs 1/2/3 denote camera distances 1.2/1.0/0.8 m, not independent repetitions of one distance."
+    },
+    "images": 116,
+    "hash_errors": [],
+    "independent_stamp_matches": 116,
+    "validator_status": "PASS",
+    "validation_problems": [],
+    "raw_class_frames": {
+      "person": 116
+    },
+    "raw_cooccurrence": {},
+    "processed_class_frames_matched_images": {
+      "person": 116
+    },
+    "matched_camera_conflict_frames": 0,
+    "fusion_n": 300,
+    "fusion_states": {
+      "CRITICAL": 300
+    },
+    "fusion_hazards": {
+      "person": 300
+    },
+    "fusion_ambiguity_reasons": {},
+    "bridge_actions": {
+      "CRITICAL_NO_HOLD_MODE_HOLD": 300
+    },
+    "bridge_counter_minmax": [
+      163,
+      280
+    ],
+    "fcu_states": {
+      "(True, False, 'HOLD')": 75
+    },
+    "age_median_s": 0.315,
+    "age_p99_s": 0.4112,
+    "pitch_minmax": [
+      -8.36,
+      -8.18
+    ]
+  },
+  {
+    "run": "PILOT_S6_R3_20261124_103209",
+    "setup": {
+      "scenario": "S6",
+      "repeat": 3,
+      "camera_reference_m": 0.8,
+      "front_reference_m": 0.35,
+      "lighting": "hava gunesli,hedef golgede",
+      "trial_id": "S6_R3",
+      "preparation_start_wall_s": 1795505549.4465225,
+      "preparation_start_mono_s": 1488.589301321,
+      "preparation_s": 45.0,
+      "measurement_s": 30.0,
+      "launcher_sha256": "929e8f1320cd7d5f5e894c3d7870e549b076223d2b364d051fa3fe9224d73a48",
+      "note": "Person-next-to-real-tree static trial. Repeat IDs 1/2/3 denote camera distances 1.2/1.0/0.8 m, not independent repetitions of one distance."
+    },
+    "images": 110,
+    "hash_errors": [],
+    "independent_stamp_matches": 110,
+    "validator_status": "PASS",
+    "validation_problems": [],
+    "raw_class_frames": {
+      "person": 110,
+      "tree": 3
+    },
+    "raw_cooccurrence": {
+      "person+tree": 3
+    },
+    "processed_class_frames_matched_images": {
+      "person": 110,
+      "tree": 3
+    },
+    "matched_camera_conflict_frames": 0,
+    "fusion_n": 300,
+    "fusion_states": {
+      "CRITICAL": 300
+    },
+    "fusion_hazards": {
+      "person": 300
+    },
+    "fusion_ambiguity_reasons": {},
+    "bridge_actions": {
+      "CRITICAL_NO_HOLD_MODE_HOLD": 300
+    },
+    "bridge_counter_minmax": [
+      163,
+      273
+    ],
+    "fcu_states": {
+      "(True, False, 'HOLD')": 73
+    },
+    "age_median_s": 0.339,
+    "age_p99_s": 0.44420000000000004,
+    "pitch_minmax": [
+      -6.41,
+      -6.27
+    ]
+  },
+  {
+    "run": "PILOT_TREE_ONLY_R1_20261124_103534",
+    "setup": {
+      "scenario": "TREE_ONLY",
+      "repeat": 1,
+      "camera_reference_m": 0.8,
+      "front_reference_m": 0.35,
+      "lighting": "golgede",
+      "trial_id": "TREE_ONLY_R1",
+      "preparation_start_wall_s": 1795505756.0976982,
+      "preparation_start_mono_s": 1695.240480064,
+      "preparation_s": 45.0,
+      "measurement_s": 30.0,
+      "launcher_sha256": "1de72262228af8d32e9db5e7a108c04c60a57d90e7d35343d4cfe56b02e14231",
+      "note": "Static continuity trial; target may already be present during preparation. Not a first-appearance or physical stopping latency test."
+    },
+    "images": 101,
+    "hash_errors": [],
+    "independent_stamp_matches": 101,
+    "validator_status": "PASS",
+    "validation_problems": [],
+    "raw_class_frames": {
+      "tree": 101
+    },
+    "raw_cooccurrence": {},
+    "processed_class_frames_matched_images": {
+      "tree": 101
+    },
+    "matched_camera_conflict_frames": 0,
+    "fusion_n": 300,
+    "fusion_states": {
+      "CAUTION": 300
+    },
+    "fusion_hazards": {
+      "geometric": 300
+    },
+    "fusion_ambiguity_reasons": {},
+    "bridge_actions": {
+      "CAUTION_DEFER_TO_BENDYRULER": 300
+    },
+    "bridge_counter_minmax": [
+      0,
+      0
+    ],
+    "fcu_states": {
+      "(True, False, 'HOLD')": 73
+    },
+    "age_median_s": 0.345,
+    "age_p99_s": 0.469,
+    "pitch_minmax": [
+      -6.5,
+      -6.39
+    ]
+  }
+]

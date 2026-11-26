@@ -1,0 +1,6 @@
+test,sigma_before,sigma_after,gap_s,kind
+T1,1792921561.21,1792921580.651,19.44099998474121,gap_between_selected_valid_camera_sources
+T2,1792922515.082,1792922527.584,12.502000093460083,gap_between_selected_valid_camera_sources
+T4,1792924897.677,1792924921.488,23.810999870300293,gap_between_selected_valid_camera_sources
+T4,1792925004.091,1792925027.302,23.210999965667725,gap_between_selected_valid_camera_sources
+T4,1792925060.752,1792925073.956,13.203999996185303,gap_between_selected_valid_camera_sources

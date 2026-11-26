@@ -1,0 +1,606 @@
+[
+  {
+    "run": "MISSION_20261025T093856_685142",
+    "label": "T1",
+    "observer_AUTO_start_s": 1792921360.6894796,
+    "WP5_event_s": 1792921645.073149,
+    "observer_duration_s": 284.3836693763733,
+    "states": [
+      [
+        false,
+        "HOLD"
+      ],
+      [
+        true,
+        "AUTO"
+      ],
+      [
+        true,
+        "HOLD"
+      ],
+      [
+        true,
+        "MANUAL"
+      ]
+    ],
+    "missing": {
+      "/camera/perception/status": {
+        "all_observer": 347,
+        "mission_observer_receipt": 0,
+        "min_receipt_s": 1792921149.023169,
+        "max_receipt_s": 1792921721.3903375,
+        "measure_phase_missing": 82,
+        "measure_first_missing_s": 1792921655.704822
+      },
+      "/fusion/status_v4": {
+        "all_observer": 1031,
+        "mission_observer_receipt": 0,
+        "min_receipt_s": 1792921145.0560117,
+        "max_receipt_s": 1792921721.5537353,
+        "measure_phase_missing": 246,
+        "measure_first_missing_s": 1792921655.55295
+      },
+      "/safety_bridge/status": {
+        "all_observer": 1033,
+        "mission_observer_receipt": 0,
+        "min_receipt_s": 1792921144.960691,
+        "max_receipt_s": 1792921721.5600936,
+        "measure_phase_missing": 247,
+        "measure_first_missing_s": 1792921655.459904
+      },
+      "/lidar/navigation_status": {
+        "all_observer": 1041,
+        "mission_observer_receipt": 0,
+        "min_receipt_s": 1792921144.9062014,
+        "max_receipt_s": 1792921721.5095592,
+        "measure_phase_missing": 247,
+        "measure_first_missing_s": 1792921655.5062406
+      }
+    },
+    "episodes": [],
+    "camera_publish_age_s": {
+      "n": 1093,
+      "median": 0.356,
+      "p95": 0.48839999999999983,
+      "p99": 0.5903199999999996,
+      "max": 0.837
+    },
+    "ambiguity_publications": 0,
+    "ambiguity_distances_m": []
+  },
+  {
+    "run": "MISSION_20261025T095656_324958",
+    "label": "T2",
+    "observer_AUTO_start_s": 1792922373.509908,
+    "WP5_event_s": 1792922665.0022662,
+    "observer_duration_s": 291.49235820770264,
+    "states": [
+      [
+        false,
+        "HOLD"
+      ],
+      [
+        true,
+        "AUTO"
+      ],
+      [
+        true,
+        "HOLD"
+      ],
+      [
+        true,
+        "MANUAL"
+      ]
+    ],
+    "missing": {
+      "/camera/perception/status": {
+        "all_observer": 267,
+        "mission_observer_receipt": 0,
+        "min_receipt_s": 1792922224.2969792,
+        "max_receipt_s": 1792922712.3068044,
+        "measure_phase_missing": 20,
+        "measure_first_missing_s": 1792922675.7977736
+      },
+      "/fusion/status_v4": {
+        "all_observer": 712,
+        "mission_observer_receipt": 0,
+        "min_receipt_s": 1792922225.3797212,
+        "max_receipt_s": 1792922712.3544044,
+        "measure_phase_missing": 57,
+        "measure_first_missing_s": 1792922675.465931
+      },
+      "/safety_bridge/status": {
+        "all_observer": 719,
+        "mission_observer_receipt": 0,
+        "min_receipt_s": 1792922225.2594886,
+        "max_receipt_s": 1792922712.3566613,
+        "measure_phase_missing": 57,
+        "measure_first_missing_s": 1792922675.4737499
+      },
+      "/lidar/navigation_status": {
+        "all_observer": 718,
+        "mission_observer_receipt": 0,
+        "min_receipt_s": 1792922224.3036854,
+        "max_receipt_s": 1792922712.3988838,
+        "measure_phase_missing": 57,
+        "measure_first_missing_s": 1792922675.442301
+      }
+    },
+    "episodes": [],
+    "camera_publish_age_s": {
+      "n": 1139,
+      "median": 0.349,
+      "p95": 0.478,
+      "p99": 0.5435799999999991,
+      "max": 0.853
+    },
+    "ambiguity_publications": 0,
+    "ambiguity_distances_m": []
+  },
+  {
+    "run": "MISSION_20261025T101222_031804",
+    "label": "T3",
+    "observer_AUTO_start_s": 1792923338.1433008,
+    "WP5_event_s": 1792923655.129278,
+    "observer_duration_s": 316.98597717285156,
+    "states": [
+      [
+        false,
+        "HOLD"
+      ],
+      [
+        true,
+        "AUTO"
+      ],
+      [
+        true,
+        "HOLD"
+      ],
+      [
+        true,
+        "MANUAL"
+      ]
+    ],
+    "missing": {
+      "/camera/perception/status": {
+        "all_observer": 294,
+        "mission_observer_receipt": 0,
+        "min_receipt_s": 1792923150.8614347,
+        "max_receipt_s": 1792923710.5452304,
+        "measure_phase_missing": 23,
+        "measure_first_missing_s": 1792923665.51212
+      },
+      "/fusion/status_v4": {
+        "all_observer": 832,
+        "mission_observer_receipt": 0,
+        "min_receipt_s": 1792923150.8761482,
+        "max_receipt_s": 1792923710.5622013,
+        "measure_phase_missing": 65,
+        "measure_first_missing_s": 1792923665.5653672
+      },
+      "/safety_bridge/status": {
+        "all_observer": 828,
+        "mission_observer_receipt": 0,
+        "min_receipt_s": 1792923150.8789911,
+        "max_receipt_s": 1792923710.5687132,
+        "measure_phase_missing": 65,
+        "measure_first_missing_s": 1792923665.5740633
+      },
+      "/lidar/navigation_status": {
+        "all_observer": 833,
+        "mission_observer_receipt": 0,
+        "min_receipt_s": 1792923150.892201,
+        "max_receipt_s": 1792923710.569863,
+        "measure_phase_missing": 65,
+        "measure_first_missing_s": 1792923665.5801582
+      }
+    },
+    "episodes": [
+      {
+        "first_bridge_s": 1792923446.652652,
+        "last_bridge_s": 1792923446.9541688,
+        "snapshots": 4,
+        "source_transitions": 1,
+        "counters": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "actions": [
+          "SEMANTIC_CONFIRM_PERSON_1/2",
+          "SEMANTIC_CONFIRM_PERSON_1/2",
+          "SEMANTIC_CONFIRM_PERSON_1/2",
+          "SEMANTIC_CONFIRM_PERSON_1/2"
+        ],
+        "request_s": [],
+        "sources": [
+          {
+            "bridge_source_s": 1792923446.163,
+            "camera_candidates": [
+              {
+                "source_s": 1792923446.1625147,
+                "publication_s": 1792923446.5969825,
+                "person_tracks": [
+                  {
+                    "side": "right",
+                    "distance_m": 0.727,
+                    "risk": "CRITICAL",
+                    "conf": 0.3935,
+                    "bbox": [
+                      843,
+                      0,
+                      1276,
+                      720
+                    ],
+                    "semantic_ambiguous": true,
+                    "semantic_conflict_type": "PERSON_TREE_DUPLICATE"
+                  }
+                ],
+                "valid": true
+              }
+            ]
+          }
+        ],
+        "person_critical_fusion_snapshots": 4,
+        "first_source_to_request_s": null
+      }
+    ],
+    "camera_publish_age_s": {
+      "n": 1207,
+      "median": 0.369,
+      "p95": 0.496,
+      "p99": 0.5707000000000002,
+      "max": 0.706
+    },
+    "ambiguity_publications": 1,
+    "ambiguity_distances_m": [
+      0.727
+    ]
+  },
+  {
+    "run": "MISSION_20261025T103420_406168",
+    "label": "T4",
+    "observer_AUTO_start_s": 1792924619.4965653,
+    "WP5_event_s": 1792925083.2246325,
+    "observer_duration_s": 463.7280671596527,
+    "states": [
+      [
+        false,
+        "HOLD"
+      ],
+      [
+        false,
+        "MANUAL"
+      ],
+      [
+        true,
+        "AUTO"
+      ],
+      [
+        true,
+        "HOLD"
+      ],
+      [
+        true,
+        "MANUAL"
+      ]
+    ],
+    "missing": {
+      "/camera/perception/status": {
+        "all_observer": 324,
+        "mission_observer_receipt": 0,
+        "min_receipt_s": 1792924470.6899347,
+        "max_receipt_s": 1792925147.4384868,
+        "measure_phase_missing": 31,
+        "measure_first_missing_s": 1792925093.7878492
+      },
+      "/fusion/status_v4": {
+        "all_observer": 877,
+        "mission_observer_receipt": 0,
+        "min_receipt_s": 1792924470.6966987,
+        "max_receipt_s": 1792925147.559402,
+        "measure_phase_missing": 83,
+        "measure_first_missing_s": 1792925093.8008647
+      },
+      "/safety_bridge/status": {
+        "all_observer": 858,
+        "mission_observer_receipt": 0,
+        "min_receipt_s": 1792924471.0583818,
+        "max_receipt_s": 1792925147.461553,
+        "measure_phase_missing": 82,
+        "measure_first_missing_s": 1792925093.8078716
+      },
+      "/lidar/navigation_status": {
+        "all_observer": 868,
+        "mission_observer_receipt": 0,
+        "min_receipt_s": 1792924470.698267,
+        "max_receipt_s": 1792925147.475863,
+        "measure_phase_missing": 82,
+        "measure_first_missing_s": 1792925093.6750743
+      }
+    },
+    "episodes": [
+      {
+        "first_bridge_s": 1792924740.4588077,
+        "last_bridge_s": 1792924740.6523023,
+        "snapshots": 3,
+        "source_transitions": 1,
+        "counters": [
+          1,
+          1,
+          1
+        ],
+        "actions": [
+          "SEMANTIC_CONFIRM_PERSON_1/2",
+          "SEMANTIC_CONFIRM_PERSON_1/2",
+          "SEMANTIC_CONFIRM_PERSON_1/2"
+        ],
+        "request_s": [],
+        "sources": [
+          {
+            "bridge_source_s": 1792924740.071,
+            "camera_candidates": [
+              {
+                "source_s": 1792924740.0705235,
+                "publication_s": 1792924740.4403703,
+                "person_tracks": [
+                  {
+                    "side": "center",
+                    "distance_m": 1.487,
+                    "risk": "CRITICAL",
+                    "conf": 0.3023,
+                    "bbox": [
+                      578,
+                      621,
+                      741,
+                      720
+                    ],
+                    "semantic_ambiguous": false,
+                    "semantic_conflict_type": null
+                  }
+                ],
+                "valid": true
+              }
+            ]
+          }
+        ],
+        "person_critical_fusion_snapshots": 3,
+        "first_source_to_request_s": null
+      },
+      {
+        "first_bridge_s": 1792924942.752704,
+        "last_bridge_s": 1792924942.9525347,
+        "snapshots": 3,
+        "source_transitions": 1,
+        "counters": [
+          1,
+          1,
+          1
+        ],
+        "actions": [
+          "SEMANTIC_CONFIRM_PERSON_1/2",
+          "SEMANTIC_CONFIRM_PERSON_1/2",
+          "SEMANTIC_CONFIRM_PERSON_1/2"
+        ],
+        "request_s": [],
+        "sources": [
+          {
+            "bridge_source_s": 1792924942.264,
+            "camera_candidates": [
+              {
+                "source_s": 1792924942.2636175,
+                "publication_s": 1792924942.7011757,
+                "person_tracks": [
+                  {
+                    "side": "left",
+                    "distance_m": 0.782,
+                    "risk": "CRITICAL",
+                    "conf": 0.5778,
+                    "bbox": [
+                      103,
+                      355,
+                      166,
+                      501
+                    ],
+                    "semantic_ambiguous": false,
+                    "semantic_conflict_type": null
+                  }
+                ],
+                "valid": true
+              }
+            ]
+          }
+        ],
+        "person_critical_fusion_snapshots": 3,
+        "first_source_to_request_s": null
+      },
+      {
+        "first_bridge_s": 1792924945.9530005,
+        "last_bridge_s": 1792924946.1529512,
+        "snapshots": 3,
+        "source_transitions": 1,
+        "counters": [
+          1,
+          1,
+          1
+        ],
+        "actions": [
+          "SEMANTIC_CONFIRM_PERSON_1/2",
+          "SEMANTIC_CONFIRM_PERSON_1/2",
+          "SEMANTIC_CONFIRM_PERSON_1/2"
+        ],
+        "request_s": [],
+        "sources": [
+          {
+            "bridge_source_s": 1792924945.6,
+            "camera_candidates": [
+              {
+                "source_s": 1792924945.6002436,
+                "publication_s": 1792924945.932682,
+                "person_tracks": [
+                  {
+                    "side": "left",
+                    "distance_m": 0.766,
+                    "risk": "CRITICAL",
+                    "conf": 0.3138,
+                    "bbox": [
+                      210,
+                      343,
+                      268,
+                      483
+                    ],
+                    "semantic_ambiguous": false,
+                    "semantic_conflict_type": null
+                  }
+                ],
+                "valid": true
+              }
+            ]
+          }
+        ],
+        "person_critical_fusion_snapshots": 3,
+        "first_source_to_request_s": null
+      },
+      {
+        "first_bridge_s": 1792925061.0520017,
+        "last_bridge_s": 1792925061.3848176,
+        "snapshots": 4,
+        "source_transitions": 2,
+        "counters": [
+          1,
+          1,
+          1,
+          2
+        ],
+        "actions": [
+          "SEMANTIC_CONFIRM_PERSON_1/2",
+          "SEMANTIC_CONFIRM_PERSON_1/2",
+          "SEMANTIC_CONFIRM_PERSON_1/2",
+          "HOLD_REQUESTED_SEMANTIC_CONFIRMED_PERSON"
+        ],
+        "request_s": [
+          1792925061.3848176
+        ],
+        "sources": [
+          {
+            "bridge_source_s": 1792925060.585,
+            "camera_candidates": [
+              {
+                "source_s": 1792925060.584992,
+                "publication_s": 1792925061.0077672,
+                "person_tracks": [
+                  {
+                    "side": "center",
+                    "distance_m": 1.49,
+                    "risk": "CRITICAL",
+                    "conf": 0.8694,
+                    "bbox": [
+                      552,
+                      9,
+                      760,
+                      691
+                    ],
+                    "semantic_ambiguous": false,
+                    "semantic_conflict_type": null
+                  }
+                ],
+                "valid": true
+              }
+            ]
+          },
+          {
+            "bridge_source_s": 1792925060.752,
+            "camera_candidates": [
+              {
+                "source_s": 1792925060.7516763,
+                "publication_s": 1792925061.3087003,
+                "person_tracks": [
+                  {
+                    "side": "center",
+                    "distance_m": 1.444,
+                    "risk": "CRITICAL",
+                    "conf": 0.8704,
+                    "bbox": [
+                      551,
+                      2,
+                      758,
+                      700
+                    ],
+                    "semantic_ambiguous": false,
+                    "semantic_conflict_type": null
+                  }
+                ],
+                "valid": true
+              }
+            ]
+          }
+        ],
+        "person_critical_fusion_snapshots": 4,
+        "first_source_to_request_s": 0.7998256683349609
+      }
+    ],
+    "camera_publish_age_s": {
+      "n": 1793,
+      "median": 0.355,
+      "p95": 0.481,
+      "p99": 0.5471599999999999,
+      "max": 0.586
+    },
+    "ambiguity_publications": 0,
+    "ambiguity_distances_m": []
+  },
+  {
+    "run": "MISSION_20261025T105538_984769",
+    "label": "extra_disarmed_recording",
+    "observer_AUTO_start_s": null,
+    "WP5_event_s": null,
+    "observer_duration_s": null,
+    "states": [
+      [
+        false,
+        "HOLD"
+      ]
+    ],
+    "missing": {
+      "/camera/perception/status": {
+        "all_observer": 179,
+        "mission_observer_receipt": 0,
+        "min_receipt_s": 1792925749.7007844,
+        "max_receipt_s": 1792926025.4244478,
+        "measure_phase_missing": 0,
+        "measure_first_missing_s": null
+      },
+      "/fusion/status_v4": {
+        "all_observer": 495,
+        "mission_observer_receipt": 0,
+        "min_receipt_s": 1792925747.653436,
+        "max_receipt_s": 1792926025.4521708,
+        "measure_phase_missing": 0,
+        "measure_first_missing_s": null
+      },
+      "/safety_bridge/status": {
+        "all_observer": 498,
+        "mission_observer_receipt": 0,
+        "min_receipt_s": 1792925747.5374663,
+        "max_receipt_s": 1792926025.3634136,
+        "measure_phase_missing": 0,
+        "measure_first_missing_s": null
+      },
+      "/lidar/navigation_status": {
+        "all_observer": 495,
+        "mission_observer_receipt": 0,
+        "min_receipt_s": 1792925747.5433822,
+        "max_receipt_s": 1792926025.3893497,
+        "measure_phase_missing": 0,
+        "measure_first_missing_s": null
+      }
+    },
+    "episodes": [],
+    "camera_publish_age_s": {
+      "n": 0
+    },
+    "ambiguity_publications": 0,
+    "ambiguity_distances_m": []
+  }
+]

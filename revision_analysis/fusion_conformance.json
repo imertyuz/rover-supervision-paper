@@ -1,0 +1,5432 @@
+[
+  {
+    "run": "MISSION_20261025T093856_685142",
+    "mission_snapshots": 2844,
+    "field_mismatches": {
+      "state": 2,
+      "hazard_type": 2,
+      "reasons": 2,
+      "primary_reason": 2
+    },
+    "examples": [
+      {
+        "stamp_s": 1792921479.3500168,
+        "differences": {
+          "state": [
+            "CLEAR",
+            "CAUTION"
+          ],
+          "hazard_type": [
+            "none",
+            "geometric"
+          ],
+          "reasons": [
+            [],
+            [
+              "lidar_front_caution:1.46"
+            ]
+          ],
+          "primary_reason": [
+            "clear",
+            "lidar_front_caution:1.46"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792921479.4501095,
+        "differences": {
+          "state": [
+            "CLEAR",
+            "CAUTION"
+          ],
+          "hazard_type": [
+            "none",
+            "geometric"
+          ],
+          "reasons": [
+            [],
+            [
+              "lidar_front_caution:1.46"
+            ]
+          ],
+          "primary_reason": [
+            "clear",
+            "lidar_front_caution:1.46"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "run": "MISSION_20261025T095656_324958",
+    "mission_snapshots": 2915,
+    "field_mismatches": {
+      "reasons": 1,
+      "primary_reason": 1
+    },
+    "examples": [
+      {
+        "stamp_s": 1792922499.7510734,
+        "differences": {
+          "reasons": [
+            [
+              "lidar_side_caution:0.89"
+            ],
+            [
+              "lidar_side_caution:0.87"
+            ]
+          ],
+          "primary_reason": [
+            "lidar_side_caution:0.89",
+            "lidar_side_caution:0.87"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "run": "MISSION_20261025T101222_031804",
+    "mission_snapshots": 3170,
+    "field_mismatches": {
+      "state": 1,
+      "hazard_type": 1,
+      "reasons": 3,
+      "primary_reason": 3
+    },
+    "examples": [
+      {
+        "stamp_s": 1792923487.8500535,
+        "differences": {
+          "state": [
+            "CLEAR",
+            "CAUTION"
+          ],
+          "hazard_type": [
+            "none",
+            "geometric"
+          ],
+          "reasons": [
+            [],
+            [
+              "lidar_side_caution:0.84"
+            ]
+          ],
+          "primary_reason": [
+            "clear",
+            "lidar_side_caution:0.84"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792923487.9500194,
+        "differences": {
+          "reasons": [
+            [
+              "lidar_side_caution:0.86"
+            ],
+            [
+              "lidar_side_caution:0.84"
+            ]
+          ],
+          "primary_reason": [
+            "lidar_side_caution:0.86",
+            "lidar_side_caution:0.84"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792923542.1500423,
+        "differences": {
+          "reasons": [
+            [
+              "lidar_front_caution:1.43"
+            ],
+            [
+              "lidar_front_caution:1.42"
+            ]
+          ],
+          "primary_reason": [
+            "lidar_front_caution:1.43",
+            "lidar_front_caution:1.42"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "run": "MISSION_20261025T103420_406168",
+    "mission_snapshots": 4637,
+    "field_mismatches": {
+      "reasons": 279,
+      "primary_reason": 263,
+      "state": 39,
+      "hazard_type": 48
+    },
+    "examples": [
+      {
+        "stamp_s": 1792924622.1570086,
+        "differences": {
+          "reasons": [
+            [
+              "lidar_side_caution:0.97",
+              "lidar_rear_caution:0.80"
+            ],
+            [
+              "lidar_side_caution:0.92",
+              "lidar_rear_caution:0.78"
+            ]
+          ],
+          "primary_reason": [
+            "lidar_side_caution:0.97",
+            "lidar_side_caution:0.92"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792924622.7533245,
+        "differences": {
+          "reasons": [
+            [
+              "lidar_side_caution:0.93",
+              "lidar_rear_caution:0.79"
+            ],
+            [
+              "lidar_side_caution:0.91",
+              "lidar_rear_caution:0.78"
+            ]
+          ],
+          "primary_reason": [
+            "lidar_side_caution:0.93",
+            "lidar_side_caution:0.91"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792924623.154082,
+        "differences": {
+          "reasons": [
+            [
+              "lidar_side_caution:0.90",
+              "lidar_rear_caution:0.76"
+            ],
+            [
+              "lidar_side_caution:0.94",
+              "lidar_rear_caution:0.78"
+            ]
+          ],
+          "primary_reason": [
+            "lidar_side_caution:0.90",
+            "lidar_side_caution:0.94"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792924623.3563144,
+        "differences": {
+          "reasons": [
+            [
+              "lidar_side_caution:0.93",
+              "lidar_rear_caution:0.80"
+            ],
+            [
+              "lidar_side_caution:0.89",
+              "lidar_rear_caution:0.79"
+            ]
+          ],
+          "primary_reason": [
+            "lidar_side_caution:0.93",
+            "lidar_side_caution:0.89"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792924623.5504425,
+        "differences": {
+          "reasons": [
+            [
+              "lidar_side_caution:0.94",
+              "lidar_rear_caution:0.79"
+            ],
+            [
+              "lidar_side_caution:0.90",
+              "lidar_rear_caution:0.78"
+            ]
+          ],
+          "primary_reason": [
+            "lidar_side_caution:0.94",
+            "lidar_side_caution:0.90"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792924623.6498895,
+        "differences": {
+          "reasons": [
+            [
+              "lidar_side_caution:0.92",
+              "lidar_rear_caution:0.80"
+            ],
+            [
+              "lidar_side_caution:0.90",
+              "lidar_rear_caution:0.78"
+            ]
+          ],
+          "primary_reason": [
+            "lidar_side_caution:0.92",
+            "lidar_side_caution:0.90"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792924625.4584177,
+        "differences": {
+          "reasons": [
+            [
+              "lidar_side_caution:0.94",
+              "lidar_rear_caution:0.82"
+            ],
+            [
+              "lidar_side_caution:0.93",
+              "lidar_rear_caution:0.81"
+            ]
+          ],
+          "primary_reason": [
+            "lidar_side_caution:0.94",
+            "lidar_side_caution:0.93"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792924693.8599644,
+        "differences": {
+          "reasons": [
+            [
+              "lidar_front_caution:1.17"
+            ],
+            [
+              "lidar_front_caution:1.15"
+            ]
+          ],
+          "primary_reason": [
+            "lidar_front_caution:1.17",
+            "lidar_front_caution:1.15"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792924694.1594694,
+        "differences": {
+          "reasons": [
+            [
+              "lidar_front_caution:1.09"
+            ],
+            [
+              "lidar_front_caution:1.05"
+            ]
+          ],
+          "primary_reason": [
+            "lidar_front_caution:1.09",
+            "lidar_front_caution:1.05"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792924694.9519966,
+        "differences": {
+          "reasons": [
+            [
+              "lidar_front_caution:0.94"
+            ],
+            [
+              "lidar_front_caution:0.95"
+            ]
+          ],
+          "primary_reason": [
+            "lidar_front_caution:0.94",
+            "lidar_front_caution:0.95"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792924695.1551292,
+        "differences": {
+          "reasons": [
+            [
+              "lidar_front_caution:0.93"
+            ],
+            [
+              "lidar_front_caution:0.92",
+              "lidar_side_caution:0.92"
+            ]
+          ],
+          "primary_reason": [
+            "lidar_front_caution:0.93",
+            "lidar_front_caution:0.92"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792924695.2500126,
+        "differences": {
+          "reasons": [
+            [
+              "lidar_front_caution:0.92",
+              "lidar_side_caution:0.92"
+            ],
+            [
+              "lidar_front_caution:0.92",
+              "lidar_side_caution:0.93"
+            ]
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792924695.450397,
+        "differences": {
+          "reasons": [
+            [
+              "lidar_front_caution:0.92",
+              "lidar_side_caution:0.94"
+            ],
+            [
+              "lidar_front_caution:0.91",
+              "lidar_side_caution:0.92"
+            ]
+          ],
+          "primary_reason": [
+            "lidar_front_caution:0.92",
+            "lidar_front_caution:0.91"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792924695.9501672,
+        "differences": {
+          "reasons": [
+            [
+              "lidar_side_caution:0.92"
+            ],
+            [
+              "lidar_side_caution:0.93"
+            ]
+          ],
+          "primary_reason": [
+            "lidar_side_caution:0.92",
+            "lidar_side_caution:0.93"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792924722.352119,
+        "differences": {
+          "reasons": [
+            [
+              "lidar_front_caution:1.38"
+            ],
+            [
+              "lidar_front_caution:1.21"
+            ]
+          ],
+          "primary_reason": [
+            "lidar_front_caution:1.38",
+            "lidar_front_caution:1.21"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792924722.7534893,
+        "differences": {
+          "reasons": [
+            [
+              "lidar_front_caution:1.23"
+            ],
+            [
+              "lidar_front_caution:1.27"
+            ]
+          ],
+          "primary_reason": [
+            "lidar_front_caution:1.23",
+            "lidar_front_caution:1.27"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792924723.3551772,
+        "differences": {
+          "reasons": [
+            [
+              "lidar_front_caution:1.19"
+            ],
+            [
+              "lidar_front_caution:1.23"
+            ]
+          ],
+          "primary_reason": [
+            "lidar_front_caution:1.19",
+            "lidar_front_caution:1.23"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792924724.062576,
+        "differences": {
+          "reasons": [
+            [
+              "lidar_front_caution:1.28"
+            ],
+            [
+              "lidar_front_caution:1.27"
+            ]
+          ],
+          "primary_reason": [
+            "lidar_front_caution:1.28",
+            "lidar_front_caution:1.27"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792924742.255049,
+        "differences": {
+          "reasons": [
+            [
+              "lidar_front_caution:1.41"
+            ],
+            [
+              "lidar_front_caution:1.39"
+            ]
+          ],
+          "primary_reason": [
+            "lidar_front_caution:1.41",
+            "lidar_front_caution:1.39"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792924742.367487,
+        "differences": {
+          "reasons": [
+            [
+              "lidar_front_caution:1.39"
+            ],
+            [
+              "lidar_front_caution:1.38"
+            ]
+          ],
+          "primary_reason": [
+            "lidar_front_caution:1.39",
+            "lidar_front_caution:1.38"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792924759.351855,
+        "differences": {
+          "reasons": [
+            [
+              "lidar_front_caution:0.99"
+            ],
+            [
+              "lidar_front_caution:1.06"
+            ]
+          ],
+          "primary_reason": [
+            "lidar_front_caution:0.99",
+            "lidar_front_caution:1.06"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792924760.8532078,
+        "differences": {
+          "reasons": [
+            [
+              "lidar_front_caution:0.59"
+            ],
+            [
+              "lidar_front_caution:0.57"
+            ]
+          ],
+          "primary_reason": [
+            "lidar_front_caution:0.59",
+            "lidar_front_caution:0.57"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792924766.4569025,
+        "differences": {
+          "state": [
+            "CLEAR",
+            "CAUTION"
+          ],
+          "hazard_type": [
+            "none",
+            "geometric"
+          ],
+          "reasons": [
+            [],
+            [
+              "lidar_rear_caution:1.14"
+            ]
+          ],
+          "primary_reason": [
+            "clear",
+            "lidar_rear_caution:1.14"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792924767.0504196,
+        "differences": {
+          "state": [
+            "CLEAR",
+            "CAUTION"
+          ],
+          "hazard_type": [
+            "none",
+            "geometric"
+          ],
+          "reasons": [
+            [],
+            [
+              "lidar_rear_caution:1.19"
+            ]
+          ],
+          "primary_reason": [
+            "clear",
+            "lidar_rear_caution:1.19"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792924781.952599,
+        "differences": {
+          "reasons": [
+            [
+              "lidar_front_caution:1.05",
+              "camera_level_warn"
+            ],
+            [
+              "lidar_front_caution:1.06",
+              "camera_level_warn"
+            ]
+          ],
+          "primary_reason": [
+            "lidar_front_caution:1.05",
+            "lidar_front_caution:1.06"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792924784.2505262,
+        "differences": {
+          "reasons": [
+            [
+              "lidar_front_caution:1.44"
+            ],
+            [
+              "lidar_front_caution:1.36"
+            ]
+          ],
+          "primary_reason": [
+            "lidar_front_caution:1.44",
+            "lidar_front_caution:1.36"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792924784.3496864,
+        "differences": {
+          "state": [
+            "CLEAR",
+            "CAUTION"
+          ],
+          "hazard_type": [
+            "none",
+            "geometric"
+          ],
+          "reasons": [
+            [],
+            [
+              "lidar_front_caution:1.44"
+            ]
+          ],
+          "primary_reason": [
+            "clear",
+            "lidar_front_caution:1.44"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792924787.6514916,
+        "differences": {
+          "reasons": [
+            [
+              "tilt_caution:10.8"
+            ],
+            [
+              "tilt_caution:11.2"
+            ]
+          ],
+          "primary_reason": [
+            "tilt_caution:10.8",
+            "tilt_caution:11.2"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792924787.750798,
+        "differences": {
+          "reasons": [
+            [
+              "tilt_caution:11.2"
+            ],
+            [
+              "tilt_caution:11.1"
+            ]
+          ],
+          "primary_reason": [
+            "tilt_caution:11.2",
+            "tilt_caution:11.1"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792924787.8500493,
+        "differences": {
+          "reasons": [
+            [
+              "tilt_caution:11.1"
+            ],
+            [
+              "tilt_caution:10.8"
+            ]
+          ],
+          "primary_reason": [
+            "tilt_caution:11.1",
+            "tilt_caution:10.8"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792924787.9567566,
+        "differences": {
+          "reasons": [
+            [
+              "tilt_caution:10.8"
+            ],
+            [
+              "tilt_caution:10.5"
+            ]
+          ],
+          "primary_reason": [
+            "tilt_caution:10.8",
+            "tilt_caution:10.5"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792924788.2596612,
+        "differences": {
+          "state": [
+            "CLEAR",
+            "CAUTION"
+          ],
+          "hazard_type": [
+            "none",
+            "stability"
+          ],
+          "reasons": [
+            [],
+            [
+              "tilt_caution:10.1"
+            ]
+          ],
+          "primary_reason": [
+            "clear",
+            "tilt_caution:10.1"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792924790.6501236,
+        "differences": {
+          "reasons": [
+            [
+              "lidar_front_caution:1.50"
+            ],
+            [
+              "lidar_front_caution:1.48"
+            ]
+          ],
+          "primary_reason": [
+            "lidar_front_caution:1.50",
+            "lidar_front_caution:1.48"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792924792.2514422,
+        "differences": {
+          "reasons": [
+            [
+              "lidar_front_caution:1.33"
+            ],
+            [
+              "lidar_front_caution:1.34"
+            ]
+          ],
+          "primary_reason": [
+            "lidar_front_caution:1.33",
+            "lidar_front_caution:1.34"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792924793.2502756,
+        "differences": {
+          "reasons": [
+            [
+              "lidar_front_caution:1.36"
+            ],
+            [
+              "lidar_front_caution:1.42"
+            ]
+          ],
+          "primary_reason": [
+            "lidar_front_caution:1.36",
+            "lidar_front_caution:1.42"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792924793.5514672,
+        "differences": {
+          "reasons": [
+            [
+              "lidar_front_caution:1.43"
+            ],
+            [
+              "lidar_front_caution:1.31"
+            ]
+          ],
+          "primary_reason": [
+            "lidar_front_caution:1.43",
+            "lidar_front_caution:1.31"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792924798.4501202,
+        "differences": {
+          "reasons": [
+            [
+              "lidar_front_caution:1.30"
+            ],
+            [
+              "lidar_front_caution:1.33"
+            ]
+          ],
+          "primary_reason": [
+            "lidar_front_caution:1.30",
+            "lidar_front_caution:1.33"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792924798.558689,
+        "differences": {
+          "reasons": [
+            [
+              "lidar_front_caution:1.31"
+            ],
+            [
+              "lidar_front_caution:1.30"
+            ]
+          ],
+          "primary_reason": [
+            "lidar_front_caution:1.31",
+            "lidar_front_caution:1.30"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792924799.053678,
+        "differences": {
+          "reasons": [
+            [
+              "lidar_front_caution:1.34"
+            ],
+            [
+              "lidar_front_caution:1.33"
+            ]
+          ],
+          "primary_reason": [
+            "lidar_front_caution:1.34",
+            "lidar_front_caution:1.33"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792924800.0525272,
+        "differences": {
+          "reasons": [
+            [
+              "lidar_front_caution:1.36"
+            ],
+            [
+              "lidar_front_caution:1.48"
+            ]
+          ],
+          "primary_reason": [
+            "lidar_front_caution:1.36",
+            "lidar_front_caution:1.48"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792924800.5524116,
+        "differences": {
+          "reasons": [
+            [
+              "lidar_front_caution:1.36"
+            ],
+            [
+              "lidar_front_caution:1.37"
+            ]
+          ],
+          "primary_reason": [
+            "lidar_front_caution:1.36",
+            "lidar_front_caution:1.37"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792924801.0570853,
+        "differences": {
+          "reasons": [
+            [
+              "lidar_front_caution:1.37"
+            ],
+            [
+              "lidar_front_caution:1.38"
+            ]
+          ],
+          "primary_reason": [
+            "lidar_front_caution:1.37",
+            "lidar_front_caution:1.38"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792924801.6564958,
+        "differences": {
+          "reasons": [
+            [
+              "lidar_front_caution:1.39"
+            ],
+            [
+              "lidar_front_caution:1.42"
+            ]
+          ],
+          "primary_reason": [
+            "lidar_front_caution:1.39",
+            "lidar_front_caution:1.42"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792924801.9540606,
+        "differences": {
+          "reasons": [
+            [
+              "lidar_front_caution:1.39"
+            ],
+            [
+              "lidar_front_caution:1.40"
+            ]
+          ],
+          "primary_reason": [
+            "lidar_front_caution:1.39",
+            "lidar_front_caution:1.40"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792924802.55022,
+        "differences": {
+          "state": [
+            "CAUTION",
+            "CLEAR"
+          ],
+          "hazard_type": [
+            "geometric",
+            "none"
+          ],
+          "reasons": [
+            [
+              "lidar_front_caution:1.41"
+            ],
+            []
+          ],
+          "primary_reason": [
+            "lidar_front_caution:1.41",
+            "clear"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792924803.4556859,
+        "differences": {
+          "reasons": [
+            [
+              "lidar_front_caution:1.44"
+            ],
+            [
+              "lidar_front_caution:1.42"
+            ]
+          ],
+          "primary_reason": [
+            "lidar_front_caution:1.44",
+            "lidar_front_caution:1.42"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792924803.6526797,
+        "differences": {
+          "reasons": [
+            [
+              "lidar_front_caution:1.41"
+            ],
+            [
+              "lidar_front_caution:1.42"
+            ]
+          ],
+          "primary_reason": [
+            "lidar_front_caution:1.41",
+            "lidar_front_caution:1.42"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792924807.059927,
+        "differences": {
+          "reasons": [
+            [
+              "lidar_front_caution:1.46"
+            ],
+            [
+              "lidar_front_caution:1.43"
+            ]
+          ],
+          "primary_reason": [
+            "lidar_front_caution:1.46",
+            "lidar_front_caution:1.43"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792924807.8498988,
+        "differences": {
+          "state": [
+            "CLEAR",
+            "CAUTION"
+          ],
+          "hazard_type": [
+            "none",
+            "geometric"
+          ],
+          "reasons": [
+            [],
+            [
+              "lidar_front_caution:1.47"
+            ]
+          ],
+          "primary_reason": [
+            "clear",
+            "lidar_front_caution:1.47"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792924810.55966,
+        "differences": {
+          "reasons": [
+            [
+              "lidar_front_caution:1.41"
+            ],
+            [
+              "lidar_front_caution:1.50"
+            ]
+          ],
+          "primary_reason": [
+            "lidar_front_caution:1.41",
+            "lidar_front_caution:1.50"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792924811.0503092,
+        "differences": {
+          "state": [
+            "CAUTION",
+            "CLEAR"
+          ],
+          "hazard_type": [
+            "geometric",
+            "none"
+          ],
+          "reasons": [
+            [
+              "lidar_front_caution:1.45"
+            ],
+            []
+          ],
+          "primary_reason": [
+            "lidar_front_caution:1.45",
+            "clear"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792924811.5512667,
+        "differences": {
+          "reasons": [
+            [
+              "lidar_front_caution:1.42"
+            ],
+            [
+              "lidar_front_caution:1.43"
+            ]
+          ],
+          "primary_reason": [
+            "lidar_front_caution:1.42",
+            "lidar_front_caution:1.43"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792924815.4570436,
+        "differences": {
+          "reasons": [
+            [
+              "lidar_front_caution:1.46",
+              "camera_level_warn"
+            ],
+            [
+              "lidar_front_caution:1.47",
+              "camera_level_warn"
+            ]
+          ],
+          "primary_reason": [
+            "lidar_front_caution:1.46",
+            "lidar_front_caution:1.47"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792924816.5507064,
+        "differences": {
+          "reasons": [
+            [
+              "lidar_front_caution:1.42"
+            ],
+            [
+              "lidar_front_caution:1.39"
+            ]
+          ],
+          "primary_reason": [
+            "lidar_front_caution:1.42",
+            "lidar_front_caution:1.39"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792924816.9636781,
+        "differences": {
+          "reasons": [
+            [
+              "lidar_front_caution:1.40"
+            ],
+            [
+              "lidar_front_caution:1.40",
+              "camera_level_warn"
+            ]
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792924817.7512066,
+        "differences": {
+          "reasons": [
+            [
+              "lidar_front_caution:1.38"
+            ],
+            [
+              "lidar_front_caution:1.39"
+            ]
+          ],
+          "primary_reason": [
+            "lidar_front_caution:1.38",
+            "lidar_front_caution:1.39"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792924817.8518438,
+        "differences": {
+          "reasons": [
+            [
+              "lidar_front_caution:1.39",
+              "camera_level_warn"
+            ],
+            [
+              "lidar_front_caution:1.42",
+              "camera_level_warn"
+            ]
+          ],
+          "primary_reason": [
+            "lidar_front_caution:1.39",
+            "lidar_front_caution:1.42"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792924818.751567,
+        "differences": {
+          "reasons": [
+            [
+              "lidar_front_caution:1.41",
+              "camera_level_warn"
+            ],
+            [
+              "lidar_front_caution:1.42",
+              "camera_level_warn"
+            ]
+          ],
+          "primary_reason": [
+            "lidar_front_caution:1.41",
+            "lidar_front_caution:1.42"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792924819.050572,
+        "differences": {
+          "reasons": [
+            [
+              "lidar_front_caution:1.41",
+              "camera_level_warn"
+            ],
+            [
+              "lidar_front_caution:1.38",
+              "camera_level_warn"
+            ]
+          ],
+          "primary_reason": [
+            "lidar_front_caution:1.41",
+            "lidar_front_caution:1.38"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792924821.9517684,
+        "differences": {
+          "reasons": [
+            [
+              "lidar_front_caution:1.33"
+            ],
+            [
+              "lidar_front_caution:1.30"
+            ]
+          ],
+          "primary_reason": [
+            "lidar_front_caution:1.33",
+            "lidar_front_caution:1.30"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792924822.6554554,
+        "differences": {
+          "reasons": [
+            [
+              "lidar_front_caution:1.31"
+            ],
+            [
+              "lidar_front_caution:1.38"
+            ]
+          ],
+          "primary_reason": [
+            "lidar_front_caution:1.31",
+            "lidar_front_caution:1.38"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792924835.9501462,
+        "differences": {
+          "reasons": [
+            [
+              "lidar_front_caution:1.39",
+              "camera_level_warn"
+            ],
+            [
+              "lidar_front_caution:1.42",
+              "camera_level_warn"
+            ]
+          ],
+          "primary_reason": [
+            "lidar_front_caution:1.39",
+            "lidar_front_caution:1.42"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792924836.3555057,
+        "differences": {
+          "reasons": [
+            [
+              "lidar_front_caution:1.30",
+              "camera_level_warn"
+            ],
+            [
+              "lidar_front_caution:1.26",
+              "camera_level_warn"
+            ]
+          ],
+          "primary_reason": [
+            "lidar_front_caution:1.30",
+            "lidar_front_caution:1.26"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792924836.5498788,
+        "differences": {
+          "reasons": [
+            [
+              "lidar_front_caution:1.26",
+              "camera_level_warn"
+            ],
+            [
+              "lidar_front_caution:1.21",
+              "camera_level_warn"
+            ]
+          ],
+          "primary_reason": [
+            "lidar_front_caution:1.26",
+            "lidar_front_caution:1.21"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792924837.9518037,
+        "differences": {
+          "reasons": [
+            [
+              "lidar_front_caution:0.87"
+            ],
+            [
+              "lidar_front_caution:0.91"
+            ]
+          ],
+          "primary_reason": [
+            "lidar_front_caution:0.87",
+            "lidar_front_caution:0.91"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792924838.050178,
+        "differences": {
+          "reasons": [
+            [
+              "lidar_front_caution:0.91"
+            ],
+            [
+              "lidar_front_caution:0.86"
+            ]
+          ],
+          "primary_reason": [
+            "lidar_front_caution:0.91",
+            "lidar_front_caution:0.86"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792924838.750248,
+        "differences": {
+          "reasons": [
+            [
+              "lidar_front_caution:0.83",
+              "lidar_side_caution:0.79"
+            ],
+            [
+              "lidar_front_caution:0.80",
+              "lidar_side_caution:0.87"
+            ]
+          ],
+          "primary_reason": [
+            "lidar_front_caution:0.83",
+            "lidar_front_caution:0.80"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792924838.8504143,
+        "differences": {
+          "reasons": [
+            [
+              "lidar_front_caution:0.83",
+              "lidar_side_caution:0.78"
+            ],
+            [
+              "lidar_front_caution:0.83",
+              "lidar_side_caution:0.79"
+            ]
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792924839.549981,
+        "differences": {
+          "reasons": [
+            [
+              "lidar_front_caution:0.79",
+              "lidar_side_caution:0.81"
+            ],
+            [
+              "lidar_front_caution:0.78",
+              "lidar_side_caution:0.81"
+            ]
+          ],
+          "primary_reason": [
+            "lidar_front_caution:0.79",
+            "lidar_front_caution:0.78"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792924840.3497655,
+        "differences": {
+          "reasons": [
+            [
+              "lidar_front_caution:0.78",
+              "lidar_side_caution:0.75",
+              "lidar_rear_caution:1.04"
+            ],
+            [
+              "lidar_front_caution:0.75",
+              "lidar_side_caution:0.82",
+              "lidar_rear_caution:1.12"
+            ]
+          ],
+          "primary_reason": [
+            "lidar_front_caution:0.78",
+            "lidar_front_caution:0.75"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792924841.8497925,
+        "differences": {
+          "reasons": [
+            [
+              "lidar_front_caution:0.95",
+              "lidar_side_caution:0.76",
+              "lidar_rear_caution:1.14"
+            ],
+            [
+              "lidar_front_caution:0.94",
+              "lidar_side_caution:0.75",
+              "lidar_rear_caution:1.14"
+            ]
+          ],
+          "primary_reason": [
+            "lidar_front_caution:0.95",
+            "lidar_front_caution:0.94"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792924843.4500573,
+        "differences": {
+          "reasons": [
+            [
+              "lidar_front_caution:0.94",
+              "lidar_side_caution:0.77",
+              "lidar_rear_caution:1.13"
+            ],
+            [
+              "lidar_front_caution:0.94",
+              "lidar_side_caution:0.76",
+              "lidar_rear_caution:1.14"
+            ]
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792924843.6503062,
+        "differences": {
+          "reasons": [
+            [
+              "lidar_front_caution:0.95",
+              "lidar_side_caution:0.75",
+              "lidar_rear_caution:1.15"
+            ],
+            [
+              "lidar_front_caution:0.94",
+              "lidar_side_caution:0.75",
+              "lidar_rear_caution:1.13"
+            ]
+          ],
+          "primary_reason": [
+            "lidar_front_caution:0.95",
+            "lidar_front_caution:0.94"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792924843.9505148,
+        "differences": {
+          "reasons": [
+            [
+              "lidar_front_caution:0.78",
+              "lidar_side_caution:0.77"
+            ],
+            [
+              "lidar_front_caution:0.84",
+              "lidar_side_caution:0.76"
+            ]
+          ],
+          "primary_reason": [
+            "lidar_front_caution:0.78",
+            "lidar_front_caution:0.84"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792924848.7518146,
+        "differences": {
+          "reasons": [
+            [
+              "lidar_front_caution:0.79"
+            ],
+            [
+              "lidar_front_caution:0.80",
+              "lidar_side_caution:1.00"
+            ]
+          ],
+          "primary_reason": [
+            "lidar_front_caution:0.79",
+            "lidar_front_caution:0.80"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792924850.0506663,
+        "differences": {
+          "reasons": [
+            [
+              "lidar_front_caution:0.81"
+            ],
+            [
+              "lidar_front_caution:0.82"
+            ]
+          ],
+          "primary_reason": [
+            "lidar_front_caution:0.81",
+            "lidar_front_caution:0.82"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792924850.4555495,
+        "differences": {
+          "reasons": [
+            [
+              "lidar_front_caution:0.79"
+            ],
+            [
+              "lidar_front_caution:0.80"
+            ]
+          ],
+          "primary_reason": [
+            "lidar_front_caution:0.79",
+            "lidar_front_caution:0.80"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792924851.6509464,
+        "differences": {
+          "reasons": [
+            [
+              "lidar_front_caution:0.81"
+            ],
+            [
+              "lidar_front_caution:0.83"
+            ]
+          ],
+          "primary_reason": [
+            "lidar_front_caution:0.81",
+            "lidar_front_caution:0.83"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792924852.2511365,
+        "differences": {
+          "reasons": [
+            [
+              "lidar_front_caution:0.79"
+            ],
+            [
+              "lidar_front_caution:0.80"
+            ]
+          ],
+          "primary_reason": [
+            "lidar_front_caution:0.79",
+            "lidar_front_caution:0.80"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792924852.7547128,
+        "differences": {
+          "reasons": [
+            [
+              "lidar_front_caution:0.77"
+            ],
+            [
+              "lidar_front_caution:0.76"
+            ]
+          ],
+          "primary_reason": [
+            "lidar_front_caution:0.77",
+            "lidar_front_caution:0.76"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792924853.0578344,
+        "differences": {
+          "reasons": [
+            [
+              "lidar_front_caution:0.77"
+            ],
+            [
+              "lidar_front_caution:0.76"
+            ]
+          ],
+          "primary_reason": [
+            "lidar_front_caution:0.77",
+            "lidar_front_caution:0.76"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792924854.3554032,
+        "differences": {
+          "reasons": [
+            [
+              "lidar_front_caution:0.75"
+            ],
+            [
+              "lidar_front_caution:0.74"
+            ]
+          ],
+          "primary_reason": [
+            "lidar_front_caution:0.75",
+            "lidar_front_caution:0.74"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792924858.555378,
+        "differences": {
+          "hazard_type": [
+            "geometric",
+            "stability"
+          ],
+          "reasons": [
+            [
+              "lidar_front_caution:0.54",
+              "lidar_side_caution:0.71"
+            ],
+            [
+              "tilt_caution:10.3",
+              "lidar_front_caution:0.54",
+              "lidar_side_caution:0.71"
+            ]
+          ],
+          "primary_reason": [
+            "lidar_front_caution:0.54",
+            "tilt_caution:10.3"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792924858.6557326,
+        "differences": {
+          "reasons": [
+            [
+              "tilt_caution:10.3",
+              "lidar_front_caution:0.52",
+              "lidar_side_caution:0.68"
+            ],
+            [
+              "tilt_caution:10.2",
+              "lidar_front_caution:0.52",
+              "lidar_side_caution:0.68"
+            ]
+          ],
+          "primary_reason": [
+            "tilt_caution:10.3",
+            "tilt_caution:10.2"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792924858.750039,
+        "differences": {
+          "reasons": [
+            [
+              "tilt_caution:10.2",
+              "lidar_front_caution:0.49",
+              "lidar_side_caution:0.68"
+            ],
+            [
+              "tilt_caution:10.2",
+              "lidar_front_caution:0.52",
+              "lidar_side_caution:0.68"
+            ]
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792924858.952441,
+        "differences": {
+          "reasons": [
+            [
+              "tilt_caution:10.3",
+              "lidar_front_caution:0.51",
+              "lidar_side_caution:0.66"
+            ],
+            [
+              "tilt_caution:10.3",
+              "lidar_front_caution:0.46",
+              "lidar_side_caution:0.65"
+            ]
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792924859.0555499,
+        "differences": {
+          "hazard_type": [
+            "stability",
+            "geometric"
+          ],
+          "reasons": [
+            [
+              "tilt_caution:10.3",
+              "lidar_front_caution:0.46",
+              "lidar_side_caution:0.65"
+            ],
+            [
+              "lidar_front_caution:0.46",
+              "lidar_side_caution:0.56"
+            ]
+          ],
+          "primary_reason": [
+            "tilt_caution:10.3",
+            "lidar_front_caution:0.46"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792924859.550051,
+        "differences": {
+          "reasons": [
+            [
+              "lidar_front_caution:0.42",
+              "lidar_side_caution:0.54"
+            ],
+            [
+              "lidar_front_caution:0.40",
+              "lidar_side_caution:0.54",
+              "lidar_rear_caution:0.83"
+            ]
+          ],
+          "primary_reason": [
+            "lidar_front_caution:0.42",
+            "lidar_front_caution:0.40"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792924861.0516288,
+        "differences": {
+          "reasons": [
+            [
+              "lidar_front_caution:0.78",
+              "lidar_side_caution:0.48",
+              "lidar_rear_caution:0.48"
+            ],
+            [
+              "lidar_front_caution:1.14",
+              "lidar_side_caution:0.49",
+              "lidar_rear_caution:0.51"
+            ]
+          ],
+          "primary_reason": [
+            "lidar_front_caution:0.78",
+            "lidar_front_caution:1.14"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792924861.3518517,
+        "differences": {
+          "reasons": [
+            [
+              "lidar_side_caution:0.49",
+              "lidar_rear_caution:0.52"
+            ],
+            [
+              "lidar_side_caution:0.50",
+              "lidar_rear_caution:0.53"
+            ]
+          ],
+          "primary_reason": [
+            "lidar_side_caution:0.49",
+            "lidar_side_caution:0.50"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792924861.550169,
+        "differences": {
+          "reasons": [
+            [
+              "lidar_side_caution:0.51",
+              "lidar_rear_caution:0.56"
+            ],
+            [
+              "lidar_side_caution:0.53",
+              "lidar_rear_caution:0.58"
+            ]
+          ],
+          "primary_reason": [
+            "lidar_side_caution:0.51",
+            "lidar_side_caution:0.53"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792924864.250183,
+        "differences": {
+          "reasons": [
+            [
+              "lidar_rear_caution:1.07"
+            ],
+            [
+              "lidar_rear_caution:1.09"
+            ]
+          ],
+          "primary_reason": [
+            "lidar_rear_caution:1.07",
+            "lidar_rear_caution:1.09"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792924864.9633412,
+        "differences": {
+          "state": [
+            "CAUTION",
+            "CLEAR"
+          ],
+          "hazard_type": [
+            "geometric",
+            "none"
+          ],
+          "reasons": [
+            [
+              "lidar_rear_caution:1.17"
+            ],
+            []
+          ],
+          "primary_reason": [
+            "lidar_rear_caution:1.17",
+            "clear"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792924866.7595363,
+        "differences": {
+          "reasons": [
+            [
+              "tilt_caution:11.2"
+            ],
+            [
+              "tilt_caution:10.8"
+            ]
+          ],
+          "primary_reason": [
+            "tilt_caution:11.2",
+            "tilt_caution:10.8"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792924867.0637178,
+        "differences": {
+          "reasons": [
+            [
+              "tilt_caution:10.6"
+            ],
+            [
+              "tilt_caution:10.7"
+            ]
+          ],
+          "primary_reason": [
+            "tilt_caution:10.6",
+            "tilt_caution:10.7"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792924867.2538629,
+        "differences": {
+          "reasons": [
+            [
+              "tilt_caution:10.9"
+            ],
+            [
+              "tilt_caution:11.1"
+            ]
+          ],
+          "primary_reason": [
+            "tilt_caution:10.9",
+            "tilt_caution:11.1"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792924868.6499748,
+        "differences": {
+          "reasons": [
+            [
+              "tilt_caution:10.4",
+              "lidar_front_caution:1.41",
+              "curb_step_caution:cam=1.54,lidar=1.94,side=right",
+              "curb_step_caution:cam=1.74,lidar=1.94,side=right",
+              "camera_level_warn"
+            ],
+            [
+              "tilt_caution:10.4",
+              "lidar_front_caution:1.38",
+              "curb_step_caution:cam=1.54,lidar=1.90,side=right",
+              "curb_step_caution:cam=1.74,lidar=1.90,side=right",
+              "camera_level_warn"
+            ]
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792924869.2518437,
+        "differences": {
+          "reasons": [
+            [
+              "lidar_front_caution:1.36"
+            ],
+            [
+              "lidar_front_caution:1.37"
+            ]
+          ],
+          "primary_reason": [
+            "lidar_front_caution:1.36",
+            "lidar_front_caution:1.37"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792924869.355772,
+        "differences": {
+          "reasons": [
+            [
+              "lidar_front_caution:1.37"
+            ],
+            [
+              "lidar_front_caution:1.36"
+            ]
+          ],
+          "primary_reason": [
+            "lidar_front_caution:1.37",
+            "lidar_front_caution:1.36"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792924869.4510114,
+        "differences": {
+          "reasons": [
+            [
+              "lidar_front_caution:1.36"
+            ],
+            [
+              "lidar_front_caution:1.35"
+            ]
+          ],
+          "primary_reason": [
+            "lidar_front_caution:1.36",
+            "lidar_front_caution:1.35"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792924869.5520947,
+        "differences": {
+          "reasons": [
+            [
+              "lidar_front_caution:1.35"
+            ],
+            [
+              "lidar_front_caution:1.36"
+            ]
+          ],
+          "primary_reason": [
+            "lidar_front_caution:1.35",
+            "lidar_front_caution:1.36"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792924871.1531076,
+        "differences": {
+          "reasons": [
+            [
+              "lidar_front_caution:1.08"
+            ],
+            [
+              "lidar_front_caution:1.07"
+            ]
+          ],
+          "primary_reason": [
+            "lidar_front_caution:1.08",
+            "lidar_front_caution:1.07"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792924873.052743,
+        "differences": {
+          "reasons": [
+            [
+              "lidar_rear_caution:1.16"
+            ],
+            [
+              "lidar_rear_caution:1.18"
+            ]
+          ],
+          "primary_reason": [
+            "lidar_rear_caution:1.16",
+            "lidar_rear_caution:1.18"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792924873.5500736,
+        "differences": {
+          "state": [
+            "CAUTION",
+            "CLEAR"
+          ],
+          "hazard_type": [
+            "geometric",
+            "none"
+          ],
+          "reasons": [
+            [
+              "lidar_front_caution:1.00"
+            ],
+            []
+          ],
+          "primary_reason": [
+            "lidar_front_caution:1.00",
+            "clear"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792924877.049796,
+        "differences": {
+          "reasons": [
+            [
+              "lidar_front_caution:1.19"
+            ],
+            [
+              "lidar_front_caution:1.20"
+            ]
+          ],
+          "primary_reason": [
+            "lidar_front_caution:1.19",
+            "lidar_front_caution:1.20"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792924877.4516814,
+        "differences": {
+          "reasons": [
+            [
+              "lidar_front_caution:1.17"
+            ],
+            [
+              "lidar_front_caution:1.16"
+            ]
+          ],
+          "primary_reason": [
+            "lidar_front_caution:1.17",
+            "lidar_front_caution:1.16"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792924880.3499544,
+        "differences": {
+          "reasons": [
+            [
+              "lidar_front_caution:1.23",
+              "camera_level_warn"
+            ],
+            [
+              "lidar_front_caution:1.21",
+              "camera_level_warn"
+            ]
+          ],
+          "primary_reason": [
+            "lidar_front_caution:1.23",
+            "lidar_front_caution:1.21"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792924880.6501887,
+        "differences": {
+          "reasons": [
+            [
+              "lidar_front_caution:1.28",
+              "camera_level_warn"
+            ],
+            [
+              "lidar_front_caution:1.24",
+              "camera_level_warn"
+            ]
+          ],
+          "primary_reason": [
+            "lidar_front_caution:1.28",
+            "lidar_front_caution:1.24"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792924883.4504406,
+        "differences": {
+          "reasons": [
+            [
+              "lidar_front_caution:1.31"
+            ],
+            [
+              "lidar_front_caution:1.27"
+            ]
+          ],
+          "primary_reason": [
+            "lidar_front_caution:1.31",
+            "lidar_front_caution:1.27"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792924884.9497318,
+        "differences": {
+          "reasons": [
+            [
+              "lidar_front_caution:1.16"
+            ],
+            [
+              "lidar_front_caution:1.13"
+            ]
+          ],
+          "primary_reason": [
+            "lidar_front_caution:1.16",
+            "lidar_front_caution:1.13"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792924885.455504,
+        "differences": {
+          "reasons": [
+            [
+              "lidar_front_caution:1.17"
+            ],
+            [
+              "lidar_front_caution:1.16"
+            ]
+          ],
+          "primary_reason": [
+            "lidar_front_caution:1.17",
+            "lidar_front_caution:1.16"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792924885.9499567,
+        "differences": {
+          "reasons": [
+            [
+              "lidar_front_caution:1.23"
+            ],
+            [
+              "lidar_front_caution:1.29"
+            ]
+          ],
+          "primary_reason": [
+            "lidar_front_caution:1.23",
+            "lidar_front_caution:1.29"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792924886.1529155,
+        "differences": {
+          "state": [
+            "CAUTION",
+            "CLEAR"
+          ],
+          "hazard_type": [
+            "geometric",
+            "none"
+          ],
+          "reasons": [
+            [
+              "lidar_front_caution:1.39"
+            ],
+            []
+          ],
+          "primary_reason": [
+            "lidar_front_caution:1.39",
+            "clear"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792924888.952154,
+        "differences": {
+          "state": [
+            "CLEAR",
+            "CAUTION"
+          ],
+          "hazard_type": [
+            "none",
+            "geometric"
+          ],
+          "reasons": [
+            [],
+            [
+              "lidar_front_caution:1.05"
+            ]
+          ],
+          "primary_reason": [
+            "clear",
+            "lidar_front_caution:1.05"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792924889.3502793,
+        "differences": {
+          "hazard_type": [
+            "geometric",
+            "curb_step"
+          ],
+          "reasons": [
+            [
+              "lidar_front_caution:0.85",
+              "curb_step_caution:cam=2.00,lidar=2.09,side=center",
+              "camera_level_warn"
+            ],
+            [
+              "curb_step_caution:cam=2.00,lidar=2.04,side=center",
+              "camera_level_warn"
+            ]
+          ],
+          "primary_reason": [
+            "lidar_front_caution:0.85",
+            "curb_step_caution:cam=2.00,lidar=2.04,side=center"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792924890.1501434,
+        "differences": {
+          "hazard_type": [
+            "curb_step",
+            "geometric"
+          ],
+          "reasons": [
+            [
+              "curb_step_caution:cam=1.40,lidar=2.04,side=center",
+              "curb_step_caution:cam=1.64,lidar=2.04,side=center",
+              "curb_step_caution:cam=1.23,lidar=2.04,side=center"
+            ],
+            [
+              "lidar_front_caution:1.33",
+              "curb_step_caution:cam=1.40,lidar=2.02,side=center",
+              "curb_step_caution:cam=1.64,lidar=2.02,side=center",
+              "curb_step_caution:cam=1.23,lidar=2.02,side=center"
+            ]
+          ],
+          "primary_reason": [
+            "curb_step_caution:cam=1.40,lidar=2.04,side=center",
+            "lidar_front_caution:1.33"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792924890.6510599,
+        "differences": {
+          "reasons": [
+            [
+              "curb_step_caution:cam=1.34,lidar=2.00,side=center",
+              "curb_step_caution:cam=1.83,lidar=1.91,side=left"
+            ],
+            [
+              "curb_step_caution:cam=1.34,lidar=2.01,side=center",
+              "curb_step_caution:cam=1.83,lidar=1.52,side=left"
+            ]
+          ],
+          "primary_reason": [
+            "curb_step_caution:cam=1.34,lidar=2.00,side=center",
+            "curb_step_caution:cam=1.34,lidar=2.01,side=center"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792924890.9497702,
+        "differences": {
+          "hazard_type": [
+            "curb_step",
+            "geometric"
+          ],
+          "reasons": [
+            [
+              "curb_step_caution:cam=1.27,lidar=2.03,side=center"
+            ],
+            [
+              "lidar_front_caution:1.32",
+              "curb_step_caution:cam=1.27,lidar=2.05,side=center"
+            ]
+          ],
+          "primary_reason": [
+            "curb_step_caution:cam=1.27,lidar=2.03,side=center",
+            "lidar_front_caution:1.32"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792924891.2522306,
+        "differences": {
+          "reasons": [
+            [
+              "lidar_front_caution:1.29",
+              "curb_step_caution:cam=1.22,lidar=2.04,side=center"
+            ],
+            [
+              "lidar_front_caution:1.28",
+              "curb_step_caution:cam=1.22,lidar=2.05,side=center"
+            ]
+          ],
+          "primary_reason": [
+            "lidar_front_caution:1.29",
+            "lidar_front_caution:1.28"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792924891.349923,
+        "differences": {
+          "hazard_type": [
+            "curb_step",
+            "geometric"
+          ],
+          "reasons": [
+            [
+              "curb_step_caution:cam=1.22,lidar=2.04,side=center"
+            ],
+            [
+              "lidar_front_caution:1.28",
+              "curb_step_caution:cam=1.22,lidar=2.05,side=center"
+            ]
+          ],
+          "primary_reason": [
+            "curb_step_caution:cam=1.22,lidar=2.04,side=center",
+            "lidar_front_caution:1.28"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792924891.5516078,
+        "differences": {
+          "hazard_type": [
+            "curb_step",
+            "geometric"
+          ],
+          "reasons": [
+            [
+              "curb_step_caution:cam=1.22,lidar=2.03,side=center"
+            ],
+            [
+              "lidar_front_caution:1.17",
+              "curb_step_caution:cam=1.22,lidar=2.02,side=center"
+            ]
+          ],
+          "primary_reason": [
+            "curb_step_caution:cam=1.22,lidar=2.03,side=center",
+            "lidar_front_caution:1.17"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792924892.553556,
+        "differences": {
+          "state": [
+            "CLEAR",
+            "CAUTION"
+          ],
+          "hazard_type": [
+            "none",
+            "geometric"
+          ],
+          "reasons": [
+            [],
+            [
+              "lidar_front_caution:1.16"
+            ]
+          ],
+          "primary_reason": [
+            "clear",
+            "lidar_front_caution:1.16"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792924892.8499093,
+        "differences": {
+          "state": [
+            "CAUTION",
+            "CLEAR"
+          ],
+          "hazard_type": [
+            "geometric",
+            "none"
+          ],
+          "reasons": [
+            [
+              "lidar_front_caution:1.20"
+            ],
+            []
+          ],
+          "primary_reason": [
+            "lidar_front_caution:1.20",
+            "clear"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792924894.1509614,
+        "differences": {
+          "state": [
+            "CAUTION",
+            "CLEAR"
+          ],
+          "hazard_type": [
+            "geometric",
+            "none"
+          ],
+          "reasons": [
+            [
+              "lidar_front_caution:1.21"
+            ],
+            []
+          ],
+          "primary_reason": [
+            "lidar_front_caution:1.21",
+            "clear"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792924896.8716722,
+        "differences": {
+          "state": [
+            "CAUTION",
+            "CLEAR"
+          ],
+          "hazard_type": [
+            "geometric",
+            "none"
+          ],
+          "reasons": [
+            [
+              "lidar_front_caution:1.45"
+            ],
+            []
+          ],
+          "primary_reason": [
+            "lidar_front_caution:1.45",
+            "clear"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792924896.9587057,
+        "differences": {
+          "state": [
+            "CAUTION",
+            "CLEAR"
+          ],
+          "hazard_type": [
+            "stability",
+            "none"
+          ],
+          "reasons": [
+            [
+              "tilt_caution:10.8"
+            ],
+            []
+          ],
+          "primary_reason": [
+            "tilt_caution:10.8",
+            "clear"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792924905.5613704,
+        "differences": {
+          "reasons": [
+            [
+              "tilt_critical:15.6"
+            ],
+            [
+              "tilt_critical:15.8"
+            ]
+          ],
+          "primary_reason": [
+            "tilt_critical:15.6",
+            "tilt_critical:15.8"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792924905.6556387,
+        "differences": {
+          "reasons": [
+            [
+              "tilt_critical:15.8"
+            ],
+            [
+              "tilt_critical:15.9"
+            ]
+          ],
+          "primary_reason": [
+            "tilt_critical:15.8",
+            "tilt_critical:15.9"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792924906.068562,
+        "differences": {
+          "reasons": [
+            [
+              "tilt_caution:14.0",
+              "lidar_front_caution:1.50"
+            ],
+            [
+              "tilt_caution:11.0",
+              "lidar_front_caution:1.50"
+            ]
+          ],
+          "primary_reason": [
+            "tilt_caution:14.0",
+            "tilt_caution:11.0"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792924906.1637075,
+        "differences": {
+          "state": [
+            "CAUTION",
+            "CLEAR"
+          ],
+          "hazard_type": [
+            "stability",
+            "none"
+          ],
+          "reasons": [
+            [
+              "tilt_caution:11.0",
+              "lidar_front_caution:1.50"
+            ],
+            []
+          ],
+          "primary_reason": [
+            "tilt_caution:11.0",
+            "clear"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792924908.2545524,
+        "differences": {
+          "state": [
+            "CLEAR",
+            "CAUTION"
+          ],
+          "hazard_type": [
+            "none",
+            "geometric"
+          ],
+          "reasons": [
+            [],
+            [
+              "lidar_front_caution:1.18"
+            ]
+          ],
+          "primary_reason": [
+            "clear",
+            "lidar_front_caution:1.18"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792924909.5511885,
+        "differences": {
+          "state": [
+            "CAUTION",
+            "CLEAR"
+          ],
+          "hazard_type": [
+            "geometric",
+            "none"
+          ],
+          "reasons": [
+            [
+              "lidar_front_caution:0.75"
+            ],
+            []
+          ],
+          "primary_reason": [
+            "lidar_front_caution:0.75",
+            "clear"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792924913.050069,
+        "differences": {
+          "reasons": [
+            [
+              "tilt_caution:12.9",
+              "curb_step_caution:cam=1.32,lidar=2.10,side=right",
+              "curb_step_caution:cam=1.48,lidar=1.71,side=center",
+              "camera_level_warn"
+            ],
+            [
+              "tilt_caution:12.9",
+              "curb_step_caution:cam=1.32,lidar=2.01,side=right",
+              "curb_step_caution:cam=1.48,lidar=1.79,side=center",
+              "camera_level_warn"
+            ]
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792924914.1504204,
+        "differences": {
+          "state": [
+            "CLEAR",
+            "CAUTION"
+          ],
+          "hazard_type": [
+            "none",
+            "curb_step"
+          ],
+          "reasons": [
+            [],
+            [
+              "curb_step_caution:cam=1.59,lidar=1.70,side=right",
+              "curb_step_caution:cam=1.93,lidar=1.85,side=center",
+              "curb_step_caution:cam=1.26,lidar=1.70,side=right",
+              "camera_level_warn"
+            ]
+          ],
+          "primary_reason": [
+            "clear",
+            "curb_step_caution:cam=1.59,lidar=1.70,side=right"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792924914.554865,
+        "differences": {
+          "reasons": [
+            [
+              "curb_step_caution:cam=1.82,lidar=1.77,side=right"
+            ],
+            [
+              "curb_step_caution:cam=1.82,lidar=1.79,side=right"
+            ]
+          ],
+          "primary_reason": [
+            "curb_step_caution:cam=1.82,lidar=1.77,side=right",
+            "curb_step_caution:cam=1.82,lidar=1.79,side=right"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792924916.649722,
+        "differences": {
+          "state": [
+            "CAUTION",
+            "CLEAR"
+          ],
+          "hazard_type": [
+            "geometric",
+            "none"
+          ],
+          "reasons": [
+            [
+              "lidar_front_caution:0.58"
+            ],
+            []
+          ],
+          "primary_reason": [
+            "lidar_front_caution:0.58",
+            "clear"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792924917.451436,
+        "differences": {
+          "state": [
+            "CAUTION",
+            "CLEAR"
+          ],
+          "hazard_type": [
+            "geometric",
+            "none"
+          ],
+          "reasons": [
+            [
+              "lidar_side_caution:0.58"
+            ],
+            []
+          ],
+          "primary_reason": [
+            "lidar_side_caution:0.58",
+            "clear"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792924919.6504982,
+        "differences": {
+          "state": [
+            "CAUTION",
+            "CLEAR"
+          ],
+          "hazard_type": [
+            "geometric",
+            "none"
+          ],
+          "reasons": [
+            [
+              "lidar_front_caution:1.41"
+            ],
+            []
+          ],
+          "primary_reason": [
+            "lidar_front_caution:1.41",
+            "clear"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792924923.7505095,
+        "differences": {
+          "state": [
+            "CAUTION",
+            "CLEAR"
+          ],
+          "hazard_type": [
+            "geometric",
+            "none"
+          ],
+          "reasons": [
+            [
+              "lidar_front_caution:1.15"
+            ],
+            []
+          ],
+          "primary_reason": [
+            "lidar_front_caution:1.15",
+            "clear"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792924925.0506752,
+        "differences": {
+          "reasons": [
+            [
+              "lidar_front_caution:0.86"
+            ],
+            [
+              "lidar_front_caution:0.48"
+            ]
+          ],
+          "primary_reason": [
+            "lidar_front_caution:0.86",
+            "lidar_front_caution:0.48"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792924925.5544758,
+        "differences": {
+          "reasons": [
+            [
+              "lidar_front_caution:0.77",
+              "lidar_side_caution:0.44"
+            ],
+            [
+              "lidar_front_caution:0.52",
+              "lidar_side_caution:0.43"
+            ]
+          ],
+          "primary_reason": [
+            "lidar_front_caution:0.77",
+            "lidar_front_caution:0.52"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792924926.151892,
+        "differences": {
+          "reasons": [
+            [
+              "lidar_front_caution:0.51"
+            ],
+            [
+              "lidar_front_caution:0.50"
+            ]
+          ],
+          "primary_reason": [
+            "lidar_front_caution:0.51",
+            "lidar_front_caution:0.50"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792924927.6502953,
+        "differences": {
+          "reasons": [
+            [
+              "lidar_front_caution:1.04"
+            ],
+            [
+              "lidar_side_caution:0.59"
+            ]
+          ],
+          "primary_reason": [
+            "lidar_front_caution:1.04",
+            "lidar_side_caution:0.59"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792924927.8500268,
+        "differences": {
+          "reasons": [
+            [
+              "lidar_front_caution:1.43",
+              "lidar_side_caution:0.82"
+            ],
+            [
+              "lidar_front_caution:1.00"
+            ]
+          ],
+          "primary_reason": [
+            "lidar_front_caution:1.43",
+            "lidar_front_caution:1.00"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792924930.2537463,
+        "differences": {
+          "reasons": [
+            [
+              "lidar_front_caution:1.38"
+            ],
+            [
+              "lidar_front_caution:1.43"
+            ]
+          ],
+          "primary_reason": [
+            "lidar_front_caution:1.38",
+            "lidar_front_caution:1.43"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792924933.7501028,
+        "differences": {
+          "reasons": [
+            [
+              "lidar_rear_caution:1.19"
+            ],
+            [
+              "lidar_front_caution:0.70"
+            ]
+          ],
+          "primary_reason": [
+            "lidar_rear_caution:1.19",
+            "lidar_front_caution:0.70"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792924937.055559,
+        "differences": {
+          "reasons": [
+            [
+              "lidar_front_caution:1.43",
+              "lidar_side_caution:0.68"
+            ],
+            [
+              "lidar_front_caution:1.42",
+              "lidar_side_caution:0.71"
+            ]
+          ],
+          "primary_reason": [
+            "lidar_front_caution:1.43",
+            "lidar_front_caution:1.42"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792924938.0516248,
+        "differences": {
+          "reasons": [
+            [
+              "lidar_front_caution:0.72",
+              "lidar_side_caution:0.76"
+            ],
+            [
+              "lidar_front_caution:0.71",
+              "lidar_side_caution:0.76"
+            ]
+          ],
+          "primary_reason": [
+            "lidar_front_caution:0.72",
+            "lidar_front_caution:0.71"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792924938.5517325,
+        "differences": {
+          "reasons": [
+            [
+              "tilt_caution:10.0",
+              "lidar_front_caution:0.67",
+              "lidar_side_caution:0.81"
+            ],
+            [
+              "tilt_caution:10.0",
+              "lidar_front_caution:0.68",
+              "lidar_side_caution:0.83"
+            ]
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792924939.0524273,
+        "differences": {
+          "reasons": [
+            [
+              "lidar_front_caution:0.56"
+            ],
+            [
+              "lidar_front_caution:0.70",
+              "lidar_side_caution:0.68"
+            ]
+          ],
+          "primary_reason": [
+            "lidar_front_caution:0.56",
+            "lidar_front_caution:0.70"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792924939.8500254,
+        "differences": {
+          "reasons": [
+            [
+              "tilt_caution:10.1",
+              "lidar_front_caution:0.56",
+              "lidar_side_caution:0.65"
+            ],
+            [
+              "tilt_caution:10.1",
+              "lidar_front_caution:0.66",
+              "lidar_side_caution:0.85"
+            ]
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792924941.054877,
+        "differences": {
+          "reasons": [
+            [
+              "lidar_front_caution:0.66",
+              "lidar_side_caution:0.47",
+              "lidar_rear_caution:1.12"
+            ],
+            [
+              "lidar_front_caution:0.64",
+              "lidar_side_caution:0.61",
+              "lidar_rear_caution:1.16"
+            ]
+          ],
+          "primary_reason": [
+            "lidar_front_caution:0.66",
+            "lidar_front_caution:0.64"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792924941.150483,
+        "differences": {
+          "reasons": [
+            [
+              "lidar_front_caution:0.62",
+              "lidar_rear_caution:1.18"
+            ],
+            [
+              "lidar_front_caution:0.64",
+              "lidar_side_caution:0.61",
+              "lidar_rear_caution:1.16"
+            ]
+          ],
+          "primary_reason": [
+            "lidar_front_caution:0.62",
+            "lidar_front_caution:0.64"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792924941.2498348,
+        "differences": {
+          "reasons": [
+            [
+              "lidar_front_caution:0.61",
+              "lidar_side_caution:0.58",
+              "lidar_rear_caution:1.05"
+            ],
+            [
+              "lidar_front_caution:0.62",
+              "lidar_rear_caution:1.18"
+            ]
+          ],
+          "primary_reason": [
+            "lidar_front_caution:0.61",
+            "lidar_front_caution:0.62"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792924941.8498929,
+        "differences": {
+          "reasons": [
+            [
+              "lidar_front_caution:0.86",
+              "lidar_side_caution:0.41",
+              "lidar_rear_caution:0.70"
+            ],
+            [
+              "lidar_front_caution:0.50",
+              "lidar_side_caution:0.43"
+            ]
+          ],
+          "primary_reason": [
+            "lidar_front_caution:0.86",
+            "lidar_front_caution:0.50"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792924942.652125,
+        "differences": {
+          "reasons": [
+            [
+              "lidar_front_caution:0.63",
+              "lidar_rear_caution:0.77"
+            ],
+            [
+              "lidar_front_caution:0.95"
+            ]
+          ],
+          "primary_reason": [
+            "lidar_front_caution:0.63",
+            "lidar_front_caution:0.95"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792924942.9499702,
+        "differences": {
+          "state": [
+            "CRITICAL",
+            "CAUTION"
+          ],
+          "hazard_type": [
+            "person",
+            "geometric"
+          ],
+          "reasons": [
+            [
+              "person_critical:0.782"
+            ],
+            [
+              "lidar_front_caution:0.91"
+            ]
+          ],
+          "primary_reason": [
+            "person_critical:0.782",
+            "lidar_front_caution:0.91"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792924943.1502528,
+        "differences": {
+          "reasons": [
+            [
+              "lidar_front_caution:0.61"
+            ],
+            [
+              "lidar_front_caution:0.89"
+            ]
+          ],
+          "primary_reason": [
+            "lidar_front_caution:0.61",
+            "lidar_front_caution:0.89"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792924943.553724,
+        "differences": {
+          "reasons": [
+            [
+              "lidar_front_caution:0.89"
+            ],
+            [
+              "lidar_front_caution:0.91"
+            ]
+          ],
+          "primary_reason": [
+            "lidar_front_caution:0.89",
+            "lidar_front_caution:0.91"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792924947.3495295,
+        "differences": {
+          "reasons": [
+            [
+              "lidar_front_caution:0.93",
+              "lidar_rear_caution:1.01"
+            ],
+            [
+              "lidar_front_caution:1.01"
+            ]
+          ],
+          "primary_reason": [
+            "lidar_front_caution:0.93",
+            "lidar_front_caution:1.01"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792924947.550071,
+        "differences": {
+          "reasons": [
+            [
+              "lidar_front_caution:0.94"
+            ],
+            [
+              "lidar_front_caution:0.90"
+            ]
+          ],
+          "primary_reason": [
+            "lidar_front_caution:0.94",
+            "lidar_front_caution:0.90"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792924948.9515903,
+        "differences": {
+          "reasons": [
+            [
+              "lidar_front_caution:1.01",
+              "lidar_side_caution:0.43",
+              "lidar_rear_caution:1.15"
+            ],
+            [
+              "lidar_front_caution:1.01",
+              "lidar_side_caution:0.43",
+              "lidar_rear_caution:0.90"
+            ]
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792924949.1555932,
+        "differences": {
+          "reasons": [
+            [
+              "lidar_front_caution:1.00",
+              "lidar_side_caution:0.41",
+              "lidar_rear_caution:1.14"
+            ],
+            [
+              "lidar_front_caution:1.13",
+              "lidar_side_caution:0.40"
+            ]
+          ],
+          "primary_reason": [
+            "lidar_front_caution:1.00",
+            "lidar_front_caution:1.13"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792924949.6515024,
+        "differences": {
+          "reasons": [
+            [
+              "lidar_front_caution:1.15",
+              "lidar_side_caution:0.42",
+              "lidar_rear_caution:0.92"
+            ],
+            [
+              "lidar_front_caution:0.98",
+              "lidar_side_caution:0.43"
+            ]
+          ],
+          "primary_reason": [
+            "lidar_front_caution:1.15",
+            "lidar_front_caution:0.98"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792924950.5509017,
+        "differences": {
+          "reasons": [
+            [
+              "lidar_front_caution:0.43",
+              "lidar_side_caution:0.89"
+            ],
+            [
+              "lidar_front_caution:0.43",
+              "lidar_side_caution:0.90",
+              "lidar_rear_caution:1.04"
+            ]
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792924950.8506346,
+        "differences": {
+          "reasons": [
+            [
+              "lidar_front_caution:0.48",
+              "lidar_side_caution:0.59"
+            ],
+            [
+              "lidar_front_caution:0.46",
+              "lidar_side_caution:0.88"
+            ]
+          ],
+          "primary_reason": [
+            "lidar_front_caution:0.48",
+            "lidar_front_caution:0.46"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792924952.1499772,
+        "differences": {
+          "reasons": [
+            [
+              "lidar_front_caution:0.48",
+              "lidar_side_caution:0.49",
+              "lidar_rear_caution:1.02"
+            ],
+            [
+              "lidar_front_caution:1.13",
+              "lidar_side_caution:0.48",
+              "lidar_rear_caution:1.04"
+            ]
+          ],
+          "primary_reason": [
+            "lidar_front_caution:0.48",
+            "lidar_front_caution:1.13"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792924953.053031,
+        "differences": {
+          "reasons": [
+            [
+              "lidar_side_caution:0.57"
+            ],
+            [
+              "lidar_front_caution:0.71",
+              "lidar_side_caution:0.58"
+            ]
+          ],
+          "primary_reason": [
+            "lidar_side_caution:0.57",
+            "lidar_front_caution:0.71"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792924953.2685397,
+        "differences": {
+          "reasons": [
+            [
+              "lidar_front_caution:0.69",
+              "lidar_side_caution:0.62",
+              "lidar_rear_caution:1.14"
+            ],
+            [
+              "lidar_side_caution:0.60"
+            ]
+          ],
+          "primary_reason": [
+            "lidar_front_caution:0.69",
+            "lidar_side_caution:0.60"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792924954.5506048,
+        "differences": {
+          "reasons": [
+            [
+              "lidar_front_caution:0.64",
+              "lidar_side_caution:0.74",
+              "lidar_rear_caution:0.80"
+            ],
+            [
+              "lidar_front_caution:0.63"
+            ]
+          ],
+          "primary_reason": [
+            "lidar_front_caution:0.64",
+            "lidar_front_caution:0.63"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792924954.8514621,
+        "differences": {
+          "reasons": [
+            [
+              "lidar_front_caution:0.59",
+              "lidar_rear_caution:1.17"
+            ],
+            [
+              "lidar_front_caution:0.56",
+              "lidar_side_caution:0.75",
+              "lidar_rear_caution:1.18"
+            ]
+          ],
+          "primary_reason": [
+            "lidar_front_caution:0.59",
+            "lidar_front_caution:0.56"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792924955.6506464,
+        "differences": {
+          "reasons": [
+            [
+              "lidar_front_caution:0.67",
+              "lidar_side_caution:0.82",
+              "lidar_rear_caution:1.09"
+            ],
+            [
+              "lidar_front_caution:0.58",
+              "lidar_side_caution:0.80",
+              "lidar_rear_caution:1.18"
+            ]
+          ],
+          "primary_reason": [
+            "lidar_front_caution:0.67",
+            "lidar_front_caution:0.58"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792924956.159177,
+        "differences": {
+          "reasons": [
+            [
+              "lidar_front_caution:0.57",
+              "lidar_side_caution:0.83",
+              "lidar_rear_caution:0.84"
+            ],
+            [
+              "lidar_front_caution:0.58",
+              "lidar_rear_caution:0.83"
+            ]
+          ],
+          "primary_reason": [
+            "lidar_front_caution:0.57",
+            "lidar_front_caution:0.58"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792924956.6500592,
+        "differences": {
+          "reasons": [
+            [
+              "lidar_front_caution:0.56",
+              "lidar_side_caution:0.81",
+              "lidar_rear_caution:0.84"
+            ],
+            [
+              "lidar_front_caution:0.56",
+              "lidar_side_caution:0.81",
+              "lidar_rear_caution:0.89"
+            ]
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792924957.150343,
+        "differences": {
+          "reasons": [
+            [
+              "lidar_front_caution:0.57",
+              "lidar_side_caution:0.81",
+              "lidar_rear_caution:0.85"
+            ],
+            [
+              "lidar_front_caution:0.57",
+              "lidar_side_caution:0.80",
+              "lidar_rear_caution:0.92"
+            ]
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792924957.3560662,
+        "differences": {
+          "reasons": [
+            [
+              "lidar_front_caution:0.57",
+              "lidar_rear_caution:0.83"
+            ],
+            [
+              "lidar_front_caution:0.58",
+              "lidar_side_caution:0.80",
+              "lidar_rear_caution:0.83"
+            ]
+          ],
+          "primary_reason": [
+            "lidar_front_caution:0.57",
+            "lidar_front_caution:0.58"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792924959.1500788,
+        "differences": {
+          "reasons": [
+            [
+              "lidar_front_caution:0.61",
+              "lidar_rear_caution:0.83"
+            ],
+            [
+              "lidar_front_caution:0.60",
+              "lidar_side_caution:0.77"
+            ]
+          ],
+          "primary_reason": [
+            "lidar_front_caution:0.61",
+            "lidar_front_caution:0.60"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792924960.1525264,
+        "differences": {
+          "reasons": [
+            [
+              "lidar_front_caution:0.52"
+            ],
+            [
+              "lidar_front_caution:0.50"
+            ]
+          ],
+          "primary_reason": [
+            "lidar_front_caution:0.52",
+            "lidar_front_caution:0.50"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792924960.6511896,
+        "differences": {
+          "reasons": [
+            [
+              "lidar_front_caution:0.50",
+              "lidar_side_caution:0.73",
+              "lidar_rear_caution:0.80"
+            ],
+            [
+              "lidar_front_caution:0.52",
+              "lidar_side_caution:0.74"
+            ]
+          ],
+          "primary_reason": [
+            "lidar_front_caution:0.50",
+            "lidar_front_caution:0.52"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792924960.9500637,
+        "differences": {
+          "reasons": [
+            [
+              "lidar_front_caution:0.76",
+              "lidar_side_caution:0.77",
+              "lidar_rear_caution:0.86"
+            ],
+            [
+              "lidar_front_caution:0.56",
+              "lidar_side_caution:0.77"
+            ]
+          ],
+          "primary_reason": [
+            "lidar_front_caution:0.76",
+            "lidar_front_caution:0.56"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792924961.0500426,
+        "differences": {
+          "reasons": [
+            [
+              "lidar_front_caution:0.76",
+              "lidar_side_caution:0.77",
+              "lidar_rear_caution:0.86"
+            ],
+            [
+              "lidar_side_caution:0.74",
+              "lidar_rear_caution:0.87"
+            ]
+          ],
+          "primary_reason": [
+            "lidar_front_caution:0.76",
+            "lidar_side_caution:0.74"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792924962.053928,
+        "differences": {
+          "reasons": [
+            [
+              "lidar_side_caution:0.85",
+              "lidar_rear_caution:0.48"
+            ],
+            [
+              "lidar_side_caution:0.87",
+              "lidar_rear_caution:0.40"
+            ]
+          ],
+          "primary_reason": [
+            "lidar_side_caution:0.85",
+            "lidar_side_caution:0.87"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792924962.2530117,
+        "differences": {
+          "reasons": [
+            [
+              "lidar_side_caution:0.89",
+              "lidar_rear_caution:0.35"
+            ],
+            [
+              "lidar_front_caution:0.69",
+              "lidar_side_caution:0.90",
+              "lidar_rear_caution:0.30"
+            ]
+          ],
+          "primary_reason": [
+            "lidar_side_caution:0.89",
+            "lidar_front_caution:0.69"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792924962.750091,
+        "differences": {
+          "reasons": [
+            [
+              "lidar_front_caution:0.69",
+              "lidar_rear_caution:0.51"
+            ],
+            [
+              "lidar_front_caution:0.68",
+              "lidar_side_caution:0.65",
+              "lidar_rear_caution:0.66"
+            ]
+          ],
+          "primary_reason": [
+            "lidar_front_caution:0.69",
+            "lidar_front_caution:0.68"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792924962.9524555,
+        "differences": {
+          "reasons": [
+            [
+              "lidar_front_caution:0.89",
+              "lidar_side_caution:0.70",
+              "lidar_rear_caution:0.80"
+            ],
+            [
+              "lidar_front_caution:0.64",
+              "lidar_side_caution:0.67",
+              "lidar_rear_caution:0.74"
+            ]
+          ],
+          "primary_reason": [
+            "lidar_front_caution:0.89",
+            "lidar_front_caution:0.64"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792924963.4496772,
+        "differences": {
+          "reasons": [
+            [
+              "lidar_front_caution:0.59",
+              "lidar_side_caution:0.67",
+              "lidar_rear_caution:0.78"
+            ],
+            [
+              "lidar_front_caution:0.58",
+              "lidar_side_caution:0.71",
+              "lidar_rear_caution:0.82"
+            ]
+          ],
+          "primary_reason": [
+            "lidar_front_caution:0.59",
+            "lidar_front_caution:0.58"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792924963.651174,
+        "differences": {
+          "reasons": [
+            [
+              "lidar_front_caution:0.58",
+              "lidar_side_caution:0.75",
+              "lidar_rear_caution:0.89"
+            ],
+            [
+              "lidar_front_caution:0.53",
+              "lidar_side_caution:0.80"
+            ]
+          ],
+          "primary_reason": [
+            "lidar_front_caution:0.58",
+            "lidar_front_caution:0.53"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792924963.9539855,
+        "differences": {
+          "reasons": [
+            [
+              "lidar_front_caution:0.55",
+              "lidar_side_caution:0.82",
+              "camera_level_warn"
+            ],
+            [
+              "lidar_front_caution:0.60",
+              "lidar_rear_caution:1.04",
+              "camera_level_warn"
+            ]
+          ],
+          "primary_reason": [
+            "lidar_front_caution:0.55",
+            "lidar_front_caution:0.60"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792924965.2499318,
+        "differences": {
+          "reasons": [
+            [
+              "lidar_front_caution:0.41"
+            ],
+            [
+              "lidar_front_caution:1.28"
+            ]
+          ],
+          "primary_reason": [
+            "lidar_front_caution:0.41",
+            "lidar_front_caution:1.28"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792924968.1507819,
+        "differences": {
+          "reasons": [
+            [
+              "lidar_front_caution:0.91",
+              "camera_level_warn"
+            ],
+            [
+              "lidar_front_caution:0.89",
+              "lidar_rear_caution:0.57",
+              "camera_level_warn"
+            ]
+          ],
+          "primary_reason": [
+            "lidar_front_caution:0.91",
+            "lidar_front_caution:0.89"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792924969.8517468,
+        "differences": {
+          "reasons": [
+            [
+              "lidar_front_caution:0.66",
+              "lidar_side_caution:0.76"
+            ],
+            [
+              "lidar_front_caution:0.64",
+              "lidar_side_caution:0.83"
+            ]
+          ],
+          "primary_reason": [
+            "lidar_front_caution:0.66",
+            "lidar_front_caution:0.64"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792924972.5513408,
+        "differences": {
+          "reasons": [
+            [
+              "lidar_front_caution:0.69",
+              "lidar_side_caution:0.51",
+              "lidar_rear_caution:0.85"
+            ],
+            [
+              "lidar_front_caution:0.52",
+              "lidar_side_caution:0.80",
+              "lidar_rear_caution:0.88"
+            ]
+          ],
+          "primary_reason": [
+            "lidar_front_caution:0.69",
+            "lidar_front_caution:0.52"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792924973.2503147,
+        "differences": {
+          "reasons": [
+            [
+              "lidar_front_caution:0.40",
+              "lidar_side_caution:0.59",
+              "lidar_rear_caution:1.00"
+            ],
+            [
+              "lidar_front_caution:0.42",
+              "lidar_side_caution:0.56",
+              "lidar_rear_caution:0.98"
+            ]
+          ],
+          "primary_reason": [
+            "lidar_front_caution:0.40",
+            "lidar_front_caution:0.42"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792924973.450711,
+        "differences": {
+          "reasons": [
+            [
+              "lidar_front_caution:0.37",
+              "lidar_side_caution:0.59",
+              "lidar_rear_caution:1.01"
+            ],
+            [
+              "lidar_front_caution:0.33",
+              "lidar_side_caution:0.64",
+              "lidar_rear_caution:1.06"
+            ]
+          ],
+          "primary_reason": [
+            "lidar_front_caution:0.37",
+            "lidar_front_caution:0.33"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792924974.7521505,
+        "differences": {
+          "reasons": [
+            [
+              "lidar_rear_caution:0.79"
+            ],
+            [
+              "lidar_rear_caution:0.77"
+            ]
+          ],
+          "primary_reason": [
+            "lidar_rear_caution:0.79",
+            "lidar_rear_caution:0.77"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792924974.853658,
+        "differences": {
+          "state": [
+            "CAUTION",
+            "CLEAR"
+          ],
+          "hazard_type": [
+            "geometric",
+            "none"
+          ],
+          "reasons": [
+            [
+              "lidar_rear_caution:0.77"
+            ],
+            []
+          ],
+          "primary_reason": [
+            "lidar_rear_caution:0.77",
+            "clear"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792924974.951727,
+        "differences": {
+          "state": [
+            "CLEAR",
+            "CAUTION"
+          ],
+          "hazard_type": [
+            "none",
+            "geometric"
+          ],
+          "reasons": [
+            [],
+            [
+              "lidar_rear_caution:0.78"
+            ]
+          ],
+          "primary_reason": [
+            "clear",
+            "lidar_rear_caution:0.78"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792924975.4598591,
+        "differences": {
+          "reasons": [
+            [
+              "lidar_rear_caution:0.81"
+            ],
+            [
+              "lidar_front_caution:0.74",
+              "lidar_rear_caution:0.82"
+            ]
+          ],
+          "primary_reason": [
+            "lidar_rear_caution:0.81",
+            "lidar_front_caution:0.74"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792924975.5519164,
+        "differences": {
+          "reasons": [
+            [
+              "lidar_front_caution:0.74",
+              "lidar_rear_caution:0.82"
+            ],
+            [
+              "lidar_rear_caution:0.74"
+            ]
+          ],
+          "primary_reason": [
+            "lidar_front_caution:0.74",
+            "lidar_rear_caution:0.74"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792924975.9526956,
+        "differences": {
+          "reasons": [
+            [
+              "lidar_rear_caution:0.87"
+            ],
+            [
+              "lidar_rear_caution:0.89"
+            ]
+          ],
+          "primary_reason": [
+            "lidar_rear_caution:0.87",
+            "lidar_rear_caution:0.89"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792924976.7498007,
+        "differences": {
+          "state": [
+            "CLEAR",
+            "CAUTION"
+          ],
+          "hazard_type": [
+            "none",
+            "geometric"
+          ],
+          "reasons": [
+            [],
+            [
+              "lidar_front_caution:1.45",
+              "lidar_rear_caution:1.08"
+            ]
+          ],
+          "primary_reason": [
+            "clear",
+            "lidar_front_caution:1.45"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792924976.951494,
+        "differences": {
+          "reasons": [
+            [
+              "lidar_front_caution:1.44"
+            ],
+            [
+              "lidar_front_caution:1.43"
+            ]
+          ],
+          "primary_reason": [
+            "lidar_front_caution:1.44",
+            "lidar_front_caution:1.43"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792924977.1554146,
+        "differences": {
+          "reasons": [
+            [
+              "lidar_front_caution:1.47"
+            ],
+            [
+              "lidar_front_caution:1.43"
+            ]
+          ],
+          "primary_reason": [
+            "lidar_front_caution:1.47",
+            "lidar_front_caution:1.43"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792924977.554939,
+        "differences": {
+          "state": [
+            "CLEAR",
+            "CAUTION"
+          ],
+          "hazard_type": [
+            "none",
+            "geometric"
+          ],
+          "reasons": [
+            [],
+            [
+              "lidar_front_caution:1.45"
+            ]
+          ],
+          "primary_reason": [
+            "clear",
+            "lidar_front_caution:1.45"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792924980.6519854,
+        "differences": {
+          "reasons": [
+            [
+              "lidar_front_caution:1.18"
+            ],
+            [
+              "lidar_front_caution:1.13"
+            ]
+          ],
+          "primary_reason": [
+            "lidar_front_caution:1.18",
+            "lidar_front_caution:1.13"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792924981.1700943,
+        "differences": {
+          "reasons": [
+            [
+              "lidar_front_caution:1.13"
+            ],
+            [
+              "lidar_front_caution:1.16",
+              "lidar_rear_caution:0.79"
+            ]
+          ],
+          "primary_reason": [
+            "lidar_front_caution:1.13",
+            "lidar_front_caution:1.16"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792924981.2521386,
+        "differences": {
+          "reasons": [
+            [
+              "lidar_front_caution:1.16",
+              "lidar_rear_caution:0.79"
+            ],
+            [
+              "lidar_front_caution:1.16"
+            ]
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792924981.650428,
+        "differences": {
+          "reasons": [
+            [
+              "lidar_front_caution:1.12"
+            ],
+            [
+              "lidar_front_caution:1.14",
+              "lidar_rear_caution:1.16"
+            ]
+          ],
+          "primary_reason": [
+            "lidar_front_caution:1.12",
+            "lidar_front_caution:1.14"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792924982.1514914,
+        "differences": {
+          "reasons": [
+            [
+              "lidar_front_caution:1.12"
+            ],
+            [
+              "lidar_front_caution:1.13"
+            ]
+          ],
+          "primary_reason": [
+            "lidar_front_caution:1.12",
+            "lidar_front_caution:1.13"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792924982.2539432,
+        "differences": {
+          "reasons": [
+            [
+              "lidar_front_caution:1.13"
+            ],
+            [
+              "lidar_front_caution:1.12"
+            ]
+          ],
+          "primary_reason": [
+            "lidar_front_caution:1.13",
+            "lidar_front_caution:1.12"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792924982.6515136,
+        "differences": {
+          "reasons": [
+            [
+              "lidar_front_caution:1.11"
+            ],
+            [
+              "lidar_front_caution:1.15"
+            ]
+          ],
+          "primary_reason": [
+            "lidar_front_caution:1.11",
+            "lidar_front_caution:1.15"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792924983.6496556,
+        "differences": {
+          "reasons": [
+            [
+              "lidar_front_caution:1.44"
+            ],
+            [
+              "lidar_front_caution:1.34"
+            ]
+          ],
+          "primary_reason": [
+            "lidar_front_caution:1.44",
+            "lidar_front_caution:1.34"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792924983.7502794,
+        "differences": {
+          "reasons": [
+            [
+              "lidar_front_caution:1.44"
+            ],
+            [
+              "lidar_front_caution:1.43"
+            ]
+          ],
+          "primary_reason": [
+            "lidar_front_caution:1.44",
+            "lidar_front_caution:1.43"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792924986.353952,
+        "differences": {
+          "reasons": [
+            [
+              "lidar_front_caution:1.48"
+            ],
+            [
+              "lidar_front_caution:1.45"
+            ]
+          ],
+          "primary_reason": [
+            "lidar_front_caution:1.48",
+            "lidar_front_caution:1.45"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792924988.9554658,
+        "differences": {
+          "reasons": [
+            [
+              "lidar_front_caution:1.39",
+              "lidar_rear_caution:1.10"
+            ],
+            [
+              "lidar_front_caution:1.41",
+              "lidar_rear_caution:0.99"
+            ]
+          ],
+          "primary_reason": [
+            "lidar_front_caution:1.39",
+            "lidar_front_caution:1.41"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792924989.6506934,
+        "differences": {
+          "reasons": [
+            [
+              "lidar_front_caution:1.37",
+              "lidar_rear_caution:1.09"
+            ],
+            [
+              "lidar_front_caution:1.38",
+              "lidar_rear_caution:1.12"
+            ]
+          ],
+          "primary_reason": [
+            "lidar_front_caution:1.37",
+            "lidar_front_caution:1.38"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792924990.251724,
+        "differences": {
+          "reasons": [
+            [
+              "lidar_front_caution:1.41"
+            ],
+            [
+              "lidar_front_caution:1.42",
+              "lidar_rear_caution:1.20"
+            ]
+          ],
+          "primary_reason": [
+            "lidar_front_caution:1.41",
+            "lidar_front_caution:1.42"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792924990.9500198,
+        "differences": {
+          "reasons": [
+            [
+              "lidar_front_caution:1.45"
+            ],
+            [
+              "lidar_front_caution:1.42",
+              "curb_step_caution:cam=1.95,lidar=2.16,side=right"
+            ]
+          ],
+          "primary_reason": [
+            "lidar_front_caution:1.45",
+            "lidar_front_caution:1.42"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792924991.2594838,
+        "differences": {
+          "reasons": [
+            [
+              "lidar_front_caution:1.42"
+            ],
+            [
+              "lidar_front_caution:1.43"
+            ]
+          ],
+          "primary_reason": [
+            "lidar_front_caution:1.42",
+            "lidar_front_caution:1.43"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792924991.950423,
+        "differences": {
+          "state": [
+            "CAUTION",
+            "CLEAR"
+          ],
+          "hazard_type": [
+            "geometric",
+            "none"
+          ],
+          "reasons": [
+            [
+              "lidar_front_caution:1.49"
+            ],
+            []
+          ],
+          "primary_reason": [
+            "lidar_front_caution:1.49",
+            "clear"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792924992.3504665,
+        "differences": {
+          "reasons": [
+            [
+              "lidar_front_caution:1.44"
+            ],
+            [
+              "lidar_front_caution:1.40"
+            ]
+          ],
+          "primary_reason": [
+            "lidar_front_caution:1.44",
+            "lidar_front_caution:1.40"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792924992.44954,
+        "differences": {
+          "reasons": [
+            [
+              "lidar_front_caution:1.40"
+            ],
+            [
+              "lidar_front_caution:1.43"
+            ]
+          ],
+          "primary_reason": [
+            "lidar_front_caution:1.40",
+            "lidar_front_caution:1.43"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792924992.8501036,
+        "differences": {
+          "reasons": [
+            [
+              "lidar_front_caution:1.43"
+            ],
+            [
+              "lidar_front_caution:1.42"
+            ]
+          ],
+          "primary_reason": [
+            "lidar_front_caution:1.43",
+            "lidar_front_caution:1.42"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792924993.451883,
+        "differences": {
+          "reasons": [
+            [
+              "lidar_front_caution:1.35"
+            ],
+            [
+              "lidar_front_caution:1.32"
+            ]
+          ],
+          "primary_reason": [
+            "lidar_front_caution:1.35",
+            "lidar_front_caution:1.32"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792924993.551287,
+        "differences": {
+          "reasons": [
+            [
+              "lidar_front_caution:1.32"
+            ],
+            [
+              "lidar_front_caution:1.34"
+            ]
+          ],
+          "primary_reason": [
+            "lidar_front_caution:1.32",
+            "lidar_front_caution:1.34"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792924997.1497838,
+        "differences": {
+          "state": [
+            "CAUTION",
+            "CLEAR"
+          ],
+          "hazard_type": [
+            "geometric",
+            "none"
+          ],
+          "reasons": [
+            [
+              "lidar_front_caution:1.42"
+            ],
+            []
+          ],
+          "primary_reason": [
+            "lidar_front_caution:1.42",
+            "clear"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792924997.2515671,
+        "differences": {
+          "reasons": [
+            [
+              "lidar_front_caution:1.42"
+            ],
+            [
+              "lidar_front_caution:1.43"
+            ]
+          ],
+          "primary_reason": [
+            "lidar_front_caution:1.42",
+            "lidar_front_caution:1.43"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792924997.450316,
+        "differences": {
+          "state": [
+            "CAUTION",
+            "CLEAR"
+          ],
+          "hazard_type": [
+            "geometric",
+            "none"
+          ],
+          "reasons": [
+            [
+              "lidar_front_caution:1.47"
+            ],
+            []
+          ],
+          "primary_reason": [
+            "lidar_front_caution:1.47",
+            "clear"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792924999.5701087,
+        "differences": {
+          "state": [
+            "CLEAR",
+            "CAUTION"
+          ],
+          "hazard_type": [
+            "none",
+            "geometric"
+          ],
+          "reasons": [
+            [],
+            [
+              "lidar_front_caution:1.48"
+            ]
+          ],
+          "primary_reason": [
+            "clear",
+            "lidar_front_caution:1.48"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792925000.149776,
+        "differences": {
+          "state": [
+            "CAUTION",
+            "CLEAR"
+          ],
+          "hazard_type": [
+            "geometric",
+            "none"
+          ],
+          "reasons": [
+            [
+              "lidar_front_caution:1.49"
+            ],
+            []
+          ],
+          "primary_reason": [
+            "lidar_front_caution:1.49",
+            "clear"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792925002.2554622,
+        "differences": {
+          "state": [
+            "CLEAR",
+            "CAUTION"
+          ],
+          "hazard_type": [
+            "none",
+            "geometric"
+          ],
+          "reasons": [
+            [],
+            [
+              "lidar_front_caution:1.46"
+            ]
+          ],
+          "primary_reason": [
+            "clear",
+            "lidar_front_caution:1.46"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792925003.1540012,
+        "differences": {
+          "reasons": [
+            [
+              "lidar_front_caution:1.09"
+            ],
+            [
+              "lidar_front_caution:1.06"
+            ]
+          ],
+          "primary_reason": [
+            "lidar_front_caution:1.09",
+            "lidar_front_caution:1.06"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792925003.2564378,
+        "differences": {
+          "reasons": [
+            [
+              "lidar_front_caution:1.06"
+            ],
+            [
+              "lidar_front_caution:1.03"
+            ]
+          ],
+          "primary_reason": [
+            "lidar_front_caution:1.06",
+            "lidar_front_caution:1.03"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792925003.9504666,
+        "differences": {
+          "reasons": [
+            [
+              "lidar_front_caution:0.84",
+              "curb_step_caution:cam=1.44,lidar=1.76,side=center",
+              "camera_level_warn"
+            ],
+            [
+              "lidar_front_caution:0.81",
+              "curb_step_caution:cam=1.44,lidar=1.80,side=center",
+              "camera_level_warn"
+            ]
+          ],
+          "primary_reason": [
+            "lidar_front_caution:0.84",
+            "lidar_front_caution:0.81"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792925004.0505302,
+        "differences": {
+          "reasons": [
+            [
+              "lidar_front_caution:0.78",
+              "curb_step_caution:cam=1.44,lidar=1.83,side=center",
+              "camera_level_warn"
+            ],
+            [
+              "lidar_front_caution:0.81",
+              "curb_step_caution:cam=1.44,lidar=1.80,side=center",
+              "camera_level_warn"
+            ]
+          ],
+          "primary_reason": [
+            "lidar_front_caution:0.78",
+            "lidar_front_caution:0.81"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792925004.5499709,
+        "differences": {
+          "reasons": [
+            [
+              "lidar_front_caution:0.73",
+              "curb_step_caution:cam=1.39,lidar=2.10,side=center",
+              "curb_step_caution:cam=1.64,lidar=2.10,side=center"
+            ],
+            [
+              "lidar_front_caution:0.72",
+              "curb_step_caution:cam=1.39,lidar=2.14,side=center",
+              "curb_step_caution:cam=1.64,lidar=2.14,side=center"
+            ]
+          ],
+          "primary_reason": [
+            "lidar_front_caution:0.73",
+            "lidar_front_caution:0.72"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792925004.7499158,
+        "differences": {
+          "reasons": [
+            [
+              "lidar_front_caution:0.70",
+              "curb_step_caution:cam=1.33,lidar=2.11,side=center"
+            ],
+            [
+              "lidar_front_caution:0.71",
+              "curb_step_caution:cam=1.33,lidar=2.13,side=center"
+            ]
+          ],
+          "primary_reason": [
+            "lidar_front_caution:0.70",
+            "lidar_front_caution:0.71"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792925006.8497493,
+        "differences": {
+          "reasons": [
+            [
+              "lidar_front_caution:0.70",
+              "lidar_side_caution:0.68"
+            ],
+            [
+              "lidar_front_caution:0.68",
+              "lidar_side_caution:0.68"
+            ]
+          ],
+          "primary_reason": [
+            "lidar_front_caution:0.70",
+            "lidar_front_caution:0.68"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792925008.449922,
+        "differences": {
+          "reasons": [
+            [
+              "lidar_front_caution:0.73"
+            ],
+            [
+              "lidar_front_caution:0.72"
+            ]
+          ],
+          "primary_reason": [
+            "lidar_front_caution:0.73",
+            "lidar_front_caution:0.72"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792925008.8512354,
+        "differences": {
+          "reasons": [
+            [
+              "lidar_front_caution:0.71"
+            ],
+            [
+              "lidar_front_caution:0.72"
+            ]
+          ],
+          "primary_reason": [
+            "lidar_front_caution:0.71",
+            "lidar_front_caution:0.72"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792925009.349751,
+        "differences": {
+          "reasons": [
+            [
+              "lidar_front_caution:0.72"
+            ],
+            [
+              "lidar_front_caution:0.71"
+            ]
+          ],
+          "primary_reason": [
+            "lidar_front_caution:0.72",
+            "lidar_front_caution:0.71"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792925009.9499195,
+        "differences": {
+          "reasons": [
+            [
+              "lidar_side_caution:0.64",
+              "curb_step_caution:cam=1.37,lidar=1.91,side=left"
+            ],
+            [
+              "lidar_front_caution:0.67",
+              "lidar_side_caution:0.66",
+              "curb_step_caution:cam=1.37,lidar=1.95,side=left"
+            ]
+          ],
+          "primary_reason": [
+            "lidar_side_caution:0.64",
+            "lidar_front_caution:0.67"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792925010.9496124,
+        "differences": {
+          "reasons": [
+            [
+              "lidar_side_caution:0.69",
+              "lidar_rear_caution:0.69"
+            ],
+            [
+              "lidar_side_caution:0.70",
+              "lidar_rear_caution:0.70"
+            ]
+          ],
+          "primary_reason": [
+            "lidar_side_caution:0.69",
+            "lidar_side_caution:0.70"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792925011.8523457,
+        "differences": {
+          "reasons": [
+            [
+              "lidar_rear_caution:0.83"
+            ],
+            [
+              "lidar_rear_caution:0.79"
+            ]
+          ],
+          "primary_reason": [
+            "lidar_rear_caution:0.83",
+            "lidar_rear_caution:0.79"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792925012.951233,
+        "differences": {
+          "reasons": [
+            [
+              "lidar_rear_caution:1.11"
+            ],
+            [
+              "lidar_rear_caution:1.08"
+            ]
+          ],
+          "primary_reason": [
+            "lidar_rear_caution:1.11",
+            "lidar_rear_caution:1.08"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792925013.7514586,
+        "differences": {
+          "reasons": [
+            [
+              "lidar_rear_caution:1.19"
+            ],
+            [
+              "lidar_rear_caution:1.18"
+            ]
+          ],
+          "primary_reason": [
+            "lidar_rear_caution:1.19",
+            "lidar_rear_caution:1.18"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792925013.8501225,
+        "differences": {
+          "reasons": [
+            [
+              "lidar_rear_caution:1.18"
+            ],
+            [
+              "lidar_rear_caution:1.19"
+            ]
+          ],
+          "primary_reason": [
+            "lidar_rear_caution:1.18",
+            "lidar_rear_caution:1.19"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792925015.2522166,
+        "differences": {
+          "reasons": [
+            [
+              "lidar_side_caution:0.85"
+            ],
+            [
+              "lidar_side_caution:0.80"
+            ]
+          ],
+          "primary_reason": [
+            "lidar_side_caution:0.85",
+            "lidar_side_caution:0.80"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792925016.3501363,
+        "differences": {
+          "reasons": [
+            [
+              "lidar_side_caution:0.68"
+            ],
+            [
+              "lidar_side_caution:0.67"
+            ]
+          ],
+          "primary_reason": [
+            "lidar_side_caution:0.68",
+            "lidar_side_caution:0.67"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792925016.450033,
+        "differences": {
+          "reasons": [
+            [
+              "lidar_side_caution:0.67"
+            ],
+            [
+              "lidar_side_caution:0.65"
+            ]
+          ],
+          "primary_reason": [
+            "lidar_side_caution:0.67",
+            "lidar_side_caution:0.65"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792925017.2543073,
+        "differences": {
+          "reasons": [
+            [
+              "lidar_side_caution:0.65"
+            ],
+            [
+              "lidar_side_caution:0.65",
+              "lidar_rear_caution:0.68"
+            ]
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792925017.4497943,
+        "differences": {
+          "reasons": [
+            [
+              "lidar_side_caution:0.70",
+              "lidar_rear_caution:0.67",
+              "curb_step_caution:cam=1.19,lidar=1.79,side=right"
+            ],
+            [
+              "lidar_side_caution:0.66",
+              "lidar_rear_caution:0.65",
+              "curb_step_caution:cam=1.19,lidar=1.84,side=right"
+            ]
+          ],
+          "primary_reason": [
+            "lidar_side_caution:0.70",
+            "lidar_side_caution:0.66"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792925017.750039,
+        "differences": {
+          "reasons": [
+            [
+              "lidar_rear_caution:0.74"
+            ],
+            [
+              "lidar_rear_caution:0.77"
+            ]
+          ],
+          "primary_reason": [
+            "lidar_rear_caution:0.74",
+            "lidar_rear_caution:0.77"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792925018.3529763,
+        "differences": {
+          "reasons": [
+            [
+              "lidar_rear_caution:0.79"
+            ],
+            [
+              "lidar_rear_caution:0.76"
+            ]
+          ],
+          "primary_reason": [
+            "lidar_rear_caution:0.79",
+            "lidar_rear_caution:0.76"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792925018.6534948,
+        "differences": {
+          "reasons": [
+            [
+              "lidar_rear_caution:0.73"
+            ],
+            [
+              "lidar_rear_caution:0.69"
+            ]
+          ],
+          "primary_reason": [
+            "lidar_rear_caution:0.73",
+            "lidar_rear_caution:0.69"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792925019.7505789,
+        "differences": {
+          "reasons": [
+            [
+              "lidar_rear_caution:0.79"
+            ],
+            [
+              "lidar_rear_caution:0.75"
+            ]
+          ],
+          "primary_reason": [
+            "lidar_rear_caution:0.79",
+            "lidar_rear_caution:0.75"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792925022.649766,
+        "differences": {
+          "reasons": [
+            [
+              "lidar_front_caution:1.36"
+            ],
+            [
+              "lidar_front_caution:1.41"
+            ]
+          ],
+          "primary_reason": [
+            "lidar_front_caution:1.36",
+            "lidar_front_caution:1.41"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792925023.85187,
+        "differences": {
+          "reasons": [
+            [
+              "lidar_front_caution:1.16"
+            ],
+            [
+              "lidar_front_caution:1.24"
+            ]
+          ],
+          "primary_reason": [
+            "lidar_front_caution:1.16",
+            "lidar_front_caution:1.24"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792925024.7551656,
+        "differences": {
+          "reasons": [
+            [
+              "lidar_front_caution:1.37"
+            ],
+            [
+              "lidar_front_caution:1.34"
+            ]
+          ],
+          "primary_reason": [
+            "lidar_front_caution:1.37",
+            "lidar_front_caution:1.34"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792925041.151889,
+        "differences": {
+          "reasons": [
+            [
+              "lidar_front_caution:1.44"
+            ],
+            [
+              "lidar_front_caution:1.42"
+            ]
+          ],
+          "primary_reason": [
+            "lidar_front_caution:1.44",
+            "lidar_front_caution:1.42"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792925041.6502144,
+        "differences": {
+          "reasons": [
+            [
+              "lidar_front_caution:1.34"
+            ],
+            [
+              "lidar_front_caution:1.33"
+            ]
+          ],
+          "primary_reason": [
+            "lidar_front_caution:1.34",
+            "lidar_front_caution:1.33"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792925049.9512982,
+        "differences": {
+          "state": [
+            "CAUTION",
+            "CLEAR"
+          ],
+          "hazard_type": [
+            "geometric",
+            "none"
+          ],
+          "reasons": [
+            [
+              "lidar_side_caution:0.98"
+            ],
+            []
+          ],
+          "primary_reason": [
+            "lidar_side_caution:0.98",
+            "clear"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792925050.3638828,
+        "differences": {
+          "reasons": [
+            [
+              "lidar_side_caution:0.94",
+              "person_caution:2.433",
+              "person_caution:2.433",
+              "camera_level_warn"
+            ],
+            [
+              "lidar_side_caution:0.92",
+              "person_caution:2.433",
+              "person_caution:2.433",
+              "camera_level_warn"
+            ]
+          ],
+          "primary_reason": [
+            "lidar_side_caution:0.94",
+            "lidar_side_caution:0.92"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792925050.7499297,
+        "differences": {
+          "reasons": [
+            [
+              "lidar_side_caution:0.94"
+            ],
+            [
+              "lidar_side_caution:0.91"
+            ]
+          ],
+          "primary_reason": [
+            "lidar_side_caution:0.94",
+            "lidar_side_caution:0.91"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792925050.8520758,
+        "differences": {
+          "reasons": [
+            [
+              "lidar_side_caution:0.94"
+            ],
+            [
+              "lidar_rear_caution:0.96"
+            ]
+          ],
+          "primary_reason": [
+            "lidar_side_caution:0.94",
+            "lidar_rear_caution:0.96"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792925051.750096,
+        "differences": {
+          "state": [
+            "CLEAR",
+            "CAUTION"
+          ],
+          "hazard_type": [
+            "none",
+            "geometric"
+          ],
+          "reasons": [
+            [],
+            [
+              "lidar_rear_caution:1.09"
+            ]
+          ],
+          "primary_reason": [
+            "clear",
+            "lidar_rear_caution:1.09"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792925051.8518422,
+        "differences": {
+          "state": [
+            "CLEAR",
+            "CAUTION"
+          ],
+          "hazard_type": [
+            "none",
+            "geometric"
+          ],
+          "reasons": [
+            [],
+            [
+              "lidar_rear_caution:1.11"
+            ]
+          ],
+          "primary_reason": [
+            "clear",
+            "lidar_rear_caution:1.11"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792925059.050837,
+        "differences": {
+          "reasons": [
+            [
+              "person_caution:2.008",
+              "camera_level_warn"
+            ],
+            [
+              "person_caution:1.993",
+              "camera_level_warn"
+            ]
+          ],
+          "primary_reason": [
+            "person_caution:2.008",
+            "person_caution:1.993"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792925060.550002,
+        "differences": {
+          "hazard_type": [
+            "geometric",
+            "person"
+          ],
+          "reasons": [
+            [
+              "lidar_front_caution:1.47",
+              "person_caution:1.662",
+              "camera_level_warn"
+            ],
+            [
+              "person_caution:1.662",
+              "camera_level_warn"
+            ]
+          ],
+          "primary_reason": [
+            "lidar_front_caution:1.47",
+            "person_caution:1.662"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792925060.8517,
+        "differences": {
+          "reasons": [
+            [
+              "lidar_front_caution:1.38",
+              "person_caution:1.552",
+              "camera_level_warn"
+            ],
+            [
+              "lidar_front_caution:1.37",
+              "person_caution:1.552",
+              "camera_level_warn"
+            ]
+          ],
+          "primary_reason": [
+            "lidar_front_caution:1.38",
+            "lidar_front_caution:1.37"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792925076.7503684,
+        "differences": {
+          "state": [
+            "CAUTION",
+            "CLEAR"
+          ],
+          "hazard_type": [
+            "person",
+            "none"
+          ],
+          "reasons": [
+            [
+              "person_caution:2.498",
+              "camera_level_warn"
+            ],
+            []
+          ],
+          "primary_reason": [
+            "person_caution:2.498",
+            "clear"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792925076.8531005,
+        "differences": {
+          "hazard_type": [
+            "person",
+            "geometric"
+          ],
+          "reasons": [
+            [
+              "person_caution:2.498",
+              "camera_level_warn"
+            ],
+            [
+              "lidar_front_caution:1.49",
+              "person_caution:2.498",
+              "camera_level_warn"
+            ]
+          ],
+          "primary_reason": [
+            "person_caution:2.498",
+            "lidar_front_caution:1.49"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792925077.4552796,
+        "differences": {
+          "reasons": [
+            [
+              "lidar_front_caution:1.49"
+            ],
+            [
+              "lidar_front_caution:1.46"
+            ]
+          ],
+          "primary_reason": [
+            "lidar_front_caution:1.49",
+            "lidar_front_caution:1.46"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792925077.6505983,
+        "differences": {
+          "reasons": [
+            [
+              "lidar_front_caution:1.48"
+            ],
+            [
+              "lidar_front_caution:1.49"
+            ]
+          ],
+          "primary_reason": [
+            "lidar_front_caution:1.48",
+            "lidar_front_caution:1.49"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792925079.0524714,
+        "differences": {
+          "reasons": [
+            [
+              "lidar_front_caution:1.43"
+            ],
+            [
+              "lidar_front_caution:1.35"
+            ]
+          ],
+          "primary_reason": [
+            "lidar_front_caution:1.43",
+            "lidar_front_caution:1.35"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792925079.4500325,
+        "differences": {
+          "reasons": [
+            [
+              "lidar_front_caution:1.33"
+            ],
+            [
+              "lidar_front_caution:1.35"
+            ]
+          ],
+          "primary_reason": [
+            "lidar_front_caution:1.33",
+            "lidar_front_caution:1.35"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792925080.250277,
+        "differences": {
+          "reasons": [
+            [
+              "lidar_front_caution:1.33"
+            ],
+            [
+              "lidar_front_caution:1.32"
+            ]
+          ],
+          "primary_reason": [
+            "lidar_front_caution:1.33",
+            "lidar_front_caution:1.32"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792925080.5504813,
+        "differences": {
+          "reasons": [
+            [
+              "lidar_front_caution:1.40"
+            ],
+            [
+              "lidar_front_caution:1.38"
+            ]
+          ],
+          "primary_reason": [
+            "lidar_front_caution:1.40",
+            "lidar_front_caution:1.38"
+          ]
+        }
+      },
+      {
+        "stamp_s": 1792925081.0505378,
+        "differences": {
+          "reasons": [
+            [
+              "lidar_front_caution:1.38"
+            ],
+            [
+              "lidar_front_caution:1.39"
+            ]
+          ],
+          "primary_reason": [
+            "lidar_front_caution:1.38",
+            "lidar_front_caution:1.39"
+          ]
+        }
+      }
+    ]
+  }
+]

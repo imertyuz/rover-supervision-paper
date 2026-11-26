@@ -1,0 +1,239 @@
+[
+  {
+    "run": "PILOT_S1_R1_20261121_132956",
+    "events": [
+      {
+        "hazard": "person",
+        "first_source_s": 1795257061.467,
+        "confirmation_fusion_stamp_s": 1795257062.1008224,
+        "delay_s": 0.6338224411010742,
+        "left_boundary_source_precedes_first_saved_image": true
+      }
+    ],
+    "counter_reset_at_measurement_start": true
+  },
+  {
+    "run": "PILOT_S2_R1_20261121_133759",
+    "events": [
+      {
+        "hazard": "person",
+        "first_source_s": 1795257650.367,
+        "confirmation_fusion_stamp_s": 1795257651.1006868,
+        "delay_s": 0.7336866855621338,
+        "left_boundary_source_precedes_first_saved_image": true
+      },
+      {
+        "hazard": "person",
+        "first_source_s": 1795257662.366,
+        "confirmation_fusion_stamp_s": 1795257663.000641,
+        "delay_s": 0.634641170501709,
+        "left_boundary_source_precedes_first_saved_image": false
+      }
+    ],
+    "counter_reset_at_measurement_start": true
+  },
+  {
+    "run": "PILOT_S3_R1_20261121_131457",
+    "events": [],
+    "counter_reset_at_measurement_start": true
+  },
+  {
+    "run": "PILOT_S1_R2_20261122_132300",
+    "events": [
+      {
+        "hazard": "person",
+        "first_source_s": 1795343049.467,
+        "confirmation_fusion_stamp_s": 1795343050.0991123,
+        "delay_s": 0.6321122646331787,
+        "left_boundary_source_precedes_first_saved_image": false
+      }
+    ],
+    "counter_reset_at_measurement_start": true
+  },
+  {
+    "run": "PILOT_S2_R2_20261122_132846",
+    "events": [
+      {
+        "hazard": "person",
+        "first_source_s": 1795343404.693,
+        "confirmation_fusion_stamp_s": 1795343405.3990378,
+        "delay_s": 0.7060377597808838,
+        "left_boundary_source_precedes_first_saved_image": true
+      }
+    ],
+    "counter_reset_at_measurement_start": true
+  },
+  {
+    "run": "PILOT_S3_R2_20261122_131421",
+    "events": [],
+    "counter_reset_at_measurement_start": true
+  },
+  {
+    "run": "PILOT_S4_R1_20261122_135133",
+    "events": [
+      {
+        "hazard": "person",
+        "first_source_s": 1795344809.241,
+        "confirmation_fusion_stamp_s": 1795344809.8990684,
+        "delay_s": 0.6580684185028076,
+        "left_boundary_source_precedes_first_saved_image": false
+      },
+      {
+        "hazard": "person",
+        "first_source_s": 1795344817.881,
+        "confirmation_fusion_stamp_s": 1795344818.5993986,
+        "delay_s": 0.7183985710144043,
+        "left_boundary_source_precedes_first_saved_image": false
+      },
+      {
+        "hazard": "person",
+        "first_source_s": 1795344825.451,
+        "confirmation_fusion_stamp_s": 1795344825.9989839,
+        "delay_s": 0.5479838848114014,
+        "left_boundary_source_precedes_first_saved_image": false
+      },
+      {
+        "hazard": "person",
+        "first_source_s": 1795344836.452,
+        "confirmation_fusion_stamp_s": 1795344837.0992026,
+        "delay_s": 0.647202730178833,
+        "left_boundary_source_precedes_first_saved_image": false
+      },
+      {
+        "hazard": "person",
+        "first_source_s": 1795344840.124,
+        "confirmation_fusion_stamp_s": 1795344840.7990444,
+        "delay_s": 0.6750442981719971,
+        "left_boundary_source_precedes_first_saved_image": false
+      },
+      {
+        "hazard": "person",
+        "first_source_s": 1795344847.058,
+        "confirmation_fusion_stamp_s": 1795344847.5996735,
+        "delay_s": 0.5416734218597412,
+        "left_boundary_source_precedes_first_saved_image": false
+      }
+    ],
+    "counter_reset_at_measurement_start": true
+  },
+  {
+    "run": "PILOT_S5_R1_20261123_162046",
+    "events": [
+      {
+        "hazard": "animal",
+        "first_source_s": 1795440157.646,
+        "confirmation_fusion_stamp_s": 1795440158.2767146,
+        "delay_s": 0.6307146549224854,
+        "left_boundary_source_precedes_first_saved_image": false
+      },
+      {
+        "hazard": "animal",
+        "first_source_s": 1795440166.917,
+        "confirmation_fusion_stamp_s": 1795440167.575501,
+        "delay_s": 0.6585009098052979,
+        "left_boundary_source_precedes_first_saved_image": false
+      },
+      {
+        "hazard": "animal",
+        "first_source_s": 1795440167.717,
+        "confirmation_fusion_stamp_s": 1795440168.375622,
+        "delay_s": 0.6586220264434814,
+        "left_boundary_source_precedes_first_saved_image": false
+      },
+      {
+        "hazard": "person",
+        "first_source_s": 1795440178.892,
+        "confirmation_fusion_stamp_s": 1795440179.4761977,
+        "delay_s": 0.5841977596282959,
+        "left_boundary_source_precedes_first_saved_image": false
+      },
+      {
+        "hazard": "animal",
+        "first_source_s": 1795440187.43,
+        "confirmation_fusion_stamp_s": 1795440187.9755049,
+        "delay_s": 0.5455048084259033,
+        "left_boundary_source_precedes_first_saved_image": false
+      },
+      {
+        "hazard": "person",
+        "first_source_s": 1795440219.443,
+        "confirmation_fusion_stamp_s": 1795440220.0754685,
+        "delay_s": 0.6324684619903564,
+        "left_boundary_source_precedes_first_saved_image": false
+      },
+      {
+        "hazard": "person",
+        "first_source_s": 1795440229.614,
+        "confirmation_fusion_stamp_s": 1795440230.2757187,
+        "delay_s": 0.6617186069488525,
+        "left_boundary_source_precedes_first_saved_image": false
+      },
+      {
+        "hazard": "animal",
+        "first_source_s": 1795440251.323,
+        "confirmation_fusion_stamp_s": 1795440251.876499,
+        "delay_s": 0.5534989833831787,
+        "left_boundary_source_precedes_first_saved_image": false
+      },
+      {
+        "hazard": "animal",
+        "first_source_s": 1795440260.862,
+        "confirmation_fusion_stamp_s": 1795440261.4752018,
+        "delay_s": 0.6132018566131592,
+        "left_boundary_source_precedes_first_saved_image": false
+      },
+      {
+        "hazard": "animal",
+        "first_source_s": 1795440262.097,
+        "confirmation_fusion_stamp_s": 1795440262.7760344,
+        "delay_s": 0.6790344715118408,
+        "left_boundary_source_precedes_first_saved_image": false
+      }
+    ],
+    "counter_reset_at_measurement_start": true
+  },
+  {
+    "run": "PILOT_S6_R1_20261124_101921",
+    "events": [
+      {
+        "hazard": "person",
+        "first_source_s": 1795504854.493,
+        "confirmation_fusion_stamp_s": 1795504855.1601555,
+        "delay_s": 0.6671555042266846,
+        "left_boundary_source_precedes_first_saved_image": true
+      }
+    ],
+    "counter_reset_at_measurement_start": true
+  },
+  {
+    "run": "PILOT_S6_R2_20261124_102653",
+    "events": [
+      {
+        "hazard": "person",
+        "first_source_s": 1795505321.322,
+        "confirmation_fusion_stamp_s": 1795505321.9591157,
+        "delay_s": 0.6371157169342041,
+        "left_boundary_source_precedes_first_saved_image": true
+      }
+    ],
+    "counter_reset_at_measurement_start": true
+  },
+  {
+    "run": "PILOT_S6_R3_20261124_103209",
+    "events": [
+      {
+        "hazard": "person",
+        "first_source_s": 1795505593.922,
+        "confirmation_fusion_stamp_s": 1795505594.5604427,
+        "delay_s": 0.6384427547454834,
+        "left_boundary_source_precedes_first_saved_image": true
+      }
+    ],
+    "counter_reset_at_measurement_start": true
+  },
+  {
+    "run": "PILOT_TREE_ONLY_R1_20261124_103534",
+    "events": [],
+    "counter_reset_at_measurement_start": true
+  }
+]

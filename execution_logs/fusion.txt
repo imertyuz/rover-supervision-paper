@@ -1,0 +1,4 @@
+MISSION_20261025T093856_685142 2844 {'state': 2, 'hazard_type': 2, 'reasons': 2, 'primary_reason': 2}
+MISSION_20261025T095656_324958 2915 {'reasons': 1, 'primary_reason': 1}
+MISSION_20261025T101222_031804 3170 {'state': 1, 'hazard_type': 1, 'reasons': 3, 'primary_reason': 3}
+MISSION_20261025T103420_406168 4637 {'reasons': 279, 'primary_reason': 263, 'state': 39, 'hazard_type': 48}

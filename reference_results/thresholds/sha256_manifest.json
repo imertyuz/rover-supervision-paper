@@ -1,0 +1,13 @@
+{
+  "revision_analysis/thresholds/confirmation_trace.json": "6000b5a6cc542d9bc3f2ad05b0841744d3791af318f814d247f3d429556f83dc",
+  "revision_analysis/thresholds/compare_confirmation.py": "358f1bc92a8f65ce859bcd12c2f00d2cccf71ca8c14317d134d6a5cab3162da6",
+  "revision_analysis/thresholds/README.txt": "80c4cf69968c74972892c289ac75f9c1b9e177448a6e7828955ce31849228f7e",
+  "revision_analysis/thresholds/confirmation_results.json": "5f4b2b78a70dc1226cd7f96c461ce176befb47175f0cfb8b19779b3dc9655028",
+  "revision_analysis/thresholds/build_report6.py": "9f2d2b60091fd12f331eafbc9134cbd7ac9676e7ec33ec9032d2f1a0bf8203b9",
+  "revision_analysis/thresholds/run_output.txt": "293426f69cabec79d76c840576e951b92999d8899cd9d9f2110bced0fc8637be",
+  "revision_analysis/thresholds/Rapor_6_Onay_Esigi_ve_Revizyon_Durumu.docx": "11b61035f90516a71bcad1a6ad5592a0be42bdcb4ba908c37d4f0a6028a32857",
+  "revision_analysis/thresholds/confirmation_comparison.csv": "f581e3baebe2dec05a98cceed951a9777868436904e62520709e6b33dc4375b5",
+  "revision_analysis/bridge_conformance.py": "bf9256552ec08c123a7174513c4be1549baf38493d83a8ff9739d21890e97c53",
+  "revision_analysis/kappa/loaded_data.pkl": "3f3dad9ea5215ee1133f8f86c8dc52513569be36b4f78e1260cb90f997c5ef5c",
+  "revision_stage1_check/rover_project/workspace_src/fusion_node/fusion_node/semantic_safety_bridge_v2.py": "7b05ad731fa9876fabc15b5385e660ed2cc3882376182f12416e2c3441722dd1"
+}

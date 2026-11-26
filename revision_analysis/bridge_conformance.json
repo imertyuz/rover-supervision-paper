@@ -1,0 +1,188 @@
+[
+  {
+    "run": "MISSION_20261025T093856_685142",
+    "fusion_inputs": 4735,
+    "paired_snapshots": 4723,
+    "unpaired_inputs": 12,
+    "different_snapshots": 6,
+    "mismatch_examples": [
+      {
+        "fusion_bag_receipt_s": 1792921239.4306285,
+        "recorded_bridge_stamp_s": 1792921239.4519806,
+        "differences": {
+          "camera_source_stamp_s": [
+            1792921239.015,
+            1792921238.681
+          ]
+        }
+      },
+      {
+        "fusion_bag_receipt_s": 1792921299.4036233,
+        "recorded_bridge_stamp_s": 1792921299.452716,
+        "differences": {
+          "camera_source_stamp_s": [
+            1792921299.111,
+            1792921298.844
+          ]
+        }
+      },
+      {
+        "fusion_bag_receipt_s": 1792921359.4101458,
+        "recorded_bridge_stamp_s": 1792921359.4556084,
+        "differences": {
+          "camera_source_stamp_s": [
+            1792921358.945,
+            1792921358.712
+          ]
+        }
+      },
+      {
+        "fusion_bag_receipt_s": 1792921419.4776115,
+        "recorded_bridge_stamp_s": 1792921419.4525962,
+        "differences": {
+          "camera_source_stamp_s": [
+            1792921419.005,
+            1792921418.772
+          ]
+        }
+      },
+      {
+        "fusion_bag_receipt_s": 1792921479.4590113,
+        "recorded_bridge_stamp_s": 1792921479.4522698,
+        "differences": {
+          "camera_source_stamp_s": [
+            1792921478.939,
+            1792921478.672
+          ]
+        }
+      },
+      {
+        "fusion_bag_receipt_s": 1792921539.4455924,
+        "recorded_bridge_stamp_s": 1792921539.4531512,
+        "differences": {
+          "camera_source_stamp_s": [
+            1792921539.064,
+            1792921538.73
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "run": "MISSION_20261025T095656_324958",
+    "fusion_inputs": 4159,
+    "paired_snapshots": 4140,
+    "unpaired_inputs": 19,
+    "different_snapshots": 2,
+    "mismatch_examples": [
+      {
+        "fusion_bag_receipt_s": 1792922439.8537319,
+        "recorded_bridge_stamp_s": 1792922439.8524826,
+        "differences": {
+          "camera_source_stamp_s": [
+            1792922439.447,
+            1792922439.113
+          ]
+        }
+      },
+      {
+        "fusion_bag_receipt_s": 1792922559.8189259,
+        "recorded_bridge_stamp_s": 1792922559.8526945,
+        "differences": {
+          "camera_source_stamp_s": [
+            1792922559.365,
+            1792922559.098
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "run": "MISSION_20261025T101222_031804",
+    "fusion_inputs": 4763,
+    "paired_snapshots": 4748,
+    "unpaired_inputs": 15,
+    "different_snapshots": 4,
+    "mismatch_examples": [
+      {
+        "fusion_bag_receipt_s": 1792923367.9082692,
+        "recorded_bridge_stamp_s": 1792923367.952635,
+        "differences": {
+          "camera_source_stamp_s": [
+            1792923367.563,
+            1792923367.163
+          ]
+        }
+      },
+      {
+        "fusion_bag_receipt_s": 1792923427.9092224,
+        "recorded_bridge_stamp_s": 1792923427.9521623,
+        "differences": {
+          "camera_source_stamp_s": [
+            1792923427.523,
+            1792923427.323
+          ]
+        }
+      },
+      {
+        "fusion_bag_receipt_s": 1792923547.9430554,
+        "recorded_bridge_stamp_s": 1792923547.9523985,
+        "differences": {
+          "camera_source_stamp_s": [
+            1792923547.415,
+            1792923547.116
+          ]
+        }
+      },
+      {
+        "fusion_bag_receipt_s": 1792923607.9269347,
+        "recorded_bridge_stamp_s": 1792923607.9526799,
+        "differences": {
+          "camera_source_stamp_s": [
+            1792923607.541,
+            1792923607.241
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "run": "MISSION_20261025T103420_406168",
+    "fusion_inputs": 5895,
+    "paired_snapshots": 5881,
+    "unpaired_inputs": 14,
+    "different_snapshots": 3,
+    "mismatch_examples": [
+      {
+        "fusion_bag_receipt_s": 1792924563.676113,
+        "recorded_bridge_stamp_s": 1792924563.6552436,
+        "differences": {
+          "camera_source_stamp_s": [
+            1792924563.286,
+            1792924563.053
+          ]
+        }
+      },
+      {
+        "fusion_bag_receipt_s": 1792924683.7690127,
+        "recorded_bridge_stamp_s": 1792924683.756085,
+        "differences": {
+          "camera_source_stamp_s": [
+            1792924683.241,
+            1792924682.941
+          ]
+        }
+      },
+      {
+        "fusion_bag_receipt_s": 1792924983.7305737,
+        "recorded_bridge_stamp_s": 1792924983.7618392,
+        "differences": {
+          "camera_source_stamp_s": [
+            1792924983.38,
+            1792924983.113
+          ]
+        }
+      }
+    ]
+  }
+]
